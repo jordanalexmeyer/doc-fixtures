@@ -1,0 +1,68 @@
+{
+  "additionalProperties": false,
+  "description": "Schema for migrating a printed school enrolment register into structured data for reconciliation across extraction agents. Capture the printed grand total and every school-level enrolment row while preserving stable identifiers, short categorical cells, and normalized enrolment values.",
+  "properties": {
+    "grand_total_enrolment": {
+      "description": "The value cell in the Enrolment column on the standalone grand-total row after the final school row. Do not output null; remove any leading or trailing dash characters used as visual wrappers, trim surrounding whitespace, remove thousands separators, and preserve a leading less-than sign if one is printed.",
+      "type": "string"
+    },
+    "school_enrolments": {
+      "description": "One object for each body row in the school enrolment table, excluding the column-header row and excluding the standalone grand-total row. Preserve the row order exactly as printed from the first school row through the last school row.",
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "board_name": {
+            "description": "The cell under the Board Name column for this row. Do not output null; use the exact printed capitalization, collapse repeated internal whitespace to a single space, trim leading and trailing whitespace, and if the cell wraps, join the wrapped text with a single space without adding punctuation.",
+            "type": "string"
+          },
+          "board_number": {
+            "description": "The cell under the Board Number column for this row. Do not output null; transcribe the full printed code exactly, preserving letter case and leading zeros, and collapse repeated internal whitespace to a single space.",
+            "type": "string"
+          },
+          "enrolment": {
+            "description": "The cell under the Enrolment column for this row. Do not output null; remove any leading or trailing dash characters used as visual wrappers, trim surrounding whitespace, remove thousands separators, and preserve a leading less-than sign if one is printed; output the remaining value as a string, not a number.",
+            "type": "string"
+          },
+          "school_language": {
+            "description": "The cell under the School Language column for this row. Do not output null; use the exact printed capitalization, trim surrounding whitespace, and collapse repeated internal whitespace to a single space.",
+            "type": "string"
+          },
+          "school_level": {
+            "description": "The cell under the School Level column for this row. Do not output null; use the exact printed capitalization, trim surrounding whitespace, and collapse repeated internal whitespace to a single space.",
+            "type": "string"
+          },
+          "school_name": {
+            "description": "The cell under the School Name column for this row. Do not output null; use the exact printed capitalization and punctuation, collapse repeated internal whitespace to a single space, trim leading and trailing whitespace, and if the cell wraps, join the wrapped text with a single space while preserving real hyphens and apostrophes.",
+            "type": "string"
+          },
+          "school_number": {
+            "description": "The cell under the School Number column for this row. Do not output null; transcribe the full printed code exactly as digits, preserving leading zeros, and do not convert it to a number.",
+            "type": "string"
+          },
+          "school_type": {
+            "description": "The cell under the School Type column for this row. Do not output null; use the exact printed capitalization, trim surrounding whitespace, and collapse repeated internal whitespace to a single space.",
+            "type": "string"
+          }
+        },
+        "required": [
+          "board_number",
+          "board_name",
+          "school_number",
+          "school_name",
+          "school_level",
+          "school_type",
+          "school_language",
+          "enrolment"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    }
+  },
+  "required": [
+    "grand_total_enrolment",
+    "school_enrolments"
+  ],
+  "title": "School Enrolment Register Full Export Schema",
+  "type": "object"
+}

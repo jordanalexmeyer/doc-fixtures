@@ -1,0 +1,4892 @@
+{
+  "foi_request_records": [
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-001",
+      "response_issue_date": "18/01/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-002",
+      "response_issue_date": "11/01/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-003",
+      "response_issue_date": "11/01/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.22"
+      ],
+      "file_reference": "F23-004",
+      "response_issue_date": "09/01/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-005",
+      "response_issue_date": "25/01/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-006",
+      "response_issue_date": "16/01/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-007",
+      "response_issue_date": "16/01/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-008",
+      "response_issue_date": "16/01/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-009",
+      "response_issue_date": "16/01/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-010",
+      "response_issue_date": "16/01/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-011",
+      "response_issue_date": "12/01/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.12"
+      ],
+      "file_reference": "F23-012",
+      "response_issue_date": "06/02/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.24",
+        "s.31",
+        "s.40"
+      ],
+      "file_reference": "F23-013",
+      "response_issue_date": "01/02/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-014",
+      "response_issue_date": "19/01/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-015",
+      "response_issue_date": "06/02/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-016",
+      "response_issue_date": "25/01/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-017",
+      "response_issue_date": "23/01/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-018",
+      "response_issue_date": "06/02/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-019",
+      "response_issue_date": "01/02/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-020",
+      "response_issue_date": "01/02/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-021",
+      "response_issue_date": "06/02/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-022",
+      "response_issue_date": "20/01/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-023",
+      "response_issue_date": "01/02/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-024",
+      "response_issue_date": "18/01/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-025",
+      "response_issue_date": "07/02/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-026",
+      "response_issue_date": "06/02/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-027",
+      "response_issue_date": "23/01/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-028",
+      "response_issue_date": "01/02/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-029",
+      "response_issue_date": "17/01/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-030",
+      "response_issue_date": "25/01/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-031",
+      "response_issue_date": "20/01/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-032",
+      "response_issue_date": "09/02/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-033",
+      "response_issue_date": "01/02/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-034",
+      "response_issue_date": "07/02/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-035",
+      "response_issue_date": "20/01/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-036",
+      "response_issue_date": "07/02/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-037",
+      "response_issue_date": "06/02/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-038",
+      "response_issue_date": "25/01/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-039",
+      "response_issue_date": "25/01/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.40"
+      ],
+      "file_reference": "F23-040",
+      "response_issue_date": "17/02/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-041",
+      "response_issue_date": "01/02/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-042",
+      "response_issue_date": "31/01/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-043",
+      "response_issue_date": "21/02/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-044",
+      "response_issue_date": "31/01/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-045",
+      "response_issue_date": "31/01/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-046",
+      "response_issue_date": "31/01/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.43"
+      ],
+      "file_reference": "F23-047",
+      "response_issue_date": "15/02/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-048",
+      "response_issue_date": "07/02/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [
+        "s.34",
+        "s.40"
+      ],
+      "file_reference": "F23-049",
+      "response_issue_date": "15/02/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-050",
+      "response_issue_date": "20/02/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.40"
+      ],
+      "file_reference": "F23-051",
+      "response_issue_date": "10/02/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-052",
+      "response_issue_date": "31/01/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-053",
+      "response_issue_date": "06/02/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-054",
+      "response_issue_date": "07/02/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-055",
+      "response_issue_date": "31/01/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-056",
+      "response_issue_date": "16/02/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-057",
+      "response_issue_date": "06/02/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-058",
+      "response_issue_date": "01/02/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-059",
+      "response_issue_date": "07/02/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.22"
+      ],
+      "file_reference": "F23-060",
+      "response_issue_date": "15/02/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-061",
+      "response_issue_date": "07/02/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [
+        "s.22"
+      ],
+      "file_reference": "F23-062",
+      "response_issue_date": "06/02/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-063",
+      "response_issue_date": "06/02/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-064",
+      "response_issue_date": "06/02/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-065",
+      "response_issue_date": "06/02/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-066",
+      "response_issue_date": "06/02/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-067",
+      "response_issue_date": "15/02/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-068",
+      "response_issue_date": "09/02/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-069",
+      "response_issue_date": "16/02/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-070",
+      "response_issue_date": "28/02/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-071",
+      "response_issue_date": "09/02/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-072",
+      "response_issue_date": "09/02/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-073",
+      "response_issue_date": "09/02/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-074",
+      "response_issue_date": "28/02/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [
+        "s.22"
+      ],
+      "file_reference": "F23-075",
+      "response_issue_date": "09/02/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-076",
+      "response_issue_date": "22/02/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.12"
+      ],
+      "file_reference": "F23-077",
+      "response_issue_date": "28/02/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-078",
+      "response_issue_date": "01/03/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-079",
+      "response_issue_date": "08/02/2023",
+      "result": "n/a"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-080",
+      "response_issue_date": "17/02/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-081",
+      "response_issue_date": "20/02/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-082",
+      "response_issue_date": "17/02/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-083",
+      "response_issue_date": "17/02/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.24",
+        "s.31"
+      ],
+      "file_reference": "F23-084",
+      "response_issue_date": "28/02/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-085",
+      "response_issue_date": "17/02/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-086",
+      "response_issue_date": "20/02/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-087",
+      "response_issue_date": "06/03/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-088",
+      "response_issue_date": "06/03/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-089",
+      "response_issue_date": "23/02/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-090",
+      "response_issue_date": "17/02/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-091",
+      "response_issue_date": "28/02/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-092",
+      "response_issue_date": "16/02/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.24",
+        "s.31"
+      ],
+      "file_reference": "F23-093",
+      "response_issue_date": "28/02/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-094",
+      "response_issue_date": "28/02/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.22"
+      ],
+      "file_reference": "F23-095",
+      "response_issue_date": "16/02/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-096",
+      "response_issue_date": "28/02/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-097",
+      "response_issue_date": "28/02/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-098",
+      "response_issue_date": "06/03/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-099",
+      "response_issue_date": "28/02/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-100",
+      "response_issue_date": "08/03/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.24",
+        "s.31"
+      ],
+      "file_reference": "F23-101",
+      "response_issue_date": "22/03/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.40"
+      ],
+      "file_reference": "F23-102",
+      "response_issue_date": "21/03/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-103",
+      "response_issue_date": "28/02/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.21",
+        "s.34"
+      ],
+      "file_reference": "F23-104",
+      "response_issue_date": "06/03/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-105",
+      "response_issue_date": "06/03/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-106",
+      "response_issue_date": "06/03/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-107",
+      "response_issue_date": "06/03/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-108",
+      "response_issue_date": "06/03/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-109",
+      "response_issue_date": "27/02/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-110",
+      "response_issue_date": "06/03/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.34",
+        "s.40"
+      ],
+      "file_reference": "F23-111",
+      "response_issue_date": "28/03/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-112",
+      "response_issue_date": "06/03/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-113",
+      "response_issue_date": "06/03/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-114",
+      "response_issue_date": "06/03/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-115",
+      "response_issue_date": "06/03/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-116",
+      "response_issue_date": "06/03/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-117",
+      "response_issue_date": "03/03/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-118",
+      "response_issue_date": "21/03/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-119",
+      "response_issue_date": "08/03/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.31",
+        "s.43"
+      ],
+      "file_reference": "F23-120",
+      "response_issue_date": "13/03/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-121",
+      "response_issue_date": "16/03/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-122",
+      "response_issue_date": "15/03/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [
+        "s.40",
+        "s.42",
+        "s.43"
+      ],
+      "file_reference": "F23-123",
+      "response_issue_date": "03/04/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-124",
+      "response_issue_date": "13/03/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-125",
+      "response_issue_date": "08/03/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-126",
+      "response_issue_date": "21/03/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-127",
+      "response_issue_date": "21/03/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-128",
+      "response_issue_date": "15/03/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.12",
+        "s.24",
+        "s.31"
+      ],
+      "file_reference": "F23-129",
+      "response_issue_date": "21/03/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.22"
+      ],
+      "file_reference": "F23-130",
+      "response_issue_date": "13/03/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-131",
+      "response_issue_date": "21/03/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-132",
+      "response_issue_date": "22/03/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.24",
+        "s.31",
+        "s.38",
+        "s.40"
+      ],
+      "file_reference": "F23-133",
+      "response_issue_date": "20/03/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-134",
+      "response_issue_date": "28/03/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-135",
+      "response_issue_date": "21/03/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-136",
+      "response_issue_date": "16/03/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.12"
+      ],
+      "file_reference": "F23-137",
+      "response_issue_date": "28/03/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-138",
+      "response_issue_date": "21/03/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-139",
+      "response_issue_date": "30/03/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-140",
+      "response_issue_date": "21/03/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-141",
+      "response_issue_date": "05/04/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-142",
+      "response_issue_date": "16/03/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-143",
+      "response_issue_date": "24/03/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-144",
+      "response_issue_date": "27/03/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-145",
+      "response_issue_date": "18/04/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [
+        "s.24",
+        "s.31",
+        "s.40"
+      ],
+      "file_reference": "F23-146",
+      "response_issue_date": "18/04/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-147",
+      "response_issue_date": "30/03/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-148",
+      "response_issue_date": "23/03/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-149",
+      "response_issue_date": "27/03/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-150",
+      "response_issue_date": "20/04/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [
+        "s.34",
+        "s.40"
+      ],
+      "file_reference": "F23-151",
+      "response_issue_date": "30/03/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-152",
+      "response_issue_date": "28/03/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-153",
+      "response_issue_date": "24/03/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.14",
+        "s.21",
+        "s.22",
+        "s.34",
+        "s.40"
+      ],
+      "file_reference": "F23-154",
+      "response_issue_date": "19/04/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-155",
+      "response_issue_date": "21/03/2023",
+      "result": "WITHDRAWN"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-156",
+      "response_issue_date": "03/04/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-157",
+      "response_issue_date": "24/03/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.24",
+        "s.31"
+      ],
+      "file_reference": "F23-158",
+      "response_issue_date": "24/04/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.24",
+        "s.31"
+      ],
+      "file_reference": "F23-159",
+      "response_issue_date": "24/04/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-160",
+      "response_issue_date": "27/03/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.21",
+        "s.34"
+      ],
+      "file_reference": "F23-161",
+      "response_issue_date": "28/03/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.40"
+      ],
+      "file_reference": "F23-162",
+      "response_issue_date": "05/05/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-163",
+      "response_issue_date": "05/04/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [
+        "s.21",
+        "s.34"
+      ],
+      "file_reference": "F23-164",
+      "response_issue_date": "30/03/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-165",
+      "response_issue_date": "25/04/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-166",
+      "response_issue_date": "05/04/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s43"
+      ],
+      "file_reference": "F23-167",
+      "response_issue_date": "17/04/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.24",
+        "s.38"
+      ],
+      "file_reference": "F23-168",
+      "response_issue_date": "26/04/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.24",
+        "s.31"
+      ],
+      "file_reference": "F23-169",
+      "response_issue_date": "24/04/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21",
+        "s.22"
+      ],
+      "file_reference": "F23-170",
+      "response_issue_date": "04/04/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-171",
+      "response_issue_date": "18/04/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-172",
+      "response_issue_date": "06/04/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-173",
+      "response_issue_date": "24/04/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-174",
+      "response_issue_date": "18/04/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-175",
+      "response_issue_date": "11/04/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-176",
+      "response_issue_date": "05/04/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-177",
+      "response_issue_date": "18/04/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-178",
+      "response_issue_date": "03/05/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-179",
+      "response_issue_date": "18/04/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.24",
+        "s.31"
+      ],
+      "file_reference": "F23-180",
+      "response_issue_date": "24/04/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-181",
+      "response_issue_date": "17/04/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.24",
+        "s.31",
+        "s.38"
+      ],
+      "file_reference": "F23-182",
+      "response_issue_date": "04/05/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-183",
+      "response_issue_date": "17/04/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-184",
+      "response_issue_date": "20/04/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-185",
+      "response_issue_date": "21/04/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-186",
+      "response_issue_date": "26/04/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-187",
+      "response_issue_date": "02/05/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-188",
+      "response_issue_date": "18/04/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-189",
+      "response_issue_date": "02/05/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-190",
+      "response_issue_date": "18/04/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-191",
+      "response_issue_date": "10/05/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-192",
+      "response_issue_date": "25/04/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-193",
+      "response_issue_date": "21/04/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-194",
+      "response_issue_date": "20/04/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-195",
+      "response_issue_date": "09/05/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.43"
+      ],
+      "file_reference": "F23-196",
+      "response_issue_date": "20/04/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-197",
+      "response_issue_date": "17/04/2023",
+      "result": "n/a"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-198",
+      "response_issue_date": "20/04/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-199",
+      "response_issue_date": "24/04/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21",
+        "s.24",
+        "s.31",
+        "s.38",
+        "s.40"
+      ],
+      "file_reference": "F23-200",
+      "response_issue_date": "09/05/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-201",
+      "response_issue_date": "17/05/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-202",
+      "response_issue_date": "16/05/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [
+        "s.24",
+        "s.31",
+        "s.38",
+        "s.40"
+      ],
+      "file_reference": "F23-203",
+      "response_issue_date": "18/05/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-204",
+      "response_issue_date": "15/05/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [
+        "s.24",
+        "s.31",
+        "s.38",
+        "s.40"
+      ],
+      "file_reference": "F23-205",
+      "response_issue_date": "09/05/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s21"
+      ],
+      "file_reference": "F23-206",
+      "response_issue_date": "21/04/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-207",
+      "response_issue_date": "19/04/2023",
+      "result": "WITHDRAWN"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-208",
+      "response_issue_date": "25/04/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-209",
+      "response_issue_date": "15/05/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-210",
+      "response_issue_date": "26/04/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-211",
+      "response_issue_date": "28/04/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-212",
+      "response_issue_date": "26/04/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-213",
+      "response_issue_date": "28/04/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-214",
+      "response_issue_date": "15/05/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-215",
+      "response_issue_date": "15/05/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-216",
+      "response_issue_date": "02/05/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-217",
+      "response_issue_date": "09/05/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-218",
+      "response_issue_date": "05/05/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.24",
+        "s.31",
+        "s.38",
+        "s.40"
+      ],
+      "file_reference": "F23-219",
+      "response_issue_date": "24/05/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.12"
+      ],
+      "file_reference": "F23-220",
+      "response_issue_date": "11/05/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-221",
+      "response_issue_date": "10/05/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [
+        "s.24",
+        "s.31"
+      ],
+      "file_reference": "F23-222",
+      "response_issue_date": "22/05/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-223",
+      "response_issue_date": "15/05/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-224",
+      "response_issue_date": "16/05/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-225",
+      "response_issue_date": "10/05/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-226",
+      "response_issue_date": "05/05/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-227",
+      "response_issue_date": "10/05/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.24",
+        "s.31",
+        "s.38",
+        "s.40"
+      ],
+      "file_reference": "F23-228",
+      "response_issue_date": "15/05/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21",
+        "s.22"
+      ],
+      "file_reference": "F23-229",
+      "response_issue_date": "31/05/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-230",
+      "response_issue_date": "15/05/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-231",
+      "response_issue_date": "15/05/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.24",
+        "s.31"
+      ],
+      "file_reference": "F23-232",
+      "response_issue_date": "30/05/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s22"
+      ],
+      "file_reference": "F23-233",
+      "response_issue_date": "15/05/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-234",
+      "response_issue_date": "15/05/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-235",
+      "response_issue_date": "24/05/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-236",
+      "response_issue_date": "15/05/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-237",
+      "response_issue_date": "16/05/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-238",
+      "response_issue_date": "05/05/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-239",
+      "response_issue_date": "15/05/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-240",
+      "response_issue_date": "10/05/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-241",
+      "response_issue_date": "19/06/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-242",
+      "response_issue_date": "11/05/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-243",
+      "response_issue_date": "05/05/2023",
+      "result": "n/a"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-244",
+      "response_issue_date": "24/05/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s22"
+      ],
+      "file_reference": "F23-245",
+      "response_issue_date": "16/05/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-246",
+      "response_issue_date": "15/05/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-247",
+      "response_issue_date": "15/05/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-248",
+      "response_issue_date": "19/05/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-249",
+      "response_issue_date": "17/05/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [
+        "s.21",
+        "s.22"
+      ],
+      "file_reference": "F23-250",
+      "response_issue_date": "31/05/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s24",
+        "s31"
+      ],
+      "file_reference": "F23-251",
+      "response_issue_date": "19/05/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-252",
+      "response_issue_date": "22/05/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-253",
+      "response_issue_date": "31/05/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-254",
+      "response_issue_date": "24/05/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s12"
+      ],
+      "file_reference": "F23-255",
+      "response_issue_date": "22/05/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s21"
+      ],
+      "file_reference": "F23-256",
+      "response_issue_date": "19/05/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.24",
+        "s.31",
+        "s.38"
+      ],
+      "file_reference": "F23-257",
+      "response_issue_date": "06/06/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-258",
+      "response_issue_date": "24/05/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-259",
+      "response_issue_date": "19/05/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.24",
+        "s.31"
+      ],
+      "file_reference": "F23-260",
+      "response_issue_date": "30/05/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.24",
+        "s.31",
+        "s.40"
+      ],
+      "file_reference": "F23-261",
+      "response_issue_date": "12/06/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-262",
+      "response_issue_date": "31/05/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-263",
+      "response_issue_date": "22/05/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.40"
+      ],
+      "file_reference": "F23-264",
+      "response_issue_date": "31/05/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-265",
+      "response_issue_date": "19/05/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-266",
+      "response_issue_date": "19/05/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-267",
+      "response_issue_date": "30/05/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-268",
+      "response_issue_date": "30/05/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-269",
+      "response_issue_date": "30/05/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-270",
+      "response_issue_date": "22/05/2023",
+      "result": "n/a"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-271",
+      "response_issue_date": "19/06/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-272",
+      "response_issue_date": "31/05/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [
+        "s22",
+        "s34"
+      ],
+      "file_reference": "F23-273",
+      "response_issue_date": "19/06/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-274",
+      "response_issue_date": "19/06/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-275",
+      "response_issue_date": "24/05/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-276",
+      "response_issue_date": "07/06/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-277",
+      "response_issue_date": "13/06/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-278",
+      "response_issue_date": "24/05/2023",
+      "result": "n/a"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-279",
+      "response_issue_date": "19/06/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.40"
+      ],
+      "file_reference": "F23-280",
+      "response_issue_date": "13/06/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-281",
+      "response_issue_date": "31/05/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.21",
+        "s.40"
+      ],
+      "file_reference": "F23-282",
+      "response_issue_date": "19/06/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-283",
+      "response_issue_date": "30/05/2023",
+      "result": "n/a"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-284",
+      "response_issue_date": "02/06/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-285",
+      "response_issue_date": "27/06/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-286",
+      "response_issue_date": "14/06/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-287",
+      "response_issue_date": "02/06/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-288",
+      "response_issue_date": "14/06/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-289",
+      "response_issue_date": "15/06/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-290",
+      "response_issue_date": "07/06/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-291",
+      "response_issue_date": "12/06/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-292",
+      "response_issue_date": "05/06/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.21",
+        "s.22"
+      ],
+      "file_reference": "F23-293",
+      "response_issue_date": "22/06/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-294",
+      "response_issue_date": "12/06/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s43"
+      ],
+      "file_reference": "F23-295",
+      "response_issue_date": "19/06/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s21",
+        "s22"
+      ],
+      "file_reference": "F23-296",
+      "response_issue_date": "26/06/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.24",
+        "s.31"
+      ],
+      "file_reference": "F23-297",
+      "response_issue_date": "27/06/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-298",
+      "response_issue_date": "19/06/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-299",
+      "response_issue_date": "20/06/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21",
+        "s.22"
+      ],
+      "file_reference": "F23-300",
+      "response_issue_date": "14/06/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.24",
+        "s.31",
+        "s.38"
+      ],
+      "file_reference": "F23-301",
+      "response_issue_date": "03/07/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-302",
+      "response_issue_date": "12/06/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-303",
+      "response_issue_date": "12/06/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-304",
+      "response_issue_date": "26/06/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-305",
+      "response_issue_date": "05/07/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-306",
+      "response_issue_date": "26/06/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [
+        "s.24",
+        "s.31"
+      ],
+      "file_reference": "F23-307",
+      "response_issue_date": "27/06/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-308",
+      "response_issue_date": "28/06/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [
+        "s.12"
+      ],
+      "file_reference": "F23-309",
+      "response_issue_date": "11/07/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.12",
+        "s.40"
+      ],
+      "file_reference": "F23-310",
+      "response_issue_date": "29/06/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-311",
+      "response_issue_date": "21/06/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [
+        "s.21",
+        "s.34"
+      ],
+      "file_reference": "F23-312",
+      "response_issue_date": "27/06/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-313",
+      "response_issue_date": "05/07/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-314",
+      "response_issue_date": "15/06/2023",
+      "result": "n/a"
+    },
+    {
+      "exemption_sections": [
+        "s.24",
+        "s.31",
+        "s.38"
+      ],
+      "file_reference": "F23-315",
+      "response_issue_date": "11/07/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-316",
+      "response_issue_date": "27/06/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-317",
+      "response_issue_date": "29/06/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-318",
+      "response_issue_date": "11/07/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-319",
+      "response_issue_date": "29/06/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-320",
+      "response_issue_date": "17/07/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-321",
+      "response_issue_date": "27/06/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-322",
+      "response_issue_date": "27/06/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-323",
+      "response_issue_date": "28/06/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.12"
+      ],
+      "file_reference": "F23-324",
+      "response_issue_date": "17/07/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-325",
+      "response_issue_date": "27/06/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.24",
+        "s.31",
+        "s.38"
+      ],
+      "file_reference": "F23-326",
+      "response_issue_date": "12/07/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-327",
+      "response_issue_date": "29/06/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.12"
+      ],
+      "file_reference": "F23-328",
+      "response_issue_date": "24/07/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21",
+        "s.22"
+      ],
+      "file_reference": "F23-329",
+      "response_issue_date": "04/07/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-330",
+      "response_issue_date": "24/07/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-331",
+      "response_issue_date": "04/07/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-332",
+      "response_issue_date": "25/07/2023",
+      "result": "Fully disclosed (where held)"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-333",
+      "response_issue_date": "24/07/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-334",
+      "response_issue_date": "24/07/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-335",
+      "response_issue_date": "25/07/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-336",
+      "response_issue_date": "12/07/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-337",
+      "response_issue_date": "11/07/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [
+        "s.22",
+        "s.40"
+      ],
+      "file_reference": "F23-338",
+      "response_issue_date": "25/07/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.14"
+      ],
+      "file_reference": "F23-339",
+      "response_issue_date": "19/07/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-340",
+      "response_issue_date": "03/07/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-341",
+      "response_issue_date": "11/07/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-342",
+      "response_issue_date": "07/07/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.14"
+      ],
+      "file_reference": "F23-343",
+      "response_issue_date": "03/07/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-344",
+      "response_issue_date": "11/07/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-345",
+      "response_issue_date": "07/07/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-346",
+      "response_issue_date": "28/07/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-347",
+      "response_issue_date": "03/07/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-348",
+      "response_issue_date": "11/07/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-349",
+      "response_issue_date": "28/07/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-350",
+      "response_issue_date": "25/07/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-351",
+      "response_issue_date": "24/07/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-352",
+      "response_issue_date": "03/07/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-353",
+      "response_issue_date": "31/07/2023",
+      "result": "CLOSED - No clarification"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-354",
+      "response_issue_date": "11/07/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-355",
+      "response_issue_date": "13/07/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-356",
+      "response_issue_date": "01/08/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-357",
+      "response_issue_date": "24/07/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-358",
+      "response_issue_date": "11/07/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-359",
+      "response_issue_date": "11/07/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.21",
+        "s.22",
+        "s.40"
+      ],
+      "file_reference": "F23-360",
+      "response_issue_date": "02/08/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-361",
+      "response_issue_date": "11/07/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-362",
+      "response_issue_date": "11/07/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-363",
+      "response_issue_date": "21/07/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.21",
+        "s.22"
+      ],
+      "file_reference": "F23-364",
+      "response_issue_date": "26/07/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-365",
+      "response_issue_date": "25/07/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-366",
+      "response_issue_date": "21/07/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [
+        "s.14"
+      ],
+      "file_reference": "F23-367",
+      "response_issue_date": "25/07/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-368",
+      "response_issue_date": "11/07/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [
+        "s.21",
+        "s.34"
+      ],
+      "file_reference": "F23-369",
+      "response_issue_date": "17/07/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-370",
+      "response_issue_date": "11/07/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-371",
+      "response_issue_date": "03/08/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-372",
+      "response_issue_date": "13/07/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-373",
+      "response_issue_date": "21/07/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-374",
+      "response_issue_date": "11/07/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-375",
+      "response_issue_date": "28/07/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.24",
+        "s.31",
+        "s.38",
+        "s.40"
+      ],
+      "file_reference": "F23-376",
+      "response_issue_date": "07/08/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-377",
+      "response_issue_date": "21/07/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-378",
+      "response_issue_date": "25/07/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-379",
+      "response_issue_date": "02/08/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-380",
+      "response_issue_date": "13/07/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-381",
+      "response_issue_date": "25/07/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [
+        "s.24",
+        "s.31"
+      ],
+      "file_reference": "F23-382",
+      "response_issue_date": "25/07/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-383",
+      "response_issue_date": "09/08/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-384",
+      "response_issue_date": "25/07/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-385",
+      "response_issue_date": "21/07/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-386",
+      "response_issue_date": "02/08/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-387",
+      "response_issue_date": "02/08/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-388",
+      "response_issue_date": "11/08/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-389",
+      "response_issue_date": "03/08/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-390",
+      "response_issue_date": "09/08/2023",
+      "result": null
+    },
+    {
+      "exemption_sections": [
+        "s.40"
+      ],
+      "file_reference": "F23-391",
+      "response_issue_date": "11/08/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.24",
+        "s.31",
+        "s.38"
+      ],
+      "file_reference": "F23-392",
+      "response_issue_date": "14/08/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-393",
+      "response_issue_date": "21/07/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.14(2)"
+      ],
+      "file_reference": "F23-394",
+      "response_issue_date": "21/07/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.24",
+        "s.31",
+        "s.40"
+      ],
+      "file_reference": "F23-395",
+      "response_issue_date": "25/07/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-396",
+      "response_issue_date": "26/07/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-397",
+      "response_issue_date": "14/08/2023",
+      "result": "CLOSED - No clarification"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-398",
+      "response_issue_date": "15/08/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-399",
+      "response_issue_date": "21/07/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-400",
+      "response_issue_date": "21/07/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-401",
+      "response_issue_date": "21/07/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-402",
+      "response_issue_date": "25/07/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-403",
+      "response_issue_date": "26/07/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-404",
+      "response_issue_date": "14/08/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-405",
+      "response_issue_date": "10/08/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-406",
+      "response_issue_date": "26/07/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.14"
+      ],
+      "file_reference": "F23-407",
+      "response_issue_date": "25/07/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-408",
+      "response_issue_date": "14/08/2023",
+      "result": null
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-409",
+      "response_issue_date": "26/07/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-410",
+      "response_issue_date": "21/08/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-411",
+      "response_issue_date": "14/08/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-412",
+      "response_issue_date": "26/07/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-413",
+      "response_issue_date": "14/08/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-414",
+      "response_issue_date": "01/08/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-415",
+      "response_issue_date": "31/07/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-416",
+      "response_issue_date": "21/08/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-417",
+      "response_issue_date": "15/08/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-418",
+      "response_issue_date": "15/08/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-419",
+      "response_issue_date": "21/08/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.22"
+      ],
+      "file_reference": "F23-420",
+      "response_issue_date": "15/08/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.24",
+        "s.31"
+      ],
+      "file_reference": "F23-421",
+      "response_issue_date": "29/08/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-422",
+      "response_issue_date": "14/08/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-423",
+      "response_issue_date": "15/08/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.40"
+      ],
+      "file_reference": "F23-424",
+      "response_issue_date": "22/08/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21",
+        "s.34"
+      ],
+      "file_reference": "F23-425",
+      "response_issue_date": "22/08/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-426",
+      "response_issue_date": "08/08/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-427",
+      "response_issue_date": "16/08/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-428",
+      "response_issue_date": "22/08/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-429",
+      "response_issue_date": "21/08/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-430",
+      "response_issue_date": "22/08/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-431",
+      "response_issue_date": "04/09/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-432",
+      "response_issue_date": "21/08/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-433",
+      "response_issue_date": "21/08/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-434",
+      "response_issue_date": "08/08/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-435",
+      "response_issue_date": "22/08/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-436",
+      "response_issue_date": "09/08/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.36"
+      ],
+      "file_reference": "F23-437",
+      "response_issue_date": "27/09/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-438",
+      "response_issue_date": "15/08/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-439",
+      "response_issue_date": "22/08/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21",
+        "s.24",
+        "s.31",
+        "s.34",
+        "s.36",
+        "s.38",
+        "s.40"
+      ],
+      "file_reference": "F23-440",
+      "response_issue_date": "10/10/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.40"
+      ],
+      "file_reference": "F23-441",
+      "response_issue_date": "04/09/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-442",
+      "response_issue_date": "21/08/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-443",
+      "response_issue_date": "18/08/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-444",
+      "response_issue_date": "22/08/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-445",
+      "response_issue_date": "17/08/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-446",
+      "response_issue_date": "22/08/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s14",
+        "s34"
+      ],
+      "file_reference": "F23-447",
+      "response_issue_date": "06/09/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21",
+        "s.34"
+      ],
+      "file_reference": "F23-448",
+      "response_issue_date": "22/08/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-449",
+      "response_issue_date": "23/08/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-450",
+      "response_issue_date": "22/08/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-451",
+      "response_issue_date": "23/08/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-452",
+      "response_issue_date": "06/09/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s14",
+        "s34"
+      ],
+      "file_reference": "F23-453",
+      "response_issue_date": "06/09/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-454",
+      "response_issue_date": "11/09/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-455",
+      "response_issue_date": "23/08/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-456",
+      "response_issue_date": "08/09/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-457",
+      "response_issue_date": "04/09/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-458",
+      "response_issue_date": "06/09/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-459",
+      "response_issue_date": "04/09/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-460",
+      "response_issue_date": "07/09/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-461",
+      "response_issue_date": "18/09/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-462",
+      "response_issue_date": "29/08/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-463",
+      "response_issue_date": "19/09/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-464",
+      "response_issue_date": "01/09/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-465",
+      "response_issue_date": "13/09/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [
+        "s.12"
+      ],
+      "file_reference": "F23-466",
+      "response_issue_date": "19/09/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-467",
+      "response_issue_date": "24/08/2023",
+      "result": "n/a"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-468",
+      "response_issue_date": "01/09/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-469",
+      "response_issue_date": "13/09/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-470",
+      "response_issue_date": "04/09/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-471",
+      "response_issue_date": "20/09/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21",
+        "s.22"
+      ],
+      "file_reference": "F23-472",
+      "response_issue_date": "18/09/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-473",
+      "response_issue_date": "13/09/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-474",
+      "response_issue_date": "07/09/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-475",
+      "response_issue_date": "29/09/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-476",
+      "response_issue_date": "12/09/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-477",
+      "response_issue_date": "25/09/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-478",
+      "response_issue_date": "07/09/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-479",
+      "response_issue_date": "29/09/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.14(2)"
+      ],
+      "file_reference": "F23-480",
+      "response_issue_date": "18/09/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-481",
+      "response_issue_date": "18/09/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-482",
+      "response_issue_date": "12/09/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-483",
+      "response_issue_date": "29/09/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-484",
+      "response_issue_date": "14/09/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-485",
+      "response_issue_date": "22/09/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-486",
+      "response_issue_date": "14/09/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-487",
+      "response_issue_date": "02/10/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-488",
+      "response_issue_date": "02/10/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-489",
+      "response_issue_date": "26/09/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-490",
+      "response_issue_date": "02/10/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-491",
+      "response_issue_date": "09/10/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [
+        "s.24",
+        "s.31"
+      ],
+      "file_reference": "F23-492",
+      "response_issue_date": "04/10/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-493",
+      "response_issue_date": "02/10/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-494",
+      "response_issue_date": "18/09/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-495",
+      "response_issue_date": "22/09/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-496",
+      "response_issue_date": "10/10/2023",
+      "result": "CLOSED - No clarification received"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-497",
+      "response_issue_date": "10/10/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-498",
+      "response_issue_date": "18/09/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-499",
+      "response_issue_date": "06/10/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.12",
+        "s.21",
+        "s.24",
+        "s.31.",
+        "s.38",
+        "s.40",
+        "s.43"
+      ],
+      "file_reference": "F23-500",
+      "response_issue_date": "24/11/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-501",
+      "response_issue_date": "11/10/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-502",
+      "response_issue_date": "02/10/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-503",
+      "response_issue_date": "04/10/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-504",
+      "response_issue_date": "02/10/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-505",
+      "response_issue_date": "22/09/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-506",
+      "response_issue_date": "26/09/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-507",
+      "response_issue_date": "16/10/2023",
+      "result": "Partly exempt"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-508",
+      "response_issue_date": "26/09/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-509",
+      "response_issue_date": "22/09/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-510",
+      "response_issue_date": "02/10/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-511",
+      "response_issue_date": "16/10/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-512",
+      "response_issue_date": "26/09/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-513",
+      "response_issue_date": "06/10/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [
+        "s.21",
+        "s.34"
+      ],
+      "file_reference": "F23-514",
+      "response_issue_date": "04/10/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-515",
+      "response_issue_date": "11/10/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.21",
+        "s.34"
+      ],
+      "file_reference": "F23-516",
+      "response_issue_date": "04/10/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.34",
+        "s.42"
+      ],
+      "file_reference": "F23-517",
+      "response_issue_date": "05/10/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-518",
+      "response_issue_date": "16/10/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-519",
+      "response_issue_date": "13/10/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-520",
+      "response_issue_date": "04/10/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-521",
+      "response_issue_date": "04/10/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-522",
+      "response_issue_date": "04/10/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21",
+        "s.34"
+      ],
+      "file_reference": "F23-523",
+      "response_issue_date": "04/10/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21",
+        "s.34"
+      ],
+      "file_reference": "F23-524",
+      "response_issue_date": "04/10/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-525",
+      "response_issue_date": "04/10/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-526",
+      "response_issue_date": "04/10/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-527",
+      "response_issue_date": "04/10/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-528",
+      "response_issue_date": "04/10/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-529",
+      "response_issue_date": "04/10/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-530",
+      "response_issue_date": "04/10/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-531",
+      "response_issue_date": "13/10/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-532",
+      "response_issue_date": "06/11/2023",
+      "result": "Partially disclosed (where held)"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-533",
+      "response_issue_date": "23/10/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-534",
+      "response_issue_date": "02/10/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21",
+        "s.34"
+      ],
+      "file_reference": "F23-535",
+      "response_issue_date": "04/10/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.14(2)"
+      ],
+      "file_reference": "F23-536",
+      "response_issue_date": "26/09/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-537",
+      "response_issue_date": "04/10/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-538",
+      "response_issue_date": "04/10/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-539",
+      "response_issue_date": "23/10/2023",
+      "result": "Partially disclosed (where held)"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-540",
+      "response_issue_date": "02/10/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.21",
+        "s.34"
+      ],
+      "file_reference": "F23-541",
+      "response_issue_date": "04/10/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.34",
+        "s.42"
+      ],
+      "file_reference": "F23-542",
+      "response_issue_date": "05/10/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-543",
+      "response_issue_date": "13/10/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-544",
+      "response_issue_date": "25/10/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-545",
+      "response_issue_date": "25/10/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.43"
+      ],
+      "file_reference": "F23-546",
+      "response_issue_date": "25/10/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21",
+        "s.34"
+      ],
+      "file_reference": "F23-547",
+      "response_issue_date": "04/10/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-548",
+      "response_issue_date": "31/10/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21",
+        "s.34"
+      ],
+      "file_reference": "F23-549",
+      "response_issue_date": "23/10/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.40"
+      ],
+      "file_reference": "F23-550",
+      "response_issue_date": "25/10/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-551",
+      "response_issue_date": "23/10/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-552",
+      "response_issue_date": "03/10/2023",
+      "result": "n/a"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-553",
+      "response_issue_date": "31/10/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-554",
+      "response_issue_date": "10/10/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-555",
+      "response_issue_date": "06/10/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-556",
+      "response_issue_date": "25/10/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-557",
+      "response_issue_date": "24/10/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-558",
+      "response_issue_date": "24/10/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-559",
+      "response_issue_date": "13/10/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-560",
+      "response_issue_date": "24/10/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-561",
+      "response_issue_date": "25/10/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.12",
+        "s.43"
+      ],
+      "file_reference": "F23-562",
+      "response_issue_date": "08/11/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-563",
+      "response_issue_date": "27/10/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-564",
+      "response_issue_date": "23/10/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-565",
+      "response_issue_date": "07/11/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-566",
+      "response_issue_date": "23/10/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.40"
+      ],
+      "file_reference": "F23-567",
+      "response_issue_date": "13/11/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-568",
+      "response_issue_date": "17/10/2023",
+      "result": "n/a"
+    },
+    {
+      "exemption_sections": [
+        "s.22",
+        "s.38",
+        "s.40"
+      ],
+      "file_reference": "F23-569",
+      "response_issue_date": "29/11/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21",
+        "s.40"
+      ],
+      "file_reference": "F23-570",
+      "response_issue_date": "13/11/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-571",
+      "response_issue_date": "24/10/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-572",
+      "response_issue_date": "08/11/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-573",
+      "response_issue_date": "06/11/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.40",
+        "s.43"
+      ],
+      "file_reference": "F23-574",
+      "response_issue_date": "16/11/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-575",
+      "response_issue_date": "27/10/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-576",
+      "response_issue_date": "27/10/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.24",
+        "s.31",
+        "s.38"
+      ],
+      "file_reference": "F23-577",
+      "response_issue_date": "20/11/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-578",
+      "response_issue_date": "08/11/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-579",
+      "response_issue_date": "03/11/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-580",
+      "response_issue_date": "15/11/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-581",
+      "response_issue_date": "14/11/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-582",
+      "response_issue_date": "14/11/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-583",
+      "response_issue_date": "08/11/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-584",
+      "response_issue_date": "14/11/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.43"
+      ],
+      "file_reference": "F23-585",
+      "response_issue_date": "22/11/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.12"
+      ],
+      "file_reference": "F23-586",
+      "response_issue_date": "23/11/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-587",
+      "response_issue_date": "14/11/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-588",
+      "response_issue_date": "15/11/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-589",
+      "response_issue_date": "20/11/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-590",
+      "response_issue_date": "13/11/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-591",
+      "response_issue_date": "20/11/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-592",
+      "response_issue_date": "08/11/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [
+        "s.40"
+      ],
+      "file_reference": "F23-593",
+      "response_issue_date": "22/11/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-594",
+      "response_issue_date": "13/11/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.21",
+        "s.22"
+      ],
+      "file_reference": "F23-595",
+      "response_issue_date": "22/11/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-596",
+      "response_issue_date": "15/11/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [
+        "s.21",
+        "s.22",
+        "s.34"
+      ],
+      "file_reference": "F23-597",
+      "response_issue_date": "29/11/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-598",
+      "response_issue_date": "27/11/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [
+        "s.43"
+      ],
+      "file_reference": "F23-599",
+      "response_issue_date": "29/11/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-600",
+      "response_issue_date": "13/11/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-601",
+      "response_issue_date": "13/11/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-602",
+      "response_issue_date": "15/11/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-603",
+      "response_issue_date": "30/11/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-604",
+      "response_issue_date": "13/11/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-605",
+      "response_issue_date": "28/11/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-606",
+      "response_issue_date": "04/12/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-607",
+      "response_issue_date": "04/12/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-608",
+      "response_issue_date": "29/11/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-609",
+      "response_issue_date": "29/11/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-610",
+      "response_issue_date": "09/11/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.22"
+      ],
+      "file_reference": "F23-611",
+      "response_issue_date": "09/11/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-612",
+      "response_issue_date": "23/11/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-613",
+      "response_issue_date": "04/12/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-614",
+      "response_issue_date": "10/11/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-615",
+      "response_issue_date": "11/12/2023",
+      "result": null
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-616",
+      "response_issue_date": "24/11/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.22",
+        "s.34"
+      ],
+      "file_reference": "F23-617",
+      "response_issue_date": "11/12/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-618",
+      "response_issue_date": "28/11/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21",
+        "s.22"
+      ],
+      "file_reference": "F23-619",
+      "response_issue_date": "12/12/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-620",
+      "response_issue_date": "27/11/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-621",
+      "response_issue_date": "11/12/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-622",
+      "response_issue_date": "24/11/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-623",
+      "response_issue_date": "29/11/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-624",
+      "response_issue_date": "06/12/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-625",
+      "response_issue_date": "14/12/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-626",
+      "response_issue_date": "29/11/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.24",
+        "s.31",
+        "s.38",
+        "s.40"
+      ],
+      "file_reference": "F23-627",
+      "response_issue_date": "18/12/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.24",
+        "s.31",
+        "s.38"
+      ],
+      "file_reference": "F23-628",
+      "response_issue_date": "19/12/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-629",
+      "response_issue_date": "19/12/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-630",
+      "response_issue_date": "28/11/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.12"
+      ],
+      "file_reference": "F23-631",
+      "response_issue_date": "27/11/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.14",
+        "s.21"
+      ],
+      "file_reference": "F23-632",
+      "response_issue_date": "19/12/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.40"
+      ],
+      "file_reference": "F23-633",
+      "response_issue_date": "18/12/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-634",
+      "response_issue_date": "14/12/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-635",
+      "response_issue_date": "05/12/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-636",
+      "response_issue_date": "08/12/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-637",
+      "response_issue_date": "22/12/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-638",
+      "response_issue_date": "28/11/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-639",
+      "response_issue_date": "12/12/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.40"
+      ],
+      "file_reference": "F23-640",
+      "response_issue_date": "18/12/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.24",
+        "s.31",
+        "s.38"
+      ],
+      "file_reference": "F23-641",
+      "response_issue_date": "22/12/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-642",
+      "response_issue_date": "18/12/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-643",
+      "response_issue_date": "19/12/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-644",
+      "response_issue_date": "06/12/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21",
+        "s.40"
+      ],
+      "file_reference": "F23-645",
+      "response_issue_date": "21/12/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-646",
+      "response_issue_date": "06/12/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-647",
+      "response_issue_date": "21/12/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-648",
+      "response_issue_date": "06/12/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-649",
+      "response_issue_date": "19/12/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-650",
+      "response_issue_date": "12/12/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-651",
+      "response_issue_date": "12/12/2023",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-652",
+      "response_issue_date": "12/12/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.40"
+      ],
+      "file_reference": "F23-653",
+      "response_issue_date": "18/12/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-654",
+      "response_issue_date": "06/12/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-655",
+      "response_issue_date": "08/01/2024",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.40"
+      ],
+      "file_reference": "F23-656",
+      "response_issue_date": "08/01/2024",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-657",
+      "response_issue_date": "14/12/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-658",
+      "response_issue_date": "12/12/2023",
+      "result": "Partly disclosed (where held)"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-659",
+      "response_issue_date": "14/12/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21",
+        "s.34"
+      ],
+      "file_reference": "F23-660",
+      "response_issue_date": "13/12/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-661",
+      "response_issue_date": "09/01/2024",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-662",
+      "response_issue_date": "12/12/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-663",
+      "response_issue_date": "08/01/2024",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-664",
+      "response_issue_date": "10/01/2024",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [
+        "s.21",
+        "s.22"
+      ],
+      "file_reference": "F23-665",
+      "response_issue_date": "08/01/2024",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21",
+        "s.22",
+        "s.34"
+      ],
+      "file_reference": "F23-666",
+      "response_issue_date": "20/12/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-667",
+      "response_issue_date": "09/01/2024",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.22"
+      ],
+      "file_reference": "F23-668",
+      "response_issue_date": "14/12/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-669",
+      "response_issue_date": "04/01/2024",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-670",
+      "response_issue_date": "10/01/2024",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-671",
+      "response_issue_date": "12/01/2024",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [
+        "s.14"
+      ],
+      "file_reference": "F23-672",
+      "response_issue_date": "14/12/2023",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-673",
+      "response_issue_date": "14/12/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-674",
+      "response_issue_date": "14/12/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-675",
+      "response_issue_date": "15/01/2024",
+      "result": "Fully disclosed"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-676",
+      "response_issue_date": "19/12/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-677",
+      "response_issue_date": "19/12/2023",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.40"
+      ],
+      "file_reference": "F23-678",
+      "response_issue_date": "22/12/2023",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-679",
+      "response_issue_date": "15/01/2024",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-680",
+      "response_issue_date": "10/01/2024",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.40"
+      ],
+      "file_reference": "F23-681",
+      "response_issue_date": "15/01/2024",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-682",
+      "response_issue_date": "18/12/2023",
+      "result": "n/a"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-683",
+      "response_issue_date": "04/01/2024",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-684",
+      "response_issue_date": "16/01/2024",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.24",
+        "s.31"
+      ],
+      "file_reference": "F23-685",
+      "response_issue_date": "15/01/2024",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.34"
+      ],
+      "file_reference": "F23-686",
+      "response_issue_date": "15/01/2024",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-687",
+      "response_issue_date": "22/01/2024",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21",
+        "s.40"
+      ],
+      "file_reference": "F23-688",
+      "response_issue_date": "17/01/2024",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-689",
+      "response_issue_date": "16/01/2024",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-690",
+      "response_issue_date": "15/01/2024",
+      "result": "Not held"
+    },
+    {
+      "exemption_sections": [
+        "s.21"
+      ],
+      "file_reference": "F23-691",
+      "response_issue_date": "19/01/2024",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21",
+        "s.22"
+      ],
+      "file_reference": "F23-692",
+      "response_issue_date": "08/01/2024",
+      "result": "Fully exempted"
+    },
+    {
+      "exemption_sections": [
+        "s.21",
+        "s.22"
+      ],
+      "file_reference": "F23-693",
+      "response_issue_date": "30/01/2024",
+      "result": "Partly exempted"
+    },
+    {
+      "exemption_sections": [],
+      "file_reference": "F23-694",
+      "response_issue_date": "15/01/2024",
+      "result": "Not held"
+    }
+  ]
+}

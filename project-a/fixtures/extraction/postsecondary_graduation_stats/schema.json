@@ -1,0 +1,364 @@
+{
+  "additionalProperties": false,
+  "description": "Extract the document's dense post-secondary statistical detail tables. Include only printed table cells from the specified repeated row structures. Do not infer classifications, create derived totals, or include narrative notes. Preserve row order as printed within each table and across table continuations.",
+  "properties": {
+    "college_program_completion_rows": {
+      "description": "Include every program detail row from each college program-level completion table. Exclude table captions, column headers, notes, footnotes, institution total rows, and any row that is only a subtotal or grand total. Continue across page breaks until the next table caption, notes block, or non-detail section begins.",
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "completions_2018_19": {
+            "description": "Integer from the 2018/19 column for this program completion row. Remove commas, spaces used as thousands separators, and surrounding parentheses; do not treat surrounding parentheses as a negative sign for completion counts. Keep printed 0 as integer 0. Use null only if the cell is truly blank, printed as a dash with no numeric value, or printed as N/A.",
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "completions_2019_20": {
+            "description": "Integer from the 2019/20 column for this program completion row. Remove commas, spaces used as thousands separators, and surrounding parentheses; do not treat surrounding parentheses as a negative sign for completion counts. Keep printed 0 as integer 0. Use null only if the cell is truly blank, printed as a dash with no numeric value, or printed as N/A.",
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "completions_2020_21": {
+            "description": "Integer from the 2020/21 column for this program completion row. Remove commas, spaces used as thousands separators, and surrounding parentheses; do not treat surrounding parentheses as a negative sign for completion counts. Keep printed 0 as integer 0. Use null only if the cell is truly blank, printed as a dash with no numeric value, or printed as N/A.",
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "completions_2021_22": {
+            "description": "Integer from the 2021/22 column for this program completion row. If a source header contains a typographical variant for this academic year, map the fourth annual numeric column after 2020/21 to this field. Remove commas, spaces used as thousands separators, and surrounding parentheses; do not treat surrounding parentheses as a negative sign for completion counts. Keep printed 0 as integer 0. Use null only if the cell is truly blank, printed as a dash with no numeric value, or printed as N/A.",
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "completions_2022_23": {
+            "description": "Integer from the 2022/23 column for this program completion row. Remove commas, spaces used as thousands separators, and surrounding parentheses; do not treat surrounding parentheses as a negative sign for completion counts. Keep printed 0 as integer 0. Use null only if the cell is truly blank, printed as a dash with no numeric value, or printed as N/A.",
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "completions_2023_24": {
+            "description": "Integer from the 2023/24 column for this program completion row. Remove commas, spaces used as thousands separators, and surrounding parentheses; do not treat surrounding parentheses as a negative sign for completion counts. Keep printed 0 as integer 0. Use null only if the cell is truly blank, printed as a dash with no numeric value, or printed as N/A.",
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "institution": {
+            "description": "Institution name printed in the completion table title immediately before the hyphen and Completions or completions text. Preserve accents and internal punctuation, trim leading/trailing whitespace, and collapse internal line breaks or repeated spaces to one space.",
+            "type": "string"
+          },
+          "program_name": {
+            "description": "The exact row-label cell under the Program Name, Programs, or equivalent program column for this completion row. Preserve printed spelling, accents, apostrophes, slashes, ampersands, parentheses, and hyphenation; join wrapped label lines with a single space; remove only a superscript footnote marker that is visually attached to the label and not part of the program wording; trim leading/trailing whitespace.",
+            "type": "string"
+          }
+        },
+        "required": [
+          "institution",
+          "program_name",
+          "completions_2018_19",
+          "completions_2019_20",
+          "completions_2020_21",
+          "completions_2021_22",
+          "completions_2022_23",
+          "completions_2023_24"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "college_program_enrollment_rows": {
+      "description": "Main detail table extraction. Include every program detail row from each college program-level table whose caption identifies an institution followed by Enrolment Headcount. Exclude table captions, column headers, notes, footnotes, institution total rows, and any row that is only a subtotal or grand total. Continue across page breaks until the next table caption, notes block, or non-detail section begins.",
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "headcount_2018_19": {
+            "description": "Integer from the 2018/19 column for this program enrollment row. Remove commas, spaces used as thousands separators, and surrounding parentheses; do not treat surrounding parentheses as a negative sign for headcount values. Keep printed 0 as integer 0. Use null only if the cell is truly blank, printed as a dash with no numeric value, or printed as N/A.",
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "headcount_2019_20": {
+            "description": "Integer from the 2019/20 column for this program enrollment row. Remove commas, spaces used as thousands separators, and surrounding parentheses; do not treat surrounding parentheses as a negative sign for headcount values. Keep printed 0 as integer 0. Use null only if the cell is truly blank, printed as a dash with no numeric value, or printed as N/A.",
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "headcount_2020_21": {
+            "description": "Integer from the 2020/21 column for this program enrollment row. Remove commas, spaces used as thousands separators, and surrounding parentheses; do not treat surrounding parentheses as a negative sign for headcount values. Keep printed 0 as integer 0. Use null only if the cell is truly blank, printed as a dash with no numeric value, or printed as N/A.",
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "headcount_2021_22": {
+            "description": "Integer from the 2021/22 column for this program enrollment row. Remove commas, spaces used as thousands separators, and surrounding parentheses; do not treat surrounding parentheses as a negative sign for headcount values. Keep printed 0 as integer 0. Use null only if the cell is truly blank, printed as a dash with no numeric value, or printed as N/A.",
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "headcount_2022_23": {
+            "description": "Integer from the 2022/23 column for this program enrollment row. Remove commas, spaces used as thousands separators, and surrounding parentheses; do not treat surrounding parentheses as a negative sign for headcount values. Keep printed 0 as integer 0. Use null only if the cell is truly blank, printed as a dash with no numeric value, or printed as N/A.",
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "headcount_2023_24": {
+            "description": "Integer from the 2023/24 column for this program enrollment row. Remove commas, spaces used as thousands separators, and surrounding parentheses; do not treat surrounding parentheses as a negative sign for headcount values. Keep printed 0 as integer 0. Use null only if the cell is truly blank, printed as a dash with no numeric value, or printed as N/A.",
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "institution": {
+            "description": "Institution name printed in the table title immediately before the hyphen and Enrolment Headcount text. Preserve accents and internal punctuation, remove any superscript footnote marker attached to the institution name, trim leading/trailing whitespace, and collapse internal line breaks or repeated spaces to one space.",
+            "type": "string"
+          },
+          "program_name": {
+            "description": "The exact row-label cell under the Program, Program Name, or Programs column for this enrollment row. Preserve printed spelling, accents, apostrophes, slashes, ampersands, parentheses, and hyphenation; join wrapped label lines with a single space; remove only a superscript footnote marker that is visually attached to the label and not part of the program wording; trim leading/trailing whitespace.",
+            "type": "string"
+          }
+        },
+        "required": [
+          "institution",
+          "program_name",
+          "headcount_2018_19",
+          "headcount_2019_20",
+          "headcount_2020_21",
+          "headcount_2021_22",
+          "headcount_2022_23",
+          "headcount_2023_24"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "university_graduate_faculty_enrollment_rows": {
+      "description": "Include every faculty or equivalent row from the Graduate Enrollment by University and Faculty table. Exclude university section headers, column headers, total rows, notes, and footnotes. A row belongs to the most recent university section heading above it until the next university heading appears.",
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "enrollment_2018_19": {
+            "description": "Integer from the 2018/19 column for this graduate faculty enrollment row. Remove commas, spaces used as thousands separators, and surrounding parentheses; do not treat surrounding parentheses as a negative sign for enrollment counts. Keep printed 0 as integer 0. Use null only if the cell is truly blank, printed as a dash with no numeric value, or printed as N/A.",
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "enrollment_2019_20": {
+            "description": "Integer from the 2019/20 column for this graduate faculty enrollment row. Remove commas, spaces used as thousands separators, and surrounding parentheses; do not treat surrounding parentheses as a negative sign for enrollment counts. Keep printed 0 as integer 0. Use null only if the cell is truly blank, printed as a dash with no numeric value, or printed as N/A.",
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "enrollment_2020_21": {
+            "description": "Integer from the 2020/21 column for this graduate faculty enrollment row. Remove commas, spaces used as thousands separators, and surrounding parentheses; do not treat surrounding parentheses as a negative sign for enrollment counts. Keep printed 0 as integer 0. Use null only if the cell is truly blank, printed as a dash with no numeric value, or printed as N/A.",
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "enrollment_2021_22": {
+            "description": "Integer from the 2021/22 column for this graduate faculty enrollment row. Remove commas, spaces used as thousands separators, and surrounding parentheses; do not treat surrounding parentheses as a negative sign for enrollment counts. Keep printed 0 as integer 0. Use null only if the cell is truly blank, printed as a dash with no numeric value, or printed as N/A.",
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "enrollment_2022_23": {
+            "description": "Integer from the 2022/23 column for this graduate faculty enrollment row. Remove commas, spaces used as thousands separators, and surrounding parentheses; do not treat surrounding parentheses as a negative sign for enrollment counts. Keep printed 0 as integer 0. Use null only if the cell is truly blank, printed as a dash with no numeric value, or printed as N/A.",
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "enrollment_2023_24": {
+            "description": "Integer from the 2023/24 column for this graduate faculty enrollment row. Remove commas, spaces used as thousands separators, and surrounding parentheses; do not treat surrounding parentheses as a negative sign for enrollment counts. Keep printed 0 as integer 0. Use null only if the cell is truly blank, printed as a dash with no numeric value, or printed as N/A.",
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "faculty": {
+            "description": "The exact row-label cell for the faculty, school, college, program group, or equivalent graduate category. Preserve printed spelling, accents, apostrophes, slashes, ampersands, commas, parentheses, and hyphenation; join wrapped label lines with a single space; remove only a superscript footnote marker that is visually attached to the label and not part of the wording; trim leading/trailing whitespace.",
+            "type": "string"
+          },
+          "university": {
+            "description": "University name printed in the section heading for the row. Preserve accents and internal punctuation, trim leading/trailing whitespace, and collapse internal line breaks or repeated spaces to one space.",
+            "type": "string"
+          }
+        },
+        "required": [
+          "university",
+          "faculty",
+          "enrollment_2018_19",
+          "enrollment_2019_20",
+          "enrollment_2020_21",
+          "enrollment_2021_22",
+          "enrollment_2022_23",
+          "enrollment_2023_24"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "university_undergraduate_faculty_degrees_rows": {
+      "description": "Include every faculty or equivalent row from the Undergraduate Degrees Granted by Faculty table. Exclude university section headers, column headers, total rows, notes, and footnotes. A row belongs to the most recent university section heading above it until the next university heading appears.",
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "degrees_2018": {
+            "description": "Integer from the 2018 calendar-year column for this undergraduate faculty degree row. Remove commas, spaces used as thousands separators, and surrounding parentheses; do not treat surrounding parentheses as a negative sign for degree counts. Keep printed 0 as integer 0. Use null only if the cell is truly blank, printed as a dash with no numeric value, or printed as N/A.",
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "degrees_2019": {
+            "description": "Integer from the 2019 calendar-year column for this undergraduate faculty degree row. Remove commas, spaces used as thousands separators, and surrounding parentheses; do not treat surrounding parentheses as a negative sign for degree counts. Keep printed 0 as integer 0. Use null only if the cell is truly blank, printed as a dash with no numeric value, or printed as N/A.",
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "degrees_2020": {
+            "description": "Integer from the 2020 calendar-year column for this undergraduate faculty degree row. Remove commas, spaces used as thousands separators, and surrounding parentheses; do not treat surrounding parentheses as a negative sign for degree counts. Keep printed 0 as integer 0. Use null only if the cell is truly blank, printed as a dash with no numeric value, or printed as N/A.",
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "degrees_2021": {
+            "description": "Integer from the 2021 calendar-year column for this undergraduate faculty degree row. Remove commas, spaces used as thousands separators, and surrounding parentheses; do not treat surrounding parentheses as a negative sign for degree counts. Keep printed 0 as integer 0. Use null only if the cell is truly blank, printed as a dash with no numeric value, or printed as N/A.",
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "degrees_2022": {
+            "description": "Integer from the 2022 calendar-year column for this undergraduate faculty degree row. Remove commas, spaces used as thousands separators, and surrounding parentheses; do not treat surrounding parentheses as a negative sign for degree counts. Keep printed 0 as integer 0. Use null only if the cell is truly blank, printed as a dash with no numeric value, or printed as N/A.",
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "degrees_2023": {
+            "description": "Integer from the 2023 calendar-year column for this undergraduate faculty degree row. Remove commas, spaces used as thousands separators, and surrounding parentheses; do not treat surrounding parentheses as a negative sign for degree counts. Keep printed 0 as integer 0. Use null only if the cell is truly blank, printed as a dash with no numeric value, or printed as N/A.",
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "faculty": {
+            "description": "The exact row-label cell for the faculty, school, college, or equivalent undergraduate degree category. Preserve printed spelling, accents, apostrophes, slashes, ampersands, commas, parentheses, and hyphenation; join wrapped label lines with a single space; remove only a superscript footnote marker that is visually attached to the label and not part of the wording; trim leading/trailing whitespace.",
+            "type": "string"
+          },
+          "university": {
+            "description": "University name printed in the section heading for the row. Preserve accents and internal punctuation, trim leading/trailing whitespace, and collapse internal line breaks or repeated spaces to one space.",
+            "type": "string"
+          }
+        },
+        "required": [
+          "university",
+          "faculty",
+          "degrees_2018",
+          "degrees_2019",
+          "degrees_2020",
+          "degrees_2021",
+          "degrees_2022",
+          "degrees_2023"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "university_undergraduate_faculty_enrollment_rows": {
+      "description": "Include every faculty or equivalent row from the Undergraduate Enrollment by University and Faculty table. Exclude university section headers, column headers, total rows, notes, and footnotes. A row belongs to the most recent university section heading above it until the next university heading appears.",
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "enrollment_2018_19": {
+            "description": "Integer from the 2018/19 column for this undergraduate faculty enrollment row. Remove commas, spaces used as thousands separators, and surrounding parentheses; do not treat surrounding parentheses as a negative sign for enrollment counts. Keep printed 0 as integer 0. Use null only if the cell is truly blank, printed as a dash with no numeric value, or printed as N/A.",
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "enrollment_2019_20": {
+            "description": "Integer from the 2019/20 column for this undergraduate faculty enrollment row. Remove commas, spaces used as thousands separators, and surrounding parentheses; do not treat surrounding parentheses as a negative sign for enrollment counts. Keep printed 0 as integer 0. Use null only if the cell is truly blank, printed as a dash with no numeric value, or printed as N/A.",
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "enrollment_2020_21": {
+            "description": "Integer from the 2020/21 column for this undergraduate faculty enrollment row. Remove commas, spaces used as thousands separators, and surrounding parentheses; do not treat surrounding parentheses as a negative sign for enrollment counts. Keep printed 0 as integer 0. Use null only if the cell is truly blank, printed as a dash with no numeric value, or printed as N/A.",
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "enrollment_2021_22": {
+            "description": "Integer from the 2021/22 column for this undergraduate faculty enrollment row. Remove commas, spaces used as thousands separators, and surrounding parentheses; do not treat surrounding parentheses as a negative sign for enrollment counts. Keep printed 0 as integer 0. Use null only if the cell is truly blank, printed as a dash with no numeric value, or printed as N/A.",
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "enrollment_2022_23": {
+            "description": "Integer from the 2022/23 column for this undergraduate faculty enrollment row. Remove commas, spaces used as thousands separators, and surrounding parentheses; do not treat surrounding parentheses as a negative sign for enrollment counts. Keep printed 0 as integer 0. Use null only if the cell is truly blank, printed as a dash with no numeric value, or printed as N/A.",
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "enrollment_2023_24": {
+            "description": "Integer from the 2023/24 column for this undergraduate faculty enrollment row. Remove commas, spaces used as thousands separators, and surrounding parentheses; do not treat surrounding parentheses as a negative sign for enrollment counts. Keep printed 0 as integer 0. Use null only if the cell is truly blank, printed as a dash with no numeric value, or printed as N/A.",
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "faculty": {
+            "description": "The exact row-label cell for the faculty, school, college, or equivalent undergraduate category. Preserve printed spelling, accents, apostrophes, slashes, ampersands, commas, parentheses, and hyphenation; join wrapped label lines with a single space; remove only a superscript footnote marker that is visually attached to the label and not part of the wording; trim leading/trailing whitespace.",
+            "type": "string"
+          },
+          "university": {
+            "description": "University name printed in the section heading for the row. Preserve accents and internal punctuation, remove any superscript footnote marker attached to the university name, trim leading/trailing whitespace, and collapse internal line breaks or repeated spaces to one space.",
+            "type": "string"
+          }
+        },
+        "required": [
+          "university",
+          "faculty",
+          "enrollment_2018_19",
+          "enrollment_2019_20",
+          "enrollment_2020_21",
+          "enrollment_2021_22",
+          "enrollment_2022_23",
+          "enrollment_2023_24"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    }
+  },
+  "required": [
+    "college_program_enrollment_rows",
+    "college_program_completion_rows",
+    "university_undergraduate_faculty_enrollment_rows",
+    "university_graduate_faculty_enrollment_rows",
+    "university_undergraduate_faculty_degrees_rows"
+  ],
+  "type": "object"
+}

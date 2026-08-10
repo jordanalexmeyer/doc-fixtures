@@ -1,0 +1,49 @@
+{
+  "additionalProperties": false,
+  "description": "Schema for migrating a Freedom of Information disclosure log into a compliance tracking system. Extract each deterministic row-level record from the disclosure-log table while excluding long free-text request wording that is not suitable for field-by-field agreement.",
+  "properties": {
+    "foi_request_records": {
+      "description": "One object for each body row in the disclosure-log table. Include every row that has a value in the File ref column; do not include the header row or any repeated column labels.",
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "exemption_sections": {
+            "description": "The exemption section references printed in the Exemptions column for this row. If the cell is literally blank, emit an empty array. Otherwise split the cell into one array element per printed section reference, using commas, semicolons, line breaks, or the word 'and' between section references as separators; preserve each section reference's printed casing, digits, periods, and parentheses; trim whitespace around each element; keep the references in their printed reading order; do not expand, normalize, sort, or deduplicate them.",
+            "items": {
+              "type": "string"
+            },
+            "type": "array"
+          },
+          "file_reference": {
+            "description": "The exact cell value under the File ref column for this row. Preserve the printed letter casing, digits, and hyphen; trim leading and trailing whitespace; collapse any internal whitespace to a single space; do not infer or generate missing sequence values.",
+            "type": "string"
+          },
+          "response_issue_date": {
+            "description": "The date value under the Response issue date column for this row. Emit the date exactly in the printed day/month/year numeric form, preserving leading zeroes and slash separators; do not convert to ISO format or expand the year. Trim whitespace around the date.",
+            "type": "string"
+          },
+          "result": {
+            "description": "The value cell under the Result column for this row. Use the exact printed capitalization and punctuation; trim leading and trailing whitespace; replace line breaks within the cell with a single space; collapse repeated whitespace to one space. Use null only when the Result cell is literally blank.",
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        },
+        "required": [
+          "file_reference",
+          "result",
+          "response_issue_date",
+          "exemption_sections"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    }
+  },
+  "required": [
+    "foi_request_records"
+  ],
+  "title": "FOI Disclosure Log Export Schema",
+  "type": "object"
+}

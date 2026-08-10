@@ -1,0 +1,119 @@
+{
+  "additionalProperties": false,
+  "description": "Schema for migrating a bilingual regulatory PDF data export into structured records. Capture the document header metadata and every facility/system/year row in the annual combined-sewer-overflow points table.",
+  "properties": {
+    "cso_point_year_records": {
+      "description": "One object for each data row in the main annual combined-sewer-overflow points table. Include every row under the table header, continuing through all table continuations, and exclude repeated classification markings, bilingual table titles, and column header rows.",
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "city": {
+            "description": "Value from the row's cell under the City column. Preserve printed capitalization, punctuation, accents, and symbols; trim leading/trailing whitespace and collapse repeated internal whitespace to a single space. Null is not allowed.",
+            "type": "string"
+          },
+          "discharged_cso_points_count": {
+            "description": "Value from the row's cell under the Number of CSO points that discharged during the year column when that cell is numeric. Emit numeric cells as integers, never as strings and never with a trailing .0; emit 0 when the printed numeric value is zero. Use null only when the printed cell contains a nonnumeric data-availability phrase instead of a numeric count.",
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "discharged_cso_points_no_data": {
+            "description": "Boolean interpretation of the row's cell under the Number of CSO points that discharged during the year column. Emit true only when that cell contains a nonnumeric data-availability phrase instead of a numeric count; emit false when the cell contains an integer, including zero. Null is not allowed.",
+            "type": "boolean"
+          },
+          "facility_identification": {
+            "description": "Value from the row's cell under the Facility Identification column. Emit integer-valued cells as integers, never as strings and never with a trailing .0. Use null only when that cell is literally blank in the row; do not infer or carry forward an identifier from adjacent rows.",
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "latitude": {
+            "description": "Value from the row's cell under the Latitude column. Emit as the exact printed decimal text, preserving the minus sign if present and preserving all printed decimal places; do not convert to a JSON number. Trim whitespace. Null is not allowed.",
+            "type": "string"
+          },
+          "longitude": {
+            "description": "Value from the row's cell under the Longitude column. Emit as the exact printed decimal text, preserving the minus sign if present and preserving all printed decimal places; do not convert to a JSON number. Trim whitespace. Null is not allowed.",
+            "type": "string"
+          },
+          "owner_name": {
+            "description": "Value from the row's cell under the Owner Name column. Preserve printed capitalization, punctuation, accents, and symbols; trim leading/trailing whitespace and collapse repeated internal whitespace to a single space. If a cell wraps visually, join the wrapped text with a single space unless a hyphen is printed at the break, in which case preserve the printed hyphen and do not add an extra space. Null is not allowed.",
+            "type": "string"
+          },
+          "province_english": {
+            "description": "Value from the row's cell under the Province (English) column. Preserve the exact printed capitalization and spelling; trim leading/trailing whitespace and collapse repeated internal whitespace to a single space. Null is not allowed.",
+            "type": "string"
+          },
+          "province_french": {
+            "description": "Value from the row's cell under the Province (French) column. Preserve the exact printed capitalization, spelling, and accents; trim leading/trailing whitespace and collapse repeated internal whitespace to a single space. Null is not allowed.",
+            "type": "string"
+          },
+          "system_name": {
+            "description": "Value from the row's cell under the System Name column. Preserve printed capitalization, punctuation, accents, and symbols; trim leading/trailing whitespace and collapse repeated internal whitespace to a single space. If a cell wraps visually, join the wrapped text with a single space unless a hyphen is printed at the break, in which case preserve the printed hyphen and do not add an extra space. Null is not allowed.",
+            "type": "string"
+          },
+          "total_cso_points_count": {
+            "description": "Value from the row's cell under the Total number of CSO points column. Emit as an integer, never as a string and never with a trailing .0; emit 0 if the printed numeric value is zero. Null is not allowed.",
+            "type": "integer"
+          },
+          "year": {
+            "description": "Value from the row's cell under the Year column. Emit as the four-digit integer printed in the row, never as a string and never with a trailing .0. Null is not allowed.",
+            "type": "integer"
+          }
+        },
+        "required": [
+          "facility_identification",
+          "year",
+          "owner_name",
+          "system_name",
+          "city",
+          "province_english",
+          "province_french",
+          "latitude",
+          "longitude",
+          "discharged_cso_points_count",
+          "discharged_cso_points_no_data",
+          "total_cso_points_count"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "dataset_title_english": {
+      "description": "English dataset title printed in the bilingual subject line immediately associated with the main table. Extract only the English text after the slash separator, including any printed year range if it is part of that title; preserve printed capitalization, trim leading/trailing whitespace, and collapse repeated internal whitespace to a single space. Null is not allowed.",
+      "type": "string"
+    },
+    "dataset_title_french": {
+      "description": "French dataset title printed in the bilingual subject line immediately associated with the main table. Extract only the French text before the slash separator, including any printed year range if it is part of that title; preserve printed capitalization and accents, trim leading/trailing whitespace, and collapse repeated internal whitespace to a single space. Null is not allowed.",
+      "type": "string"
+    },
+    "regulation_title_english": {
+      "description": "English regulation title printed in the bilingual title line above the main table. Extract only the English text after the slash separator; preserve printed capitalization, trim leading/trailing whitespace, and collapse repeated internal whitespace to a single space. Null is not allowed.",
+      "type": "string"
+    },
+    "regulation_title_french": {
+      "description": "French regulation title printed in the bilingual title line above the main table. Extract only the French text before the slash separator; preserve printed capitalization and accents, trim leading/trailing whitespace, and collapse repeated internal whitespace to a single space. Null is not allowed.",
+      "type": "string"
+    },
+    "reporting_period_end_year": {
+      "description": "Last year in the printed year range in the dataset title line. Emit as a four-digit integer, never as a string and never with a trailing .0. Null is not allowed.",
+      "type": "integer"
+    },
+    "reporting_period_start_year": {
+      "description": "First year in the printed year range in the dataset title line. Emit as a four-digit integer, never as a string and never with a trailing .0. Null is not allowed.",
+      "type": "integer"
+    }
+  },
+  "required": [
+    "regulation_title_french",
+    "regulation_title_english",
+    "dataset_title_french",
+    "dataset_title_english",
+    "reporting_period_start_year",
+    "reporting_period_end_year",
+    "cso_point_year_records"
+  ],
+  "title": "Combined Sewer Overflow Points Annual Data Export",
+  "type": "object"
+}

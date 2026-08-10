@@ -1,0 +1,68 @@
+{
+  "additionalProperties": false,
+  "description": "Schema for migrating a Medicare Part B physician/supplier evaluation-and-management report into structured analytics tables. Extract the document-level reporting period and overall totals, plus every HCPCS-by-specialty detail row from the main data grid.",
+  "properties": {
+    "calendar_year": {
+      "description": "Extract the four-digit year from the calendar-year label printed in the report header. Emit digits only as an integer with no comma and no trailing .0. Do not include the calendar-year prefix text, quarterly labels, title text, or surrounding punctuation. Null is not allowed; if the header does not print a calendar-year label, omit this field.",
+      "type": "integer"
+    },
+    "hcpcs_specialty_rows": {
+      "description": "One object for each body row in the main grid that has a specialty cell and numeric values under ALLOWED SERVICES, ALLOWED CHARGES, and PAYMENT AMOUNT. Continue across all repeated header sections; exclude column header rows, title/header text, explanatory notes, and the final overall total row.",
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "allowed_charges": {
+            "description": "Extract the value at the intersection of this row and the ALLOWED CHARGES column. Remove commas and emit the value as an integer, never as a string and never with a trailing .0. Do not include currency symbols or infer cents. Treat a printed zero as 0. Null is not allowed; omit rows where this cell is blank or contains no numeric value.",
+            "type": "integer"
+          },
+          "allowed_services": {
+            "description": "Extract the value at the intersection of this row and the ALLOWED SERVICES column. Remove commas and emit the value as an integer, never as a string and never with a trailing .0. Treat a printed zero as 0. Null is not allowed; omit rows where this cell is blank or contains no numeric value.",
+            "type": "integer"
+          },
+          "hcpcs_code": {
+            "description": "Extract the HCPCS code associated with this detail row from the HCPCS CODE column. When the code is printed once for a block and the following rows in that block have blank code cells, repeat the nearest preceding printed HCPCS code for those rows until a new code is printed. Preserve the printed digits exactly, collapse any internal or surrounding whitespace, and do not add prefixes or punctuation. Null is not allowed; do not create a detail row when no current HCPCS code can be determined from the table structure.",
+            "type": "string"
+          },
+          "payment_amount": {
+            "description": "Extract the value at the intersection of this row and the PAYMENT AMOUNT column. Remove commas and emit the value as an integer, never as a string and never with a trailing .0. Do not include currency symbols or infer cents. Treat a printed zero as 0. Null is not allowed; omit rows where this cell is blank or contains no numeric value.",
+            "type": "integer"
+          },
+          "specialty": {
+            "description": "Extract the provider specialty label from the SPECIALTY column for this row. Preserve printed capitalization, slashes, parentheses, and other punctuation. If the specialty label wraps onto multiple printed lines within the same cell, join the lines in reading order with a single space, except do not add an extra space inside a word split by a line break; collapse repeated whitespace and trim leading/trailing whitespace. Do not include the HCPCS code or any numeric measure cells. Null is not allowed; omit rows where the specialty cell is blank.",
+            "type": "string"
+          }
+        },
+        "required": [
+          "hcpcs_code",
+          "specialty",
+          "allowed_services",
+          "allowed_charges",
+          "payment_amount"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "total_allowed_charges": {
+      "description": "Extract the value in the ALLOWED CHARGES column from the final overall total row beneath the main detail grid. Remove commas and emit the value as an integer, never as a string and never with a trailing .0. Do not include currency symbols or infer cents. Do not sum detail rows yourself; use only the printed total cell. Null is not allowed; if the printed total cell is blank, omit this field.",
+      "type": "integer"
+    },
+    "total_allowed_services": {
+      "description": "Extract the value in the ALLOWED SERVICES column from the final overall total row beneath the main detail grid. Remove commas and emit the value as an integer, never as a string and never with a trailing .0. Do not sum detail rows yourself; use only the printed total cell. Null is not allowed; if the printed total cell is blank, omit this field.",
+      "type": "integer"
+    },
+    "total_payment_amount": {
+      "description": "Extract the value in the PAYMENT AMOUNT column from the final overall total row beneath the main detail grid. Remove commas and emit the value as an integer, never as a string and never with a trailing .0. Do not include currency symbols or infer cents. Do not sum detail rows yourself; use only the printed total cell. Null is not allowed; if the printed total cell is blank, omit this field.",
+      "type": "integer"
+    }
+  },
+  "required": [
+    "calendar_year",
+    "total_allowed_services",
+    "total_allowed_charges",
+    "total_payment_amount",
+    "hcpcs_specialty_rows"
+  ],
+  "title": "Medicare Part B Evaluation and Management Data Export",
+  "type": "object"
+}

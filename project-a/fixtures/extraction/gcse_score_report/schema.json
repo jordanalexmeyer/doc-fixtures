@@ -1,0 +1,249 @@
+{
+  "additionalProperties": false,
+  "description": "Schema for migrating all deterministic tabular data from a provisional examination results publication into a comparison-ready data store. It captures document-level identifiers, the cover index, and every subject-by-gender cumulative grade outcome row with its printed bracketed comparison values.",
+  "properties": {
+    "course_scope": {
+      "description": "The course-scope phrase printed in parentheses immediately after the qualification name in the cover or repeated table title. Preserve the parentheses content only, without the surrounding parentheses; collapse repeated whitespace to a single space and do not emit null.",
+      "type": "string"
+    },
+    "embargo_datetime": {
+      "description": "The value printed after the cover label that introduces the embargo timing. Exclude the label itself, preserve the printed time suffix and date wording, collapse repeated whitespace to a single space, and do not emit null.",
+      "type": "string"
+    },
+    "index_sections": {
+      "description": "Extract each short line listed under the cover Index heading before the first results table. Preserve the printed order and do not add entries inferred from later headings.",
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "section_label": {
+            "description": "The complete text of one Index line. Preserve capitalization and numerals as printed, collapse repeated whitespace to a single space, and do not emit null.",
+            "type": "string"
+          }
+        },
+        "required": [
+          "section_label"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "issuer_name": {
+      "description": "The organization name printed in the recurring header above the results tables. Use the exact printed capitalization, collapse repeated whitespace to a single space, and do not emit null.",
+      "type": "string"
+    },
+    "qualification_name": {
+      "description": "The qualification name printed in the main cover heading and repeated table title. Preserve parentheses and capitalization as printed, collapse repeated whitespace to a single space, and do not emit null.",
+      "type": "string"
+    },
+    "release_date": {
+      "description": "The standalone release date line printed near the cover results label. Transcribe the date exactly as printed, including weekday if present; do not infer or append missing date parts, collapse repeated whitespace to a single space, and do not emit null.",
+      "type": "string"
+    },
+    "result_status": {
+      "description": "The status word or short phrase printed at the start of the repeated results-table title before the qualification name. Preserve capitalization as printed, collapse repeated whitespace to a single space, and do not emit null.",
+      "type": "string"
+    },
+    "results_series": {
+      "description": "The season-and-year results label printed beneath the cover heading. Transcribe the complete short label as printed, preserve capitalization, collapse repeated whitespace to a single space, and do not emit null.",
+      "type": "string"
+    },
+    "subject_results_historical_comparison": {
+      "description": "Extract every subject-by-gender row from each cumulative-percentages table whose introductory sentence says the bracketed figures are for a non-adjacent earlier provisional comparison year. One item is one printed subject and gender row plus the immediately following bracketed comparison row.",
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "comparison_cumulative_percent_1_g": {
+            "description": "The bracketed value in the comparison row directly below this row, aligned to the 1/G cumulative grade column. Remove the surrounding parentheses, omit any percent sign if printed, preserve one decimal place and any suppression or qualifier characters exactly as printed, and do not emit null.",
+            "type": "string"
+          },
+          "comparison_cumulative_percent_4_c": {
+            "description": "The bracketed value in the comparison row directly below this row, aligned to the 4/C cumulative grade column. Remove the surrounding parentheses, omit any percent sign if printed, preserve one decimal place and any suppression or qualifier characters exactly as printed, and do not emit null.",
+            "type": "string"
+          },
+          "comparison_cumulative_percent_7_a": {
+            "description": "The bracketed value in the comparison row directly below this row, aligned to the 7/A cumulative grade column. Remove the surrounding parentheses, omit any percent sign if printed, preserve one decimal place and any suppression or qualifier characters exactly as printed, and do not emit null.",
+            "type": "string"
+          },
+          "comparison_cumulative_percent_u": {
+            "description": "The bracketed value in the comparison row directly below this row, aligned to the U cumulative grade column. Remove the surrounding parentheses, omit any percent sign if printed, preserve one decimal place and any suppression or qualifier characters exactly as printed, and do not emit null.",
+            "type": "string"
+          },
+          "comparison_number_sat": {
+            "description": "The bracketed value in the comparison row directly below this row, aligned to the Number Sat column. Remove the surrounding parentheses, remove thousands separators if any are printed, preserve suppression or qualifier characters attached to the token, do not add decimals, and do not emit null.",
+            "type": "string"
+          },
+          "comparison_percent_of_total_sat": {
+            "description": "The bracketed value in the comparison row directly below this row, aligned to the % of Total No. Sat column. Remove the surrounding parentheses, omit any percent sign if printed, preserve one decimal place and any suppression or qualifier characters exactly as printed, and do not emit null.",
+            "type": "string"
+          },
+          "comparison_year": {
+            "description": "The four-digit year named in the sentence explaining the bracketed figures for the table containing this row. Emit as an integer with no quotes and no decimal; do not emit null.",
+            "type": "integer"
+          },
+          "current_cumulative_percent_1_g": {
+            "description": "The unbracketed value under the 1/G cumulative grade column for this row. Omit any percent sign if printed, preserve one decimal place and any suppression or qualifier characters exactly as printed, and do not emit null.",
+            "type": "string"
+          },
+          "current_cumulative_percent_4_c": {
+            "description": "The unbracketed value under the 4/C cumulative grade column for this row. Omit any percent sign if printed, preserve one decimal place and any suppression or qualifier characters exactly as printed, and do not emit null.",
+            "type": "string"
+          },
+          "current_cumulative_percent_7_a": {
+            "description": "The unbracketed value under the 7/A cumulative grade column for this row. Omit any percent sign if printed, preserve one decimal place and any suppression or qualifier characters exactly as printed, and do not emit null.",
+            "type": "string"
+          },
+          "current_cumulative_percent_u": {
+            "description": "The unbracketed value under the U cumulative grade column for this row. Omit any percent sign if printed, preserve one decimal place and any suppression or qualifier characters exactly as printed, and do not emit null.",
+            "type": "string"
+          },
+          "current_number_sat": {
+            "description": "The unbracketed value in the Number Sat column for this row. Remove thousands separators if any are printed, preserve suppression or qualifier characters attached to the token, do not add decimals, and do not emit null.",
+            "type": "string"
+          },
+          "current_percent_of_total_sat": {
+            "description": "The unbracketed value in the % of Total No. Sat column for this row. Omit any percent sign if printed, preserve one decimal place and any suppression or qualifier characters exactly as printed, and do not emit null.",
+            "type": "string"
+          },
+          "gender_label": {
+            "description": "The value in the Gender column for this row. Use the exact printed capitalization and symbols, collapse repeated whitespace to a single space, and do not emit null.",
+            "type": "string"
+          },
+          "scope_label": {
+            "description": "The geographic or candidate-scope label printed in parentheses directly under the repeated results-table title for the table containing this row. Exclude the surrounding parentheses, preserve capitalization, collapse repeated whitespace to a single space, and do not emit null.",
+            "type": "string"
+          },
+          "subject_label": {
+            "description": "The subject cell at the start of this row. Include any footnote marker printed as part of the subject cell, preserve punctuation and capitalization, collapse repeated whitespace to a single space, join line-wrapped subject words with one space, and do not emit null.",
+            "type": "string"
+          }
+        },
+        "required": [
+          "scope_label",
+          "comparison_year",
+          "subject_label",
+          "gender_label",
+          "current_number_sat",
+          "current_percent_of_total_sat",
+          "current_cumulative_percent_7_a",
+          "current_cumulative_percent_4_c",
+          "current_cumulative_percent_1_g",
+          "current_cumulative_percent_u",
+          "comparison_number_sat",
+          "comparison_percent_of_total_sat",
+          "comparison_cumulative_percent_7_a",
+          "comparison_cumulative_percent_4_c",
+          "comparison_cumulative_percent_1_g",
+          "comparison_cumulative_percent_u"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "subject_results_recent_comparison": {
+      "description": "Extract every subject-by-gender row from each cumulative-percentages table whose introductory sentence says the bracketed figures are for the adjacent prior provisional comparison year. One item is one printed subject and gender row plus the immediately following bracketed comparison row.",
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "comparison_cumulative_percent_1_g": {
+            "description": "The bracketed value in the comparison row directly below this row, aligned to the 1/G cumulative grade column. Remove the surrounding parentheses, omit any percent sign if printed, preserve one decimal place and any suppression or qualifier characters exactly as printed, and do not emit null.",
+            "type": "string"
+          },
+          "comparison_cumulative_percent_4_c": {
+            "description": "The bracketed value in the comparison row directly below this row, aligned to the 4/C cumulative grade column. Remove the surrounding parentheses, omit any percent sign if printed, preserve one decimal place and any suppression or qualifier characters exactly as printed, and do not emit null.",
+            "type": "string"
+          },
+          "comparison_cumulative_percent_7_a": {
+            "description": "The bracketed value in the comparison row directly below this row, aligned to the 7/A cumulative grade column. Remove the surrounding parentheses, omit any percent sign if printed, preserve one decimal place and any suppression or qualifier characters exactly as printed, and do not emit null.",
+            "type": "string"
+          },
+          "comparison_cumulative_percent_u": {
+            "description": "The bracketed value in the comparison row directly below this row, aligned to the U cumulative grade column. Remove the surrounding parentheses, omit any percent sign if printed, preserve one decimal place and any suppression or qualifier characters exactly as printed, and do not emit null.",
+            "type": "string"
+          },
+          "comparison_number_sat": {
+            "description": "The bracketed value in the comparison row directly below this row, aligned to the Number Sat column. Remove the surrounding parentheses, remove thousands separators if any are printed, preserve suppression or qualifier characters attached to the token, do not add decimals, and do not emit null.",
+            "type": "string"
+          },
+          "comparison_percent_of_total_sat": {
+            "description": "The bracketed value in the comparison row directly below this row, aligned to the % of Total No. Sat column. Remove the surrounding parentheses, omit any percent sign if printed, preserve one decimal place and any suppression or qualifier characters exactly as printed, and do not emit null.",
+            "type": "string"
+          },
+          "comparison_year": {
+            "description": "The four-digit year named in the sentence explaining the bracketed figures for the table containing this row. Emit as an integer with no quotes and no decimal; do not emit null.",
+            "type": "integer"
+          },
+          "current_cumulative_percent_1_g": {
+            "description": "The unbracketed value under the 1/G cumulative grade column for this row. Omit any percent sign if printed, preserve one decimal place and any suppression or qualifier characters exactly as printed, and do not emit null.",
+            "type": "string"
+          },
+          "current_cumulative_percent_4_c": {
+            "description": "The unbracketed value under the 4/C cumulative grade column for this row. Omit any percent sign if printed, preserve one decimal place and any suppression or qualifier characters exactly as printed, and do not emit null.",
+            "type": "string"
+          },
+          "current_cumulative_percent_7_a": {
+            "description": "The unbracketed value under the 7/A cumulative grade column for this row. Omit any percent sign if printed, preserve one decimal place and any suppression or qualifier characters exactly as printed, and do not emit null.",
+            "type": "string"
+          },
+          "current_cumulative_percent_u": {
+            "description": "The unbracketed value under the U cumulative grade column for this row. Omit any percent sign if printed, preserve one decimal place and any suppression or qualifier characters exactly as printed, and do not emit null.",
+            "type": "string"
+          },
+          "current_number_sat": {
+            "description": "The unbracketed value in the Number Sat column for this row. Remove thousands separators if any are printed, preserve suppression or qualifier characters attached to the token, do not add decimals, and do not emit null.",
+            "type": "string"
+          },
+          "current_percent_of_total_sat": {
+            "description": "The unbracketed value in the % of Total No. Sat column for this row. Omit any percent sign if printed, preserve one decimal place and any suppression or qualifier characters exactly as printed, and do not emit null.",
+            "type": "string"
+          },
+          "gender_label": {
+            "description": "The value in the Gender column for this row. Use the exact printed capitalization and symbols, collapse repeated whitespace to a single space, and do not emit null.",
+            "type": "string"
+          },
+          "scope_label": {
+            "description": "The geographic or candidate-scope label printed in parentheses directly under the repeated results-table title for the table containing this row. Exclude the surrounding parentheses, preserve capitalization, collapse repeated whitespace to a single space, and do not emit null.",
+            "type": "string"
+          },
+          "subject_label": {
+            "description": "The subject cell at the start of this row. Include any footnote marker printed as part of the subject cell, preserve punctuation and capitalization, collapse repeated whitespace to a single space, join line-wrapped subject words with one space, and do not emit null.",
+            "type": "string"
+          }
+        },
+        "required": [
+          "scope_label",
+          "comparison_year",
+          "subject_label",
+          "gender_label",
+          "current_number_sat",
+          "current_percent_of_total_sat",
+          "current_cumulative_percent_7_a",
+          "current_cumulative_percent_4_c",
+          "current_cumulative_percent_1_g",
+          "current_cumulative_percent_u",
+          "comparison_number_sat",
+          "comparison_percent_of_total_sat",
+          "comparison_cumulative_percent_7_a",
+          "comparison_cumulative_percent_4_c",
+          "comparison_cumulative_percent_1_g",
+          "comparison_cumulative_percent_u"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    }
+  },
+  "required": [
+    "issuer_name",
+    "qualification_name",
+    "course_scope",
+    "results_series",
+    "release_date",
+    "embargo_datetime",
+    "result_status",
+    "index_sections",
+    "subject_results_recent_comparison",
+    "subject_results_historical_comparison"
+  ],
+  "title": "Examination Results Full Data Export",
+  "type": "object"
+}

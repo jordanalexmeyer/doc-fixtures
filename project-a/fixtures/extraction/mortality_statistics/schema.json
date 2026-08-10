@@ -1,0 +1,273 @@
+{
+  "additionalProperties": false,
+  "properties": {
+    "document_context": {
+      "additionalProperties": false,
+      "properties": {
+        "file_label": {
+          "description": "Extract the short document-kind phrase printed in the title after the first colon and before the word introducing the subject. Preserve casing as printed, trim leading/trailing whitespace, and collapse repeated internal whitespace to one space. Never null.",
+          "type": "string"
+        },
+        "snapshot_end_year": {
+          "description": "Extract the second four-digit year printed inside the title's parenthesized snapshot year range. Return as an integer with no comma or decimal. Never null.",
+          "type": "integer"
+        },
+        "snapshot_start_year": {
+          "description": "Extract the first four-digit year printed inside the title's parenthesized snapshot year range. Return as an integer with no comma or decimal. Never null.",
+          "type": "integer"
+        },
+        "snapshot_subject": {
+          "description": "Extract the subject phrase printed in the title between the word that introduces the subject and the word immediately before the parenthesized year range. Preserve printed casing and hyphenation, trim leading/trailing whitespace, and collapse repeated internal whitespace to one space. Never null.",
+          "type": "string"
+        },
+        "title_prefix": {
+          "description": "Extract the short label printed at the start of the document title before the first colon. Preserve internal punctuation and the at-sign exactly as printed, trim leading/trailing whitespace, collapse repeated internal whitespace to one space, and do not include the colon. Never null.",
+          "type": "string"
+        }
+      },
+      "required": [
+        "title_prefix",
+        "file_label",
+        "snapshot_subject",
+        "snapshot_start_year",
+        "snapshot_end_year"
+      ],
+      "type": "object"
+    },
+    "mortality_detail_rows": {
+      "description": "Extract one item for every body row in the repeated data table across the entire document. Include all rows under the table headers and exclude title, source, header-only, footer, or continuation-label text. Preserve the document's row order. Do not omit rows because an indicator or measure label overlaps adjacent columns; assign text to the column under which it is printed.",
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "confidence_interval_lower": {
+            "description": "From this row's confidence-interval cell, extract the numeric lower bound printed before the interval separator. Strip the enclosing parenthesis and any thousands separators. Preserve sign if printed. Return as a JSON number without rounding or rescaling. Never null.",
+            "type": "number"
+          },
+          "confidence_interval_printed": {
+            "description": "Extract the complete value printed under the confidence-interval column for this row before normalization, including the enclosing parentheses and the separator between bounds. Preserve printed decimal digits and trim whitespace. Never null.",
+            "type": "string"
+          },
+          "confidence_interval_upper": {
+            "description": "From this row's confidence-interval cell, extract the numeric upper bound printed after the interval separator. Strip the enclosing parenthesis and any thousands separators. Preserve sign if printed. Return as a JSON number without rounding or rescaling. Never null.",
+            "type": "number"
+          },
+          "deaths": {
+            "description": "Normalize this row's Deaths cell to an integer. Remove thousands separators if any are printed. A printed zero is the integer 0, not null. Never null.",
+            "type": "integer"
+          },
+          "deaths_printed": {
+            "description": "Extract the exact integer text printed under the Deaths column for this row before normalization. Preserve printed digits and any thousands separators if present; trim whitespace. Never null.",
+            "type": "string"
+          },
+          "geography_name": {
+            "description": "Extract the value printed under the Geography column for this row. Preserve printed casing, punctuation, ampersands, and hyphenation; trim leading/trailing whitespace; collapse repeated internal whitespace to one space. If a long geography name visually approaches the Rate column, stop before the numeric rate cell. Never null.",
+            "type": "string"
+          },
+          "indicator_text": {
+            "description": "Extract the value printed under the Indicator column for this row. Preserve printed casing, punctuation, hyphenation, and parenthetical text; trim leading/trailing whitespace; collapse repeated internal whitespace to one space. If the visual text touches the next column because of crowding, include only the words belonging to the Indicator column and exclude the Measure column words. Never null.",
+            "type": "string"
+          },
+          "measure_full_text": {
+            "description": "Extract the complete value printed under the Measure column for this row, including any parenthetical text printed in that same cell. Preserve printed casing, hyphenation, and parentheses; trim leading/trailing whitespace; collapse repeated internal whitespace to one space. Never null.",
+            "type": "string"
+          },
+          "measure_parenthetical_text": {
+            "description": "From this row's Measure cell, extract the text inside the first printed pair of parentheses. Do not include the parentheses. Preserve printed casing, digits, comparison words, and internal spaces; trim leading/trailing whitespace. Never null.",
+            "type": "string"
+          },
+          "measure_stem_text": {
+            "description": "From this row's Measure cell, extract the text before the first opening parenthesis. Trim leading/trailing whitespace, collapse repeated internal whitespace to one space, and do not include the parenthesis. Preserve printed casing and hyphenation. Never null.",
+            "type": "string"
+          },
+          "population": {
+            "description": "Normalize this row's Population cell to an integer. Remove thousands separators if any are printed. A printed zero is the integer 0, not null. Never null.",
+            "type": "integer"
+          },
+          "population_printed": {
+            "description": "Extract the exact integer text printed under the Population column for this row before normalization. Preserve printed digits and any thousands separators if present; trim whitespace. Never null.",
+            "type": "string"
+          },
+          "rate_printed": {
+            "description": "Extract the exact numeric text printed under the Rate column for this row before normalization. Preserve the printed decimal digits, including trailing zeroes if present. Do not include the confidence interval, deaths, population, or comparison value. Trim whitespace. Never null.",
+            "type": "string"
+          },
+          "rate_value": {
+            "description": "Normalize this row's Rate cell to a JSON number. Remove thousands separators if any are printed. Preserve sign if printed. Do not round, rescale, or force a fixed number of decimals; an integer-looking printed rate is returned as the corresponding numeric value. Never null.",
+            "type": "number"
+          },
+          "significance_compared_to_reference": {
+            "description": "Extract the value printed under the significance comparison column for this row. Preserve the printed casing, slash characters, and short label text; trim leading/trailing whitespace; collapse repeated internal whitespace to one space. Do not convert comparison labels to booleans or substitute null for any printed label. Never null.",
+            "type": "string"
+          },
+          "year": {
+            "description": "Extract the four-digit value printed under the Year column for this row. Return as an integer with no comma, decimal, or surrounding text. Never null.",
+            "type": "integer"
+          }
+        },
+        "required": [
+          "indicator_text",
+          "measure_full_text",
+          "measure_stem_text",
+          "measure_parenthetical_text",
+          "year",
+          "geography_name",
+          "rate_printed",
+          "rate_value",
+          "confidence_interval_printed",
+          "confidence_interval_lower",
+          "confidence_interval_upper",
+          "deaths_printed",
+          "deaths",
+          "population_printed",
+          "population",
+          "significance_compared_to_reference"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "source_context": {
+      "additionalProperties": false,
+      "properties": {
+        "first_source_coverage_end_year": {
+          "description": "From the parenthesized coverage range at the end of the first source clause, extract the second four-digit year. Return as an integer. Never null.",
+          "type": "integer"
+        },
+        "first_source_coverage_start_year": {
+          "description": "From the parenthesized coverage range at the end of the first source clause, extract the first four-digit year. Return as an integer. Never null.",
+          "type": "integer"
+        },
+        "first_source_end_year": {
+          "description": "From the first source clause, extract the second four-digit year in the printed source year range immediately following the dataset name. Return as an integer. Never null.",
+          "type": "integer"
+        },
+        "first_source_extracted_date": {
+          "description": "From the first source clause, extract the date printed after the extraction-date introducer. Normalize to ISO calendar date YYYY-MM-DD, converting the printed month abbreviation or name to a two-digit month and preserving the printed day as a two-digit day. Never null.",
+          "type": "string"
+        },
+        "first_source_name": {
+          "description": "From the Source line, extract the dataset name at the start of the first source clause, stopping before that clause's printed source year range. Preserve printed casing, trim leading/trailing whitespace, and collapse repeated internal whitespace to one space. Never null.",
+          "type": "string"
+        },
+        "first_source_provider": {
+          "description": "From the first source clause, extract the provider text printed after the source year range and before the word that introduces the extraction date. Preserve comma punctuation and printed casing, trim leading/trailing whitespace, and collapse repeated internal whitespace to one space. Never null.",
+          "type": "string"
+        },
+        "first_source_start_year": {
+          "description": "From the first source clause, extract the first four-digit year in the printed source year range immediately following the dataset name. Return as an integer. Never null.",
+          "type": "integer"
+        },
+        "second_source_coverage_end_year": {
+          "description": "From the parenthesized coverage range at the end of the second source clause, extract the second four-digit year. Return as an integer. Never null.",
+          "type": "integer"
+        },
+        "second_source_coverage_start_year": {
+          "description": "From the parenthesized coverage range at the end of the second source clause, extract the first four-digit year. Return as an integer. Never null.",
+          "type": "integer"
+        },
+        "second_source_end_year": {
+          "description": "From the second source clause, extract the second four-digit year in the printed source year range immediately following the dataset name. Return as an integer. Never null.",
+          "type": "integer"
+        },
+        "second_source_extracted_date": {
+          "description": "From the second source clause, extract the date printed after the extraction-date introducer. Normalize to ISO calendar date YYYY-MM-DD, converting the printed month abbreviation or name to a two-digit month and preserving the printed day as a two-digit day. Never null.",
+          "type": "string"
+        },
+        "second_source_name": {
+          "description": "From the Source line, extract the dataset name at the start of the second source clause, stopping before that clause's printed source year range. Preserve printed casing, trim leading/trailing whitespace, and collapse repeated internal whitespace to one space. Never null.",
+          "type": "string"
+        },
+        "second_source_provider": {
+          "description": "From the second source clause, extract the provider text printed after the source year range and before the word that introduces the extraction date. Preserve comma punctuation and printed casing, trim leading/trailing whitespace, and collapse repeated internal whitespace to one space. Never null.",
+          "type": "string"
+        },
+        "second_source_start_year": {
+          "description": "From the second source clause, extract the first four-digit year in the printed source year range immediately following the dataset name. Return as an integer. Never null.",
+          "type": "integer"
+        }
+      },
+      "required": [
+        "first_source_name",
+        "first_source_start_year",
+        "first_source_end_year",
+        "first_source_provider",
+        "first_source_extracted_date",
+        "first_source_coverage_start_year",
+        "first_source_coverage_end_year",
+        "second_source_name",
+        "second_source_start_year",
+        "second_source_end_year",
+        "second_source_provider",
+        "second_source_extracted_date",
+        "second_source_coverage_start_year",
+        "second_source_coverage_end_year"
+      ],
+      "type": "object"
+    },
+    "table_context": {
+      "additionalProperties": false,
+      "properties": {
+        "confidence_interval_header": {
+          "description": "Extract the non-percent words printed in the confidence-interval column header after the percent level. Preserve casing, trim leading/trailing whitespace, and collapse repeated internal whitespace to one space. Do not include the numeric percent level or percent sign. Never null.",
+          "type": "string"
+        },
+        "confidence_interval_level_percent": {
+          "description": "Extract the numeric percent level printed at the start of the confidence-interval column header. Strip the percent sign and return the number only, with no scaling; for example, a printed percent level of NN% is returned as NN, not 0.NN. Never null.",
+          "type": "number"
+        },
+        "deaths_header": {
+          "description": "Extract the printed header text for the deaths column. Preserve casing, trim leading/trailing whitespace, and collapse repeated internal whitespace to one space. Never null.",
+          "type": "string"
+        },
+        "geography_header": {
+          "description": "Extract the printed header text for the geography column. Preserve casing, trim leading/trailing whitespace, and collapse repeated internal whitespace to one space. Never null.",
+          "type": "string"
+        },
+        "indicator_header": {
+          "description": "Extract the printed header text for the first table column. Preserve casing, trim leading/trailing whitespace, and collapse repeated internal whitespace to one space. Never null.",
+          "type": "string"
+        },
+        "measure_header": {
+          "description": "Extract the printed header text for the second table column. Preserve casing, trim leading/trailing whitespace, and collapse repeated internal whitespace to one space. Never null.",
+          "type": "string"
+        },
+        "population_header": {
+          "description": "Extract the printed header text for the population column. Preserve casing, trim leading/trailing whitespace, and collapse repeated internal whitespace to one space. Never null.",
+          "type": "string"
+        },
+        "rate_header": {
+          "description": "Extract the printed header text for the rate column. Preserve casing, trim leading/trailing whitespace, and collapse repeated internal whitespace to one space. Never null.",
+          "type": "string"
+        },
+        "significance_header": {
+          "description": "Extract the full printed header text for the significance comparison column. Join header words in reading order, preserve casing, trim leading/trailing whitespace, and collapse repeated internal whitespace to one space. Never null.",
+          "type": "string"
+        },
+        "year_header": {
+          "description": "Extract the printed header text for the year column. Preserve casing, trim leading/trailing whitespace, and collapse repeated internal whitespace to one space. Never null.",
+          "type": "string"
+        }
+      },
+      "required": [
+        "indicator_header",
+        "measure_header",
+        "year_header",
+        "geography_header",
+        "rate_header",
+        "confidence_interval_level_percent",
+        "confidence_interval_header",
+        "deaths_header",
+        "population_header",
+        "significance_header"
+      ],
+      "type": "object"
+    }
+  },
+  "required": [
+    "document_context",
+    "source_context",
+    "table_context",
+    "mortality_detail_rows"
+  ],
+  "type": "object"
+}

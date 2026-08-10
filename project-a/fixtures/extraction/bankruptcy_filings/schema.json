@@ -1,0 +1,53 @@
+{
+  "additionalProperties": false,
+  "description": "Schema for migrating a spreadsheet-style bankruptcy filing statistics PDF into a structured analytics table. Capture the complete set of filing count records and deterministic coverage-year scalars so independently extracted outputs can be compared field by field.",
+  "properties": {
+    "covered_year_end": {
+      "description": "The largest year value appearing in the printed 'year' column among all data rows in the table. Emit as a four-digit integer with no quotes, commas, or decimal point. Null is not allowed because the value is derived from printed year cells; ignore the header row when determining it.",
+      "type": "integer"
+    },
+    "covered_year_start": {
+      "description": "The smallest year value appearing in the printed 'year' column among all data rows in the table. Emit as a four-digit integer with no quotes, commas, or decimal point. Null is not allowed because the value is derived from printed year cells; ignore the header row when determining it.",
+      "type": "integer"
+    },
+    "filing_count_records": {
+      "description": "One item for each non-header data row in the main table whose columns are labeled 'year', 'chapter', 'district', and 'case_count'. Preserve the document's row order from the first data row through the final data row, continuing across page breaks; do not add rows for combinations that are not printed and do not include the header row.",
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "case_count": {
+            "description": "The value in the 'case_count' column for this table row. Emit the printed count as an integer with no quotes, commas, or decimal point; if a thousands separator is visually present, remove it before emitting the integer. Null is not allowed because each included row must have a printed case-count cell, and a printed zero must be emitted as 0 rather than null.",
+            "type": "integer"
+          },
+          "chapter": {
+            "description": "The value in the 'chapter' column for this table row. Emit the printed bankruptcy chapter number as an integer with no quotes, commas, or decimal point; do not prefix it with the word 'Chapter'. Null is not allowed because each included row must have a printed chapter cell.",
+            "type": "integer"
+          },
+          "district": {
+            "description": "The value in the 'district' column for this table row. Emit the district code exactly as printed in the cell, preserving lowercase letters and any printed alphabetic suffix; collapse repeated internal whitespace to a single space if extraction introduces extra spacing. Null is not allowed because each included row must have a printed district cell.",
+            "type": "string"
+          },
+          "year": {
+            "description": "The value in the 'year' column for this table row. Emit the printed four-digit year as an integer with no quotes, commas, or decimal point. Null is not allowed because each included row must have a printed year cell.",
+            "type": "integer"
+          }
+        },
+        "required": [
+          "year",
+          "chapter",
+          "district",
+          "case_count"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    }
+  },
+  "required": [
+    "covered_year_start",
+    "covered_year_end",
+    "filing_count_records"
+  ],
+  "title": "Bankruptcy Filing Statistics Data Export Schema",
+  "type": "object"
+}

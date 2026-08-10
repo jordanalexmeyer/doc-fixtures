@@ -1,0 +1,4745 @@
+{
+  "alert_performance": [
+    {
+      "alert_count_n": 2189,
+      "alert_setting_mg_dl": 55,
+      "alert_type": "Hypoglycemic",
+      "event_count_n": 1037,
+      "false_alert_percent": 49,
+      "missed_detection_percent": 24.2,
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "true_alert_percent": 51,
+      "true_detection_percent": 75.8,
+      "wear_location": "Arm"
+    },
+    {
+      "alert_count_n": 3504,
+      "alert_setting_mg_dl": 60,
+      "alert_type": "Hypoglycemic",
+      "event_count_n": 2263,
+      "false_alert_percent": 30.3,
+      "missed_detection_percent": 18.9,
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "true_alert_percent": 69.7,
+      "true_detection_percent": 81.1,
+      "wear_location": "Arm"
+    },
+    {
+      "alert_count_n": 7339,
+      "alert_setting_mg_dl": 70,
+      "alert_type": "Hypoglycemic",
+      "event_count_n": 5651,
+      "false_alert_percent": 13.1,
+      "missed_detection_percent": 11.2,
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "true_alert_percent": 86.9,
+      "true_detection_percent": 88.8,
+      "wear_location": "Arm"
+    },
+    {
+      "alert_count_n": 11893,
+      "alert_setting_mg_dl": 80,
+      "alert_type": "Hypoglycemic",
+      "event_count_n": 8645,
+      "false_alert_percent": 9.8,
+      "missed_detection_percent": 6.3,
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "true_alert_percent": 90.2,
+      "true_detection_percent": 93.7,
+      "wear_location": "Arm"
+    },
+    {
+      "alert_count_n": 16749,
+      "alert_setting_mg_dl": 90,
+      "alert_type": "Hypoglycemic",
+      "event_count_n": 10674,
+      "false_alert_percent": 7.8,
+      "missed_detection_percent": 3.9,
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "true_alert_percent": 92.2,
+      "true_detection_percent": 96.1,
+      "wear_location": "Arm"
+    },
+    {
+      "alert_count_n": 462,
+      "alert_setting_mg_dl": 55,
+      "alert_type": "Hypoglycemic",
+      "event_count_n": 106,
+      "false_alert_percent": 63.2,
+      "missed_detection_percent": 19.8,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "true_alert_percent": 36.8,
+      "true_detection_percent": 80.2,
+      "wear_location": "Arm"
+    },
+    {
+      "alert_count_n": 728,
+      "alert_setting_mg_dl": 60,
+      "alert_type": "Hypoglycemic",
+      "event_count_n": 288,
+      "false_alert_percent": 40.1,
+      "missed_detection_percent": 10.8,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "true_alert_percent": 59.9,
+      "true_detection_percent": 89.2,
+      "wear_location": "Arm"
+    },
+    {
+      "alert_count_n": 1543,
+      "alert_setting_mg_dl": 70,
+      "alert_type": "Hypoglycemic",
+      "event_count_n": 976,
+      "false_alert_percent": 18.5,
+      "missed_detection_percent": 9.6,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "true_alert_percent": 81.5,
+      "true_detection_percent": 90.4,
+      "wear_location": "Arm"
+    },
+    {
+      "alert_count_n": 2477,
+      "alert_setting_mg_dl": 80,
+      "alert_type": "Hypoglycemic",
+      "event_count_n": 1692,
+      "false_alert_percent": 10.1,
+      "missed_detection_percent": 7.5,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "true_alert_percent": 89.9,
+      "true_detection_percent": 92.5,
+      "wear_location": "Arm"
+    },
+    {
+      "alert_count_n": 3415,
+      "alert_setting_mg_dl": 90,
+      "alert_type": "Hypoglycemic",
+      "event_count_n": 2059,
+      "false_alert_percent": 7.6,
+      "missed_detection_percent": 3.2,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "true_alert_percent": 92.4,
+      "true_detection_percent": 96.8,
+      "wear_location": "Arm"
+    },
+    {
+      "alert_count_n": 56899,
+      "alert_setting_mg_dl": 120,
+      "alert_type": "Hyperglycemic",
+      "event_count_n": 24147,
+      "false_alert_percent": 3,
+      "missed_detection_percent": 1.5,
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "true_alert_percent": 97,
+      "true_detection_percent": 98.5,
+      "wear_location": "Arm"
+    },
+    {
+      "alert_count_n": 48771,
+      "alert_setting_mg_dl": 140,
+      "alert_type": "Hyperglycemic",
+      "event_count_n": 21222,
+      "false_alert_percent": 3.2,
+      "missed_detection_percent": 1.8,
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "true_alert_percent": 96.8,
+      "true_detection_percent": 98.2,
+      "wear_location": "Arm"
+    },
+    {
+      "alert_count_n": 35465,
+      "alert_setting_mg_dl": 180,
+      "alert_type": "Hyperglycemic",
+      "event_count_n": 16454,
+      "false_alert_percent": 3.6,
+      "missed_detection_percent": 2.2,
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "true_alert_percent": 96.4,
+      "true_detection_percent": 97.8,
+      "wear_location": "Arm"
+    },
+    {
+      "alert_count_n": 29941,
+      "alert_setting_mg_dl": 200,
+      "alert_type": "Hyperglycemic",
+      "event_count_n": 14521,
+      "false_alert_percent": 3.7,
+      "missed_detection_percent": 2.9,
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "true_alert_percent": 96.3,
+      "true_detection_percent": 97.1,
+      "wear_location": "Arm"
+    },
+    {
+      "alert_count_n": 25145,
+      "alert_setting_mg_dl": 220,
+      "alert_type": "Hyperglycemic",
+      "event_count_n": 12799,
+      "false_alert_percent": 3.8,
+      "missed_detection_percent": 3.5,
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "true_alert_percent": 96.2,
+      "true_detection_percent": 96.5,
+      "wear_location": "Arm"
+    },
+    {
+      "alert_count_n": 20970,
+      "alert_setting_mg_dl": 240,
+      "alert_type": "Hyperglycemic",
+      "event_count_n": 11244,
+      "false_alert_percent": 4.4,
+      "missed_detection_percent": 4.1,
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "true_alert_percent": 95.6,
+      "true_detection_percent": 95.9,
+      "wear_location": "Arm"
+    },
+    {
+      "alert_count_n": 8884,
+      "alert_setting_mg_dl": 300,
+      "alert_type": "Hyperglycemic",
+      "event_count_n": 6630,
+      "false_alert_percent": 9.9,
+      "missed_detection_percent": 11.3,
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "true_alert_percent": 90.1,
+      "true_detection_percent": 88.7,
+      "wear_location": "Arm"
+    },
+    {
+      "alert_count_n": 11557,
+      "alert_setting_mg_dl": 120,
+      "alert_type": "Hyperglycemic",
+      "event_count_n": 5192,
+      "false_alert_percent": 2.4,
+      "missed_detection_percent": 1.4,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "true_alert_percent": 97.6,
+      "true_detection_percent": 98.6,
+      "wear_location": "Arm"
+    },
+    {
+      "alert_count_n": 9695,
+      "alert_setting_mg_dl": 140,
+      "alert_type": "Hyperglycemic",
+      "event_count_n": 4542,
+      "false_alert_percent": 2.3,
+      "missed_detection_percent": 2.1,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "true_alert_percent": 97.7,
+      "true_detection_percent": 97.9,
+      "wear_location": "Arm"
+    },
+    {
+      "alert_count_n": 6600,
+      "alert_setting_mg_dl": 180,
+      "alert_type": "Hyperglycemic",
+      "event_count_n": 3374,
+      "false_alert_percent": 3.7,
+      "missed_detection_percent": 2.8,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "true_alert_percent": 96.3,
+      "true_detection_percent": 97.2,
+      "wear_location": "Arm"
+    },
+    {
+      "alert_count_n": 5476,
+      "alert_setting_mg_dl": 200,
+      "alert_type": "Hyperglycemic",
+      "event_count_n": 2951,
+      "false_alert_percent": 4.3,
+      "missed_detection_percent": 2.9,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "true_alert_percent": 95.7,
+      "true_detection_percent": 97.1,
+      "wear_location": "Arm"
+    },
+    {
+      "alert_count_n": 4384,
+      "alert_setting_mg_dl": 220,
+      "alert_type": "Hyperglycemic",
+      "event_count_n": 2532,
+      "false_alert_percent": 6.3,
+      "missed_detection_percent": 4,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "true_alert_percent": 93.7,
+      "true_detection_percent": 96,
+      "wear_location": "Arm"
+    },
+    {
+      "alert_count_n": 3496,
+      "alert_setting_mg_dl": 240,
+      "alert_type": "Hyperglycemic",
+      "event_count_n": 2218,
+      "false_alert_percent": 5.4,
+      "missed_detection_percent": 3.9,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "true_alert_percent": 94.6,
+      "true_detection_percent": 96.1,
+      "wear_location": "Arm"
+    },
+    {
+      "alert_count_n": 1649,
+      "alert_setting_mg_dl": 300,
+      "alert_type": "Hyperglycemic",
+      "event_count_n": 1467,
+      "false_alert_percent": 6.5,
+      "missed_detection_percent": 12.3,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "true_alert_percent": 93.5,
+      "true_detection_percent": 87.7,
+      "wear_location": "Arm"
+    }
+  ],
+  "applicant_name": "Dexcom, Inc.",
+  "classification_panel": "CH - Clinical Chemistry",
+  "concurrence_marginal_totals": [
+    {
+      "glucose_range_mg_dl": "<40",
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "total_axis": "iCGM",
+      "total_count_n": 224,
+      "wear_location": "Arm"
+    },
+    {
+      "glucose_range_mg_dl": "40-60",
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "total_axis": "iCGM",
+      "total_count_n": 2444,
+      "wear_location": "Arm"
+    },
+    {
+      "glucose_range_mg_dl": "61-80",
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "total_axis": "iCGM",
+      "total_count_n": 5485,
+      "wear_location": "Arm"
+    },
+    {
+      "glucose_range_mg_dl": "81-120",
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "total_axis": "iCGM",
+      "total_count_n": 7502,
+      "wear_location": "Arm"
+    },
+    {
+      "glucose_range_mg_dl": "121-160",
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "total_axis": "iCGM",
+      "total_count_n": 5508,
+      "wear_location": "Arm"
+    },
+    {
+      "glucose_range_mg_dl": "161-200",
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "total_axis": "iCGM",
+      "total_count_n": 4349,
+      "wear_location": "Arm"
+    },
+    {
+      "glucose_range_mg_dl": "201-250",
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "total_axis": "iCGM",
+      "total_count_n": 4015,
+      "wear_location": "Arm"
+    },
+    {
+      "glucose_range_mg_dl": "251-300",
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "total_axis": "iCGM",
+      "total_count_n": 4410,
+      "wear_location": "Arm"
+    },
+    {
+      "glucose_range_mg_dl": "301-350",
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "total_axis": "iCGM",
+      "total_count_n": 3953,
+      "wear_location": "Arm"
+    },
+    {
+      "glucose_range_mg_dl": "351-400",
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "total_axis": "iCGM",
+      "total_count_n": 1527,
+      "wear_location": "Arm"
+    },
+    {
+      "glucose_range_mg_dl": ">400",
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "total_axis": "iCGM",
+      "total_count_n": 278,
+      "wear_location": "Arm"
+    },
+    {
+      "glucose_range_mg_dl": "<40",
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "total_axis": "iCGM",
+      "total_count_n": 74,
+      "wear_location": "Arm"
+    },
+    {
+      "glucose_range_mg_dl": "40-60",
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "total_axis": "iCGM",
+      "total_count_n": 402,
+      "wear_location": "Arm"
+    },
+    {
+      "glucose_range_mg_dl": "61-80",
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "total_axis": "iCGM",
+      "total_count_n": 1089,
+      "wear_location": "Arm"
+    },
+    {
+      "glucose_range_mg_dl": "81-120",
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "total_axis": "iCGM",
+      "total_count_n": 1556,
+      "wear_location": "Arm"
+    },
+    {
+      "glucose_range_mg_dl": "121-160",
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "total_axis": "iCGM",
+      "total_count_n": 1295,
+      "wear_location": "Arm"
+    },
+    {
+      "glucose_range_mg_dl": "161-200",
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "total_axis": "iCGM",
+      "total_count_n": 937,
+      "wear_location": "Arm"
+    },
+    {
+      "glucose_range_mg_dl": "201-250",
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "total_axis": "iCGM",
+      "total_count_n": 914,
+      "wear_location": "Arm"
+    },
+    {
+      "glucose_range_mg_dl": "251-300",
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "total_axis": "iCGM",
+      "total_count_n": 713,
+      "wear_location": "Arm"
+    },
+    {
+      "glucose_range_mg_dl": "301-350",
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "total_axis": "iCGM",
+      "total_count_n": 786,
+      "wear_location": "Arm"
+    },
+    {
+      "glucose_range_mg_dl": "351-400",
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "total_axis": "iCGM",
+      "total_count_n": 376,
+      "wear_location": "Arm"
+    },
+    {
+      "glucose_range_mg_dl": ">400",
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "total_axis": "iCGM",
+      "total_count_n": 78,
+      "wear_location": "Arm"
+    },
+    {
+      "glucose_range_mg_dl": "<40",
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "total_axis": "Comparator Glucose Values",
+      "total_count_n": 26,
+      "wear_location": "Arm"
+    },
+    {
+      "glucose_range_mg_dl": "40-60",
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "total_axis": "Comparator Glucose Values",
+      "total_count_n": 2231,
+      "wear_location": "Arm"
+    },
+    {
+      "glucose_range_mg_dl": "61-80",
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "total_axis": "Comparator Glucose Values",
+      "total_count_n": 6358,
+      "wear_location": "Arm"
+    },
+    {
+      "glucose_range_mg_dl": "81-120",
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "total_axis": "Comparator Glucose Values",
+      "total_count_n": 7186,
+      "wear_location": "Arm"
+    },
+    {
+      "glucose_range_mg_dl": "121-160",
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "total_axis": "Comparator Glucose Values",
+      "total_count_n": 5337,
+      "wear_location": "Arm"
+    },
+    {
+      "glucose_range_mg_dl": "161-200",
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "total_axis": "Comparator Glucose Values",
+      "total_count_n": 4198,
+      "wear_location": "Arm"
+    },
+    {
+      "glucose_range_mg_dl": "201-250",
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "total_axis": "Comparator Glucose Values",
+      "total_count_n": 3965,
+      "wear_location": "Arm"
+    },
+    {
+      "glucose_range_mg_dl": "251-300",
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "total_axis": "Comparator Glucose Values",
+      "total_count_n": 3871,
+      "wear_location": "Arm"
+    },
+    {
+      "glucose_range_mg_dl": "301-350",
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "total_axis": "Comparator Glucose Values",
+      "total_count_n": 4581,
+      "wear_location": "Arm"
+    },
+    {
+      "glucose_range_mg_dl": "351-400",
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "total_axis": "Comparator Glucose Values",
+      "total_count_n": 1764,
+      "wear_location": "Arm"
+    },
+    {
+      "glucose_range_mg_dl": ">400",
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "total_axis": "Comparator Glucose Values",
+      "total_count_n": 178,
+      "wear_location": "Arm"
+    },
+    {
+      "glucose_range_mg_dl": "<40",
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "total_axis": "Comparator Glucose Values",
+      "total_count_n": 3,
+      "wear_location": "Arm"
+    },
+    {
+      "glucose_range_mg_dl": "40-60",
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "total_axis": "Comparator Glucose Values",
+      "total_count_n": 282,
+      "wear_location": "Arm"
+    },
+    {
+      "glucose_range_mg_dl": "61-80",
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "total_axis": "Comparator Glucose Values",
+      "total_count_n": 1402,
+      "wear_location": "Arm"
+    },
+    {
+      "glucose_range_mg_dl": "81-120",
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "total_axis": "Comparator Glucose Values",
+      "total_count_n": 1400,
+      "wear_location": "Arm"
+    },
+    {
+      "glucose_range_mg_dl": "121-160",
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "total_axis": "Comparator Glucose Values",
+      "total_count_n": 1265,
+      "wear_location": "Arm"
+    },
+    {
+      "glucose_range_mg_dl": "161-200",
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "total_axis": "Comparator Glucose Values",
+      "total_count_n": 949,
+      "wear_location": "Arm"
+    },
+    {
+      "glucose_range_mg_dl": "201-250",
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "total_axis": "Comparator Glucose Values",
+      "total_count_n": 861,
+      "wear_location": "Arm"
+    },
+    {
+      "glucose_range_mg_dl": "251-300",
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "total_axis": "Comparator Glucose Values",
+      "total_count_n": 610,
+      "wear_location": "Arm"
+    },
+    {
+      "glucose_range_mg_dl": "301-350",
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "total_axis": "Comparator Glucose Values",
+      "total_count_n": 998,
+      "wear_location": "Arm"
+    },
+    {
+      "glucose_range_mg_dl": "351-400",
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "total_axis": "Comparator Glucose Values",
+      "total_count_n": 396,
+      "wear_location": "Arm"
+    },
+    {
+      "glucose_range_mg_dl": ">400",
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "total_axis": "Comparator Glucose Values",
+      "total_count_n": 54,
+      "wear_location": "Arm"
+    }
+  ],
+  "concurrence_matrix_cells": [
+    {
+      "comparator_glucose_range_mg_dl": "<40",
+      "icgm_glucose_range_mg_dl": "<40",
+      "pair_count_n": 16,
+      "percentage": 7.1,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "40-60",
+      "icgm_glucose_range_mg_dl": "<40",
+      "pair_count_n": 105,
+      "percentage": 46.9,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "61-80",
+      "icgm_glucose_range_mg_dl": "<40",
+      "pair_count_n": 97,
+      "percentage": 43.3,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "81-120",
+      "icgm_glucose_range_mg_dl": "<40",
+      "pair_count_n": 3,
+      "percentage": 1.3,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "121-160",
+      "icgm_glucose_range_mg_dl": "<40",
+      "pair_count_n": 3,
+      "percentage": 1.3,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "<40",
+      "icgm_glucose_range_mg_dl": "40-60",
+      "pair_count_n": 9,
+      "percentage": 0.4,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "40-60",
+      "icgm_glucose_range_mg_dl": "40-60",
+      "pair_count_n": 1418,
+      "percentage": 58,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "61-80",
+      "icgm_glucose_range_mg_dl": "40-60",
+      "pair_count_n": 944,
+      "percentage": 38.6,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "81-120",
+      "icgm_glucose_range_mg_dl": "40-60",
+      "pair_count_n": 71,
+      "percentage": 2.9,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "121-160",
+      "icgm_glucose_range_mg_dl": "40-60",
+      "pair_count_n": 2,
+      "percentage": 0.1,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "<40",
+      "icgm_glucose_range_mg_dl": "61-80",
+      "pair_count_n": 1,
+      "percentage": 0,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "40-60",
+      "icgm_glucose_range_mg_dl": "61-80",
+      "pair_count_n": 657,
+      "percentage": 12,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "61-80",
+      "icgm_glucose_range_mg_dl": "61-80",
+      "pair_count_n": 4134,
+      "percentage": 75.4,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "81-120",
+      "icgm_glucose_range_mg_dl": "61-80",
+      "pair_count_n": 678,
+      "percentage": 12.4,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "121-160",
+      "icgm_glucose_range_mg_dl": "61-80",
+      "pair_count_n": 11,
+      "percentage": 0.2,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "161-200",
+      "icgm_glucose_range_mg_dl": "61-80",
+      "pair_count_n": 4,
+      "percentage": 0.1,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "40-60",
+      "icgm_glucose_range_mg_dl": "81-120",
+      "pair_count_n": 49,
+      "percentage": 0.7,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "61-80",
+      "icgm_glucose_range_mg_dl": "81-120",
+      "pair_count_n": 1175,
+      "percentage": 15.7,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "81-120",
+      "icgm_glucose_range_mg_dl": "81-120",
+      "pair_count_n": 5570,
+      "percentage": 74.2,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "121-160",
+      "icgm_glucose_range_mg_dl": "81-120",
+      "pair_count_n": 671,
+      "percentage": 8.9,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "161-200",
+      "icgm_glucose_range_mg_dl": "81-120",
+      "pair_count_n": 30,
+      "percentage": 0.4,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "201-250",
+      "icgm_glucose_range_mg_dl": "81-120",
+      "pair_count_n": 7,
+      "percentage": 0.1,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "40-60",
+      "icgm_glucose_range_mg_dl": "121-160",
+      "pair_count_n": 2,
+      "percentage": 0,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "61-80",
+      "icgm_glucose_range_mg_dl": "121-160",
+      "pair_count_n": 2,
+      "percentage": 0,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "81-120",
+      "icgm_glucose_range_mg_dl": "121-160",
+      "pair_count_n": 855,
+      "percentage": 15.5,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "121-160",
+      "icgm_glucose_range_mg_dl": "121-160",
+      "pair_count_n": 3950,
+      "percentage": 71.7,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "161-200",
+      "icgm_glucose_range_mg_dl": "121-160",
+      "pair_count_n": 636,
+      "percentage": 11.5,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "201-250",
+      "icgm_glucose_range_mg_dl": "121-160",
+      "pair_count_n": 58,
+      "percentage": 1.1,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "251-300",
+      "icgm_glucose_range_mg_dl": "121-160",
+      "pair_count_n": 5,
+      "percentage": 0.1,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "61-80",
+      "icgm_glucose_range_mg_dl": "161-200",
+      "pair_count_n": 6,
+      "percentage": 0.1,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "81-120",
+      "icgm_glucose_range_mg_dl": "161-200",
+      "pair_count_n": 9,
+      "percentage": 0.2,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "121-160",
+      "icgm_glucose_range_mg_dl": "161-200",
+      "pair_count_n": 691,
+      "percentage": 15.9,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "161-200",
+      "icgm_glucose_range_mg_dl": "161-200",
+      "pair_count_n": 2916,
+      "percentage": 67,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "201-250",
+      "icgm_glucose_range_mg_dl": "161-200",
+      "pair_count_n": 668,
+      "percentage": 15.4,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "251-300",
+      "icgm_glucose_range_mg_dl": "161-200",
+      "pair_count_n": 55,
+      "percentage": 1.3,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "301-350",
+      "icgm_glucose_range_mg_dl": "161-200",
+      "pair_count_n": 4,
+      "percentage": 0.1,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "121-160",
+      "icgm_glucose_range_mg_dl": "201-250",
+      "pair_count_n": 9,
+      "percentage": 0.2,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "161-200",
+      "icgm_glucose_range_mg_dl": "201-250",
+      "pair_count_n": 608,
+      "percentage": 15.1,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "201-250",
+      "icgm_glucose_range_mg_dl": "201-250",
+      "pair_count_n": 2687,
+      "percentage": 66.9,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "251-300",
+      "icgm_glucose_range_mg_dl": "201-250",
+      "pair_count_n": 651,
+      "percentage": 16.2,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "301-350",
+      "icgm_glucose_range_mg_dl": "201-250",
+      "pair_count_n": 51,
+      "percentage": 1.3,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "351-400",
+      "icgm_glucose_range_mg_dl": "201-250",
+      "pair_count_n": 6,
+      "percentage": 0.1,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": ">400",
+      "icgm_glucose_range_mg_dl": "201-250",
+      "pair_count_n": 3,
+      "percentage": 0.1,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "161-200",
+      "icgm_glucose_range_mg_dl": "251-300",
+      "pair_count_n": 4,
+      "percentage": 0.1,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "201-250",
+      "icgm_glucose_range_mg_dl": "251-300",
+      "pair_count_n": 538,
+      "percentage": 12.2,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "251-300",
+      "icgm_glucose_range_mg_dl": "251-300",
+      "pair_count_n": 2604,
+      "percentage": 59,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "301-350",
+      "icgm_glucose_range_mg_dl": "251-300",
+      "pair_count_n": 1187,
+      "percentage": 26.9,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "351-400",
+      "icgm_glucose_range_mg_dl": "251-300",
+      "pair_count_n": 77,
+      "percentage": 1.7,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "201-250",
+      "icgm_glucose_range_mg_dl": "301-350",
+      "pair_count_n": 7,
+      "percentage": 0.2,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "251-300",
+      "icgm_glucose_range_mg_dl": "301-350",
+      "pair_count_n": 547,
+      "percentage": 13.8,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "301-350",
+      "icgm_glucose_range_mg_dl": "301-350",
+      "pair_count_n": 2795,
+      "percentage": 70.7,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "351-400",
+      "icgm_glucose_range_mg_dl": "301-350",
+      "pair_count_n": 598,
+      "percentage": 15.1,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": ">400",
+      "icgm_glucose_range_mg_dl": "301-350",
+      "pair_count_n": 6,
+      "percentage": 0.2,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "251-300",
+      "icgm_glucose_range_mg_dl": "351-400",
+      "pair_count_n": 9,
+      "percentage": 0.6,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "301-350",
+      "icgm_glucose_range_mg_dl": "351-400",
+      "pair_count_n": 530,
+      "percentage": 34.7,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "351-400",
+      "icgm_glucose_range_mg_dl": "351-400",
+      "pair_count_n": 940,
+      "percentage": 61.6,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": ">400",
+      "icgm_glucose_range_mg_dl": "351-400",
+      "pair_count_n": 48,
+      "percentage": 3.1,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "301-350",
+      "icgm_glucose_range_mg_dl": ">400",
+      "pair_count_n": 14,
+      "percentage": 5,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "351-400",
+      "icgm_glucose_range_mg_dl": ">400",
+      "pair_count_n": 143,
+      "percentage": 51.4,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": ">400",
+      "icgm_glucose_range_mg_dl": ">400",
+      "pair_count_n": 121,
+      "percentage": 43.5,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "<40",
+      "icgm_glucose_range_mg_dl": "<40",
+      "pair_count_n": 3,
+      "percentage": 4.1,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "40-60",
+      "icgm_glucose_range_mg_dl": "<40",
+      "pair_count_n": 33,
+      "percentage": 44.6,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "61-80",
+      "icgm_glucose_range_mg_dl": "<40",
+      "pair_count_n": 33,
+      "percentage": 44.6,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "81-120",
+      "icgm_glucose_range_mg_dl": "<40",
+      "pair_count_n": 5,
+      "percentage": 6.8,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "40-60",
+      "icgm_glucose_range_mg_dl": "40-60",
+      "pair_count_n": 186,
+      "percentage": 46.3,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "61-80",
+      "icgm_glucose_range_mg_dl": "40-60",
+      "pair_count_n": 196,
+      "percentage": 48.8,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "81-120",
+      "icgm_glucose_range_mg_dl": "40-60",
+      "pair_count_n": 15,
+      "percentage": 3.7,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "121-160",
+      "icgm_glucose_range_mg_dl": "40-60",
+      "pair_count_n": 5,
+      "percentage": 1.2,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "40-60",
+      "icgm_glucose_range_mg_dl": "61-80",
+      "pair_count_n": 61,
+      "percentage": 5.6,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "61-80",
+      "icgm_glucose_range_mg_dl": "61-80",
+      "pair_count_n": 895,
+      "percentage": 82.2,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "81-120",
+      "icgm_glucose_range_mg_dl": "61-80",
+      "pair_count_n": 120,
+      "percentage": 11,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "121-160",
+      "icgm_glucose_range_mg_dl": "61-80",
+      "pair_count_n": 11,
+      "percentage": 1,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "161-200",
+      "icgm_glucose_range_mg_dl": "61-80",
+      "pair_count_n": 2,
+      "percentage": 0.2,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "40-60",
+      "icgm_glucose_range_mg_dl": "81-120",
+      "pair_count_n": 2,
+      "percentage": 0.1,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "61-80",
+      "icgm_glucose_range_mg_dl": "81-120",
+      "pair_count_n": 278,
+      "percentage": 17.9,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "81-120",
+      "icgm_glucose_range_mg_dl": "81-120",
+      "pair_count_n": 1103,
+      "percentage": 70.9,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "121-160",
+      "icgm_glucose_range_mg_dl": "81-120",
+      "pair_count_n": 168,
+      "percentage": 10.8,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "161-200",
+      "icgm_glucose_range_mg_dl": "81-120",
+      "pair_count_n": 5,
+      "percentage": 0.3,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "81-120",
+      "icgm_glucose_range_mg_dl": "121-160",
+      "pair_count_n": 156,
+      "percentage": 12,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "121-160",
+      "icgm_glucose_range_mg_dl": "121-160",
+      "pair_count_n": 908,
+      "percentage": 70.1,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "161-200",
+      "icgm_glucose_range_mg_dl": "121-160",
+      "pair_count_n": 215,
+      "percentage": 16.6,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "201-250",
+      "icgm_glucose_range_mg_dl": "121-160",
+      "pair_count_n": 16,
+      "percentage": 1.2,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "81-120",
+      "icgm_glucose_range_mg_dl": "161-200",
+      "pair_count_n": 1,
+      "percentage": 0.1,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "121-160",
+      "icgm_glucose_range_mg_dl": "161-200",
+      "pair_count_n": 173,
+      "percentage": 18.5,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "161-200",
+      "icgm_glucose_range_mg_dl": "161-200",
+      "pair_count_n": 605,
+      "percentage": 64.6,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "201-250",
+      "icgm_glucose_range_mg_dl": "161-200",
+      "pair_count_n": 148,
+      "percentage": 15.8,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "251-300",
+      "icgm_glucose_range_mg_dl": "161-200",
+      "pair_count_n": 10,
+      "percentage": 1.1,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "161-200",
+      "icgm_glucose_range_mg_dl": "201-250",
+      "pair_count_n": 122,
+      "percentage": 13.3,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "201-250",
+      "icgm_glucose_range_mg_dl": "201-250",
+      "pair_count_n": 610,
+      "percentage": 66.7,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "251-300",
+      "icgm_glucose_range_mg_dl": "201-250",
+      "pair_count_n": 169,
+      "percentage": 18.5,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "301-350",
+      "icgm_glucose_range_mg_dl": "201-250",
+      "pair_count_n": 13,
+      "percentage": 1.4,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "201-250",
+      "icgm_glucose_range_mg_dl": "251-300",
+      "pair_count_n": 87,
+      "percentage": 12.2,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "251-300",
+      "icgm_glucose_range_mg_dl": "251-300",
+      "pair_count_n": 344,
+      "percentage": 48.2,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "301-350",
+      "icgm_glucose_range_mg_dl": "251-300",
+      "pair_count_n": 279,
+      "percentage": 39.1,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "351-400",
+      "icgm_glucose_range_mg_dl": "251-300",
+      "pair_count_n": 3,
+      "percentage": 0.4,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "251-300",
+      "icgm_glucose_range_mg_dl": "301-350",
+      "pair_count_n": 86,
+      "percentage": 10.9,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "301-350",
+      "icgm_glucose_range_mg_dl": "301-350",
+      "pair_count_n": 589,
+      "percentage": 74.9,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "351-400",
+      "icgm_glucose_range_mg_dl": "301-350",
+      "pair_count_n": 110,
+      "percentage": 14,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": ">400",
+      "icgm_glucose_range_mg_dl": "301-350",
+      "pair_count_n": 1,
+      "percentage": 0.1,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "251-300",
+      "icgm_glucose_range_mg_dl": "351-400",
+      "pair_count_n": 1,
+      "percentage": 0.3,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "301-350",
+      "icgm_glucose_range_mg_dl": "351-400",
+      "pair_count_n": 114,
+      "percentage": 30.3,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "351-400",
+      "icgm_glucose_range_mg_dl": "351-400",
+      "pair_count_n": 240,
+      "percentage": 63.8,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": ">400",
+      "icgm_glucose_range_mg_dl": "351-400",
+      "pair_count_n": 21,
+      "percentage": 5.6,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "301-350",
+      "icgm_glucose_range_mg_dl": ">400",
+      "pair_count_n": 3,
+      "percentage": 3.8,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "351-400",
+      "icgm_glucose_range_mg_dl": ">400",
+      "pair_count_n": 43,
+      "percentage": 55.1,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": ">400",
+      "icgm_glucose_range_mg_dl": ">400",
+      "pair_count_n": 32,
+      "percentage": 41,
+      "percentage_basis": "iCGM Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "<40",
+      "icgm_glucose_range_mg_dl": "<40",
+      "pair_count_n": 16,
+      "percentage": 61.5,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "40-60",
+      "icgm_glucose_range_mg_dl": "<40",
+      "pair_count_n": 105,
+      "percentage": 4.7,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "61-80",
+      "icgm_glucose_range_mg_dl": "<40",
+      "pair_count_n": 97,
+      "percentage": 1.5,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "81-120",
+      "icgm_glucose_range_mg_dl": "<40",
+      "pair_count_n": 3,
+      "percentage": 0,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "121-160",
+      "icgm_glucose_range_mg_dl": "<40",
+      "pair_count_n": 3,
+      "percentage": 0.1,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "<40",
+      "icgm_glucose_range_mg_dl": "40-60",
+      "pair_count_n": 9,
+      "percentage": 34.6,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "40-60",
+      "icgm_glucose_range_mg_dl": "40-60",
+      "pair_count_n": 1418,
+      "percentage": 63.6,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "61-80",
+      "icgm_glucose_range_mg_dl": "40-60",
+      "pair_count_n": 944,
+      "percentage": 14.8,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "81-120",
+      "icgm_glucose_range_mg_dl": "40-60",
+      "pair_count_n": 71,
+      "percentage": 1,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "121-160",
+      "icgm_glucose_range_mg_dl": "40-60",
+      "pair_count_n": 2,
+      "percentage": 0,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "<40",
+      "icgm_glucose_range_mg_dl": "61-80",
+      "pair_count_n": 1,
+      "percentage": 3.8,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "40-60",
+      "icgm_glucose_range_mg_dl": "61-80",
+      "pair_count_n": 657,
+      "percentage": 29.4,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "61-80",
+      "icgm_glucose_range_mg_dl": "61-80",
+      "pair_count_n": 4134,
+      "percentage": 65,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "81-120",
+      "icgm_glucose_range_mg_dl": "61-80",
+      "pair_count_n": 678,
+      "percentage": 9.4,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "121-160",
+      "icgm_glucose_range_mg_dl": "61-80",
+      "pair_count_n": 11,
+      "percentage": 0.2,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "161-200",
+      "icgm_glucose_range_mg_dl": "61-80",
+      "pair_count_n": 4,
+      "percentage": 0.1,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "40-60",
+      "icgm_glucose_range_mg_dl": "81-120",
+      "pair_count_n": 49,
+      "percentage": 2.2,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "61-80",
+      "icgm_glucose_range_mg_dl": "81-120",
+      "pair_count_n": 1175,
+      "percentage": 18.5,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "81-120",
+      "icgm_glucose_range_mg_dl": "81-120",
+      "pair_count_n": 5570,
+      "percentage": 77.5,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "121-160",
+      "icgm_glucose_range_mg_dl": "81-120",
+      "pair_count_n": 671,
+      "percentage": 12.6,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "161-200",
+      "icgm_glucose_range_mg_dl": "81-120",
+      "pair_count_n": 30,
+      "percentage": 0.7,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "201-250",
+      "icgm_glucose_range_mg_dl": "81-120",
+      "pair_count_n": 7,
+      "percentage": 0.2,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "40-60",
+      "icgm_glucose_range_mg_dl": "121-160",
+      "pair_count_n": 2,
+      "percentage": 0.1,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "61-80",
+      "icgm_glucose_range_mg_dl": "121-160",
+      "pair_count_n": 2,
+      "percentage": 0,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "81-120",
+      "icgm_glucose_range_mg_dl": "121-160",
+      "pair_count_n": 855,
+      "percentage": 11.9,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "121-160",
+      "icgm_glucose_range_mg_dl": "121-160",
+      "pair_count_n": 3950,
+      "percentage": 74,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "161-200",
+      "icgm_glucose_range_mg_dl": "121-160",
+      "pair_count_n": 636,
+      "percentage": 15.2,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "201-250",
+      "icgm_glucose_range_mg_dl": "121-160",
+      "pair_count_n": 58,
+      "percentage": 1.5,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "251-300",
+      "icgm_glucose_range_mg_dl": "121-160",
+      "pair_count_n": 5,
+      "percentage": 0.1,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "61-80",
+      "icgm_glucose_range_mg_dl": "161-200",
+      "pair_count_n": 6,
+      "percentage": 0.1,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "81-120",
+      "icgm_glucose_range_mg_dl": "161-200",
+      "pair_count_n": 9,
+      "percentage": 0.1,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "121-160",
+      "icgm_glucose_range_mg_dl": "161-200",
+      "pair_count_n": 691,
+      "percentage": 12.9,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "161-200",
+      "icgm_glucose_range_mg_dl": "161-200",
+      "pair_count_n": 2916,
+      "percentage": 69.5,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "201-250",
+      "icgm_glucose_range_mg_dl": "161-200",
+      "pair_count_n": 668,
+      "percentage": 16.8,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "251-300",
+      "icgm_glucose_range_mg_dl": "161-200",
+      "pair_count_n": 55,
+      "percentage": 1.4,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "301-350",
+      "icgm_glucose_range_mg_dl": "161-200",
+      "pair_count_n": 4,
+      "percentage": 0.1,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "121-160",
+      "icgm_glucose_range_mg_dl": "201-250",
+      "pair_count_n": 9,
+      "percentage": 0.2,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "161-200",
+      "icgm_glucose_range_mg_dl": "201-250",
+      "pair_count_n": 608,
+      "percentage": 14.5,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "201-250",
+      "icgm_glucose_range_mg_dl": "201-250",
+      "pair_count_n": 2687,
+      "percentage": 67.8,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "251-300",
+      "icgm_glucose_range_mg_dl": "201-250",
+      "pair_count_n": 651,
+      "percentage": 16.8,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "301-350",
+      "icgm_glucose_range_mg_dl": "201-250",
+      "pair_count_n": 51,
+      "percentage": 1.1,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "351-400",
+      "icgm_glucose_range_mg_dl": "201-250",
+      "pair_count_n": 6,
+      "percentage": 0.3,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": ">400",
+      "icgm_glucose_range_mg_dl": "201-250",
+      "pair_count_n": 3,
+      "percentage": 1.7,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "161-200",
+      "icgm_glucose_range_mg_dl": "251-300",
+      "pair_count_n": 4,
+      "percentage": 0.1,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "201-250",
+      "icgm_glucose_range_mg_dl": "251-300",
+      "pair_count_n": 538,
+      "percentage": 13.6,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "251-300",
+      "icgm_glucose_range_mg_dl": "251-300",
+      "pair_count_n": 2604,
+      "percentage": 67.3,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "301-350",
+      "icgm_glucose_range_mg_dl": "251-300",
+      "pair_count_n": 1187,
+      "percentage": 25.9,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "351-400",
+      "icgm_glucose_range_mg_dl": "251-300",
+      "pair_count_n": 77,
+      "percentage": 4.4,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "201-250",
+      "icgm_glucose_range_mg_dl": "301-350",
+      "pair_count_n": 7,
+      "percentage": 0.2,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "251-300",
+      "icgm_glucose_range_mg_dl": "301-350",
+      "pair_count_n": 547,
+      "percentage": 14.1,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "301-350",
+      "icgm_glucose_range_mg_dl": "301-350",
+      "pair_count_n": 2795,
+      "percentage": 61,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "351-400",
+      "icgm_glucose_range_mg_dl": "301-350",
+      "pair_count_n": 598,
+      "percentage": 33.9,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": ">400",
+      "icgm_glucose_range_mg_dl": "301-350",
+      "pair_count_n": 6,
+      "percentage": 3.4,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "251-300",
+      "icgm_glucose_range_mg_dl": "351-400",
+      "pair_count_n": 9,
+      "percentage": 0.2,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "301-350",
+      "icgm_glucose_range_mg_dl": "351-400",
+      "pair_count_n": 530,
+      "percentage": 11.6,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "351-400",
+      "icgm_glucose_range_mg_dl": "351-400",
+      "pair_count_n": 940,
+      "percentage": 53.3,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": ">400",
+      "icgm_glucose_range_mg_dl": "351-400",
+      "pair_count_n": 48,
+      "percentage": 27,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "301-350",
+      "icgm_glucose_range_mg_dl": ">400",
+      "pair_count_n": 14,
+      "percentage": 0.3,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "351-400",
+      "icgm_glucose_range_mg_dl": ">400",
+      "pair_count_n": 143,
+      "percentage": 8.1,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": ">400",
+      "icgm_glucose_range_mg_dl": ">400",
+      "pair_count_n": 121,
+      "percentage": 68,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "<40",
+      "icgm_glucose_range_mg_dl": "<40",
+      "pair_count_n": 3,
+      "percentage": 100,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "40-60",
+      "icgm_glucose_range_mg_dl": "<40",
+      "pair_count_n": 33,
+      "percentage": 11.7,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "61-80",
+      "icgm_glucose_range_mg_dl": "<40",
+      "pair_count_n": 33,
+      "percentage": 2.4,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "81-120",
+      "icgm_glucose_range_mg_dl": "<40",
+      "pair_count_n": 5,
+      "percentage": 0.4,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "40-60",
+      "icgm_glucose_range_mg_dl": "40-60",
+      "pair_count_n": 186,
+      "percentage": 66,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "61-80",
+      "icgm_glucose_range_mg_dl": "40-60",
+      "pair_count_n": 196,
+      "percentage": 14,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "81-120",
+      "icgm_glucose_range_mg_dl": "40-60",
+      "pair_count_n": 15,
+      "percentage": 1.1,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "121-160",
+      "icgm_glucose_range_mg_dl": "40-60",
+      "pair_count_n": 5,
+      "percentage": 0.4,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "40-60",
+      "icgm_glucose_range_mg_dl": "61-80",
+      "pair_count_n": 61,
+      "percentage": 21.6,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "61-80",
+      "icgm_glucose_range_mg_dl": "61-80",
+      "pair_count_n": 895,
+      "percentage": 63.8,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "81-120",
+      "icgm_glucose_range_mg_dl": "61-80",
+      "pair_count_n": 120,
+      "percentage": 8.6,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "121-160",
+      "icgm_glucose_range_mg_dl": "61-80",
+      "pair_count_n": 11,
+      "percentage": 0.9,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "161-200",
+      "icgm_glucose_range_mg_dl": "61-80",
+      "pair_count_n": 2,
+      "percentage": 0.2,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "40-60",
+      "icgm_glucose_range_mg_dl": "81-120",
+      "pair_count_n": 2,
+      "percentage": 0.7,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "61-80",
+      "icgm_glucose_range_mg_dl": "81-120",
+      "pair_count_n": 278,
+      "percentage": 19.8,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "81-120",
+      "icgm_glucose_range_mg_dl": "81-120",
+      "pair_count_n": 1103,
+      "percentage": 78.8,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "121-160",
+      "icgm_glucose_range_mg_dl": "81-120",
+      "pair_count_n": 168,
+      "percentage": 13.3,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "161-200",
+      "icgm_glucose_range_mg_dl": "81-120",
+      "pair_count_n": 5,
+      "percentage": 0.5,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "81-120",
+      "icgm_glucose_range_mg_dl": "121-160",
+      "pair_count_n": 156,
+      "percentage": 11.1,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "121-160",
+      "icgm_glucose_range_mg_dl": "121-160",
+      "pair_count_n": 908,
+      "percentage": 71.8,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "161-200",
+      "icgm_glucose_range_mg_dl": "121-160",
+      "pair_count_n": 215,
+      "percentage": 22.7,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "201-250",
+      "icgm_glucose_range_mg_dl": "121-160",
+      "pair_count_n": 16,
+      "percentage": 1.9,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "81-120",
+      "icgm_glucose_range_mg_dl": "161-200",
+      "pair_count_n": 1,
+      "percentage": 0.1,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "121-160",
+      "icgm_glucose_range_mg_dl": "161-200",
+      "pair_count_n": 173,
+      "percentage": 13.7,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "161-200",
+      "icgm_glucose_range_mg_dl": "161-200",
+      "pair_count_n": 605,
+      "percentage": 63.8,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "201-250",
+      "icgm_glucose_range_mg_dl": "161-200",
+      "pair_count_n": 148,
+      "percentage": 17.2,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "251-300",
+      "icgm_glucose_range_mg_dl": "161-200",
+      "pair_count_n": 10,
+      "percentage": 1.6,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "161-200",
+      "icgm_glucose_range_mg_dl": "201-250",
+      "pair_count_n": 122,
+      "percentage": 12.9,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "201-250",
+      "icgm_glucose_range_mg_dl": "201-250",
+      "pair_count_n": 610,
+      "percentage": 70.8,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "251-300",
+      "icgm_glucose_range_mg_dl": "201-250",
+      "pair_count_n": 169,
+      "percentage": 27.7,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "301-350",
+      "icgm_glucose_range_mg_dl": "201-250",
+      "pair_count_n": 13,
+      "percentage": 1.3,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "201-250",
+      "icgm_glucose_range_mg_dl": "251-300",
+      "pair_count_n": 87,
+      "percentage": 10.1,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "251-300",
+      "icgm_glucose_range_mg_dl": "251-300",
+      "pair_count_n": 344,
+      "percentage": 56.4,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "301-350",
+      "icgm_glucose_range_mg_dl": "251-300",
+      "pair_count_n": 279,
+      "percentage": 28,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "351-400",
+      "icgm_glucose_range_mg_dl": "251-300",
+      "pair_count_n": 3,
+      "percentage": 0.8,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "251-300",
+      "icgm_glucose_range_mg_dl": "301-350",
+      "pair_count_n": 86,
+      "percentage": 14.1,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "301-350",
+      "icgm_glucose_range_mg_dl": "301-350",
+      "pair_count_n": 589,
+      "percentage": 59,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "351-400",
+      "icgm_glucose_range_mg_dl": "301-350",
+      "pair_count_n": 110,
+      "percentage": 27.8,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": ">400",
+      "icgm_glucose_range_mg_dl": "301-350",
+      "pair_count_n": 1,
+      "percentage": 1.9,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "251-300",
+      "icgm_glucose_range_mg_dl": "351-400",
+      "pair_count_n": 1,
+      "percentage": 0.2,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "301-350",
+      "icgm_glucose_range_mg_dl": "351-400",
+      "pair_count_n": 114,
+      "percentage": 11.4,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "351-400",
+      "icgm_glucose_range_mg_dl": "351-400",
+      "pair_count_n": 240,
+      "percentage": 60.6,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": ">400",
+      "icgm_glucose_range_mg_dl": "351-400",
+      "pair_count_n": 21,
+      "percentage": 38.9,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "301-350",
+      "icgm_glucose_range_mg_dl": ">400",
+      "pair_count_n": 3,
+      "percentage": 0.3,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": "351-400",
+      "icgm_glucose_range_mg_dl": ">400",
+      "pair_count_n": 43,
+      "percentage": 10.9,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_glucose_range_mg_dl": ">400",
+      "icgm_glucose_range_mg_dl": ">400",
+      "pair_count_n": 32,
+      "percentage": 59.3,
+      "percentage_basis": "Comparator Glucose Range",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    }
+  ],
+  "data_availability_by_wear_day": [
+    {
+      "data_availability_rate_percent": 99.5,
+      "number_of_sensors": 460,
+      "wear_day_label": "1"
+    },
+    {
+      "data_availability_rate_percent": 99.8,
+      "number_of_sensors": 451,
+      "wear_day_label": "2"
+    },
+    {
+      "data_availability_rate_percent": 99.9,
+      "number_of_sensors": 443,
+      "wear_day_label": "3"
+    },
+    {
+      "data_availability_rate_percent": 99.7,
+      "number_of_sensors": 438,
+      "wear_day_label": "4"
+    },
+    {
+      "data_availability_rate_percent": 99.6,
+      "number_of_sensors": 428,
+      "wear_day_label": "5"
+    },
+    {
+      "data_availability_rate_percent": 99.6,
+      "number_of_sensors": 421,
+      "wear_day_label": "6"
+    },
+    {
+      "data_availability_rate_percent": 99.5,
+      "number_of_sensors": 414,
+      "wear_day_label": "7"
+    },
+    {
+      "data_availability_rate_percent": 99.2,
+      "number_of_sensors": 401,
+      "wear_day_label": "8"
+    },
+    {
+      "data_availability_rate_percent": 98.5,
+      "number_of_sensors": 389,
+      "wear_day_label": "9"
+    },
+    {
+      "data_availability_rate_percent": 98.1,
+      "number_of_sensors": 374,
+      "wear_day_label": "10"
+    },
+    {
+      "data_availability_rate_percent": 99.4,
+      "number_of_sensors": 460,
+      "wear_day_label": "Overall"
+    }
+  ],
+  "detailed_accuracy_by_glucose_range": [
+    {
+      "glucose_range_mg_dl": "<54",
+      "mard_percent": 16,
+      "matched_pairs_n": 1140,
+      "mean_bias_mg_dl": -9.3,
+      "population_age_group": "≥ 18 YO",
+      "range_basis": "iCGM Glucose Ranges",
+      "subjects_n": 308,
+      "wear_location": "Arm",
+      "within_15_mg_dl_percent": 79.7,
+      "within_15_percent_percent": null,
+      "within_20_mg_dl_percent": 88.9,
+      "within_20_percent_percent": null,
+      "within_40_mg_dl_percent": 98.9,
+      "within_40_percent_percent": null
+    },
+    {
+      "glucose_range_mg_dl": "54-69",
+      "mard_percent": 9.1,
+      "matched_pairs_n": 3729,
+      "mean_bias_mg_dl": -2.3,
+      "population_age_group": "≥ 18 YO",
+      "range_basis": "iCGM Glucose Ranges",
+      "subjects_n": 308,
+      "wear_location": "Arm",
+      "within_15_mg_dl_percent": 92.8,
+      "within_15_percent_percent": null,
+      "within_20_mg_dl_percent": 96.1,
+      "within_20_percent_percent": null,
+      "within_40_mg_dl_percent": 99.3,
+      "within_40_percent_percent": null
+    },
+    {
+      "glucose_range_mg_dl": "70-180",
+      "mard_percent": 8.9,
+      "matched_pairs_n": 18379,
+      "mean_bias_mg_dl": 0.4,
+      "population_age_group": "≥ 18 YO",
+      "range_basis": "iCGM Glucose Ranges",
+      "subjects_n": 308,
+      "wear_location": "Arm",
+      "within_15_mg_dl_percent": null,
+      "within_15_percent_percent": 83.6,
+      "within_20_mg_dl_percent": null,
+      "within_20_percent_percent": 91.9,
+      "within_40_mg_dl_percent": null,
+      "within_40_percent_percent": 99
+    },
+    {
+      "glucose_range_mg_dl": "181-250",
+      "mard_percent": 7.5,
+      "matched_pairs_n": 6055,
+      "mean_bias_mg_dl": -2.7,
+      "population_age_group": "≥ 18 YO",
+      "range_basis": "iCGM Glucose Ranges",
+      "subjects_n": 308,
+      "wear_location": "Arm",
+      "within_15_mg_dl_percent": null,
+      "within_15_percent_percent": 89.3,
+      "within_20_mg_dl_percent": null,
+      "within_20_percent_percent": 95.2,
+      "within_40_mg_dl_percent": null,
+      "within_40_percent_percent": 99.8
+    },
+    {
+      "glucose_range_mg_dl": ">250",
+      "mard_percent": 6,
+      "matched_pairs_n": 9890,
+      "mean_bias_mg_dl": -2.3,
+      "population_age_group": "≥ 18 YO",
+      "range_basis": "iCGM Glucose Ranges",
+      "subjects_n": 308,
+      "wear_location": "Arm",
+      "within_15_mg_dl_percent": null,
+      "within_15_percent_percent": 94.5,
+      "within_20_mg_dl_percent": null,
+      "within_20_percent_percent": 98.2,
+      "within_40_mg_dl_percent": null,
+      "within_40_percent_percent": 100
+    },
+    {
+      "glucose_range_mg_dl": "<54",
+      "mard_percent": 24.1,
+      "matched_pairs_n": 162,
+      "mean_bias_mg_dl": -17.7,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "range_basis": "iCGM Glucose Ranges",
+      "subjects_n": 122,
+      "wear_location": "Arm",
+      "within_15_mg_dl_percent": 52.5,
+      "within_15_percent_percent": null,
+      "within_20_mg_dl_percent": 71,
+      "within_20_percent_percent": null,
+      "within_40_mg_dl_percent": 92,
+      "within_40_percent_percent": null
+    },
+    {
+      "glucose_range_mg_dl": "54-69",
+      "mard_percent": 9,
+      "matched_pairs_n": 719,
+      "mean_bias_mg_dl": -4.7,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "range_basis": "iCGM Glucose Ranges",
+      "subjects_n": 122,
+      "wear_location": "Arm",
+      "within_15_mg_dl_percent": 89.8,
+      "within_15_percent_percent": null,
+      "within_20_mg_dl_percent": 94,
+      "within_20_percent_percent": null,
+      "within_40_mg_dl_percent": 97.4,
+      "within_40_percent_percent": null
+    },
+    {
+      "glucose_range_mg_dl": "70-180",
+      "mard_percent": 8.3,
+      "matched_pairs_n": 3996,
+      "mean_bias_mg_dl": -0.7,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "range_basis": "iCGM Glucose Ranges",
+      "subjects_n": 122,
+      "wear_location": "Arm",
+      "within_15_mg_dl_percent": null,
+      "within_15_percent_percent": 85.1,
+      "within_20_mg_dl_percent": null,
+      "within_20_percent_percent": 92.6,
+      "within_40_mg_dl_percent": null,
+      "within_40_percent_percent": 99.6
+    },
+    {
+      "glucose_range_mg_dl": "181-250",
+      "mard_percent": 7.5,
+      "matched_pairs_n": 1316,
+      "mean_bias_mg_dl": -3.2,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "range_basis": "iCGM Glucose Ranges",
+      "subjects_n": 122,
+      "wear_location": "Arm",
+      "within_15_mg_dl_percent": null,
+      "within_15_percent_percent": 87.9,
+      "within_20_mg_dl_percent": null,
+      "within_20_percent_percent": 95.9,
+      "within_40_mg_dl_percent": null,
+      "within_40_percent_percent": 99.9
+    },
+    {
+      "glucose_range_mg_dl": ">250",
+      "mard_percent": 6.3,
+      "matched_pairs_n": 1875,
+      "mean_bias_mg_dl": -3.2,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "range_basis": "iCGM Glucose Ranges",
+      "subjects_n": 122,
+      "wear_location": "Arm",
+      "within_15_mg_dl_percent": null,
+      "within_15_percent_percent": 94.1,
+      "within_20_mg_dl_percent": null,
+      "within_20_percent_percent": 99.3,
+      "within_40_mg_dl_percent": null,
+      "within_40_percent_percent": 100
+    },
+    {
+      "glucose_range_mg_dl": "<54",
+      "mard_percent": 14,
+      "matched_pairs_n": 732,
+      "mean_bias_mg_dl": 4,
+      "population_age_group": "≥ 18 YO",
+      "range_basis": "Comparator Glucose Ranges",
+      "subjects_n": 308,
+      "wear_location": "Arm",
+      "within_15_mg_dl_percent": 91,
+      "within_15_percent_percent": null,
+      "within_20_mg_dl_percent": 93.7,
+      "within_20_percent_percent": null,
+      "within_40_mg_dl_percent": 98.8,
+      "within_40_percent_percent": null
+    },
+    {
+      "glucose_range_mg_dl": "54-69",
+      "mard_percent": 10.7,
+      "matched_pairs_n": 4530,
+      "mean_bias_mg_dl": 1.1,
+      "population_age_group": "≥ 18 YO",
+      "range_basis": "Comparator Glucose Ranges",
+      "subjects_n": 308,
+      "wear_location": "Arm",
+      "within_15_mg_dl_percent": 92,
+      "within_15_percent_percent": null,
+      "within_20_mg_dl_percent": 97,
+      "within_20_percent_percent": null,
+      "within_40_mg_dl_percent": 99.8,
+      "within_40_percent_percent": null
+    },
+    {
+      "glucose_range_mg_dl": "70-180",
+      "mard_percent": 8.6,
+      "matched_pairs_n": 17910,
+      "mean_bias_mg_dl": 1.1,
+      "population_age_group": "≥ 18 YO",
+      "range_basis": "Comparator Glucose Ranges",
+      "subjects_n": 308,
+      "wear_location": "Arm",
+      "within_15_mg_dl_percent": null,
+      "within_15_percent_percent": 84.6,
+      "within_20_mg_dl_percent": null,
+      "within_20_percent_percent": 92.6,
+      "within_40_mg_dl_percent": null,
+      "within_40_percent_percent": 99.3
+    },
+    {
+      "glucose_range_mg_dl": "181-250",
+      "mard_percent": 7.4,
+      "matched_pairs_n": 5905,
+      "mean_bias_mg_dl": -1.9,
+      "population_age_group": "≥ 18 YO",
+      "range_basis": "Comparator Glucose Ranges",
+      "subjects_n": 308,
+      "wear_location": "Arm",
+      "within_15_mg_dl_percent": null,
+      "within_15_percent_percent": 89.9,
+      "within_20_mg_dl_percent": null,
+      "within_20_percent_percent": 95,
+      "within_40_mg_dl_percent": null,
+      "within_40_percent_percent": 99.6
+    },
+    {
+      "glucose_range_mg_dl": ">250",
+      "mard_percent": 6.4,
+      "matched_pairs_n": 10116,
+      "mean_bias_mg_dl": -6.6,
+      "population_age_group": "≥ 18 YO",
+      "range_basis": "Comparator Glucose Ranges",
+      "subjects_n": 308,
+      "wear_location": "Arm",
+      "within_15_mg_dl_percent": null,
+      "within_15_percent_percent": 92.8,
+      "within_20_mg_dl_percent": null,
+      "within_20_percent_percent": 97.1,
+      "within_40_mg_dl_percent": null,
+      "within_40_percent_percent": 99.9
+    },
+    {
+      "glucose_range_mg_dl": "<54",
+      "mard_percent": 10.4,
+      "matched_pairs_n": 66,
+      "mean_bias_mg_dl": 2,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "range_basis": "Comparator Glucose Ranges",
+      "subjects_n": 122,
+      "wear_location": "Arm",
+      "within_15_mg_dl_percent": 92.4,
+      "within_15_percent_percent": null,
+      "within_20_mg_dl_percent": 98.5,
+      "within_20_percent_percent": null,
+      "within_40_mg_dl_percent": 100,
+      "within_40_percent_percent": null
+    },
+    {
+      "glucose_range_mg_dl": "54-69",
+      "mard_percent": 9.8,
+      "matched_pairs_n": 811,
+      "mean_bias_mg_dl": 0.7,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "range_basis": "Comparator Glucose Ranges",
+      "subjects_n": 122,
+      "wear_location": "Arm",
+      "within_15_mg_dl_percent": 91,
+      "within_15_percent_percent": null,
+      "within_20_mg_dl_percent": 96.9,
+      "within_20_percent_percent": null,
+      "within_40_mg_dl_percent": 100,
+      "within_40_percent_percent": null
+    },
+    {
+      "glucose_range_mg_dl": "70-180",
+      "mard_percent": 8.5,
+      "matched_pairs_n": 3936,
+      "mean_bias_mg_dl": -0.4,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "range_basis": "Comparator Glucose Ranges",
+      "subjects_n": 122,
+      "wear_location": "Arm",
+      "within_15_mg_dl_percent": null,
+      "within_15_percent_percent": 85.5,
+      "within_20_mg_dl_percent": null,
+      "within_20_percent_percent": 92.4,
+      "within_40_mg_dl_percent": null,
+      "within_40_percent_percent": 98.6
+    },
+    {
+      "glucose_range_mg_dl": "181-250",
+      "mard_percent": 7.6,
+      "matched_pairs_n": 1275,
+      "mean_bias_mg_dl": -2.3,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "range_basis": "Comparator Glucose Ranges",
+      "subjects_n": 122,
+      "wear_location": "Arm",
+      "within_15_mg_dl_percent": null,
+      "within_15_percent_percent": 88,
+      "within_20_mg_dl_percent": null,
+      "within_20_percent_percent": 94.7,
+      "within_40_mg_dl_percent": null,
+      "within_40_percent_percent": 99.8
+    },
+    {
+      "glucose_range_mg_dl": ">250",
+      "mard_percent": 6.8,
+      "matched_pairs_n": 1980,
+      "mean_bias_mg_dl": -7.9,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "range_basis": "Comparator Glucose Ranges",
+      "subjects_n": 122,
+      "wear_location": "Arm",
+      "within_15_mg_dl_percent": null,
+      "within_15_percent_percent": 90.9,
+      "within_20_mg_dl_percent": null,
+      "within_20_percent_percent": 97.8,
+      "within_40_mg_dl_percent": null,
+      "within_40_percent_percent": 99.9
+    }
+  ],
+  "device_classification": "Class II",
+  "grace_period_hours": 12,
+  "low_high_reading_distribution": [
+    {
+      "comparator_pairs_n": 99,
+      "comparator_threshold_direction": "<",
+      "comparator_threshold_mg_dl": 55,
+      "cumulative_percent": 33,
+      "icgm_reading_label": "LOW",
+      "subjects_n": 430
+    },
+    {
+      "comparator_pairs_n": 145,
+      "comparator_threshold_direction": "<",
+      "comparator_threshold_mg_dl": 60,
+      "cumulative_percent": 49,
+      "icgm_reading_label": "LOW",
+      "subjects_n": 430
+    },
+    {
+      "comparator_pairs_n": 233,
+      "comparator_threshold_direction": "<",
+      "comparator_threshold_mg_dl": 70,
+      "cumulative_percent": 78,
+      "icgm_reading_label": "LOW",
+      "subjects_n": 430
+    },
+    {
+      "comparator_pairs_n": 286,
+      "comparator_threshold_direction": "<",
+      "comparator_threshold_mg_dl": 80,
+      "cumulative_percent": 96,
+      "icgm_reading_label": "LOW",
+      "subjects_n": 430
+    },
+    {
+      "comparator_pairs_n": 12,
+      "comparator_threshold_direction": "≥",
+      "comparator_threshold_mg_dl": 80,
+      "cumulative_percent": 4,
+      "icgm_reading_label": "LOW",
+      "subjects_n": 430
+    },
+    {
+      "comparator_pairs_n": 347,
+      "comparator_threshold_direction": ">",
+      "comparator_threshold_mg_dl": 340,
+      "cumulative_percent": 97,
+      "icgm_reading_label": "HIGH",
+      "subjects_n": 430
+    },
+    {
+      "comparator_pairs_n": 356,
+      "comparator_threshold_direction": ">",
+      "comparator_threshold_mg_dl": 320,
+      "cumulative_percent": 100,
+      "icgm_reading_label": "HIGH",
+      "subjects_n": 430
+    },
+    {
+      "comparator_pairs_n": 356,
+      "comparator_threshold_direction": ">",
+      "comparator_threshold_mg_dl": 280,
+      "cumulative_percent": 100,
+      "icgm_reading_label": "HIGH",
+      "subjects_n": 430
+    },
+    {
+      "comparator_pairs_n": 356,
+      "comparator_threshold_direction": ">",
+      "comparator_threshold_mg_dl": 250,
+      "cumulative_percent": 100,
+      "icgm_reading_label": "HIGH",
+      "subjects_n": 430
+    },
+    {
+      "comparator_pairs_n": 0,
+      "comparator_threshold_direction": "≤",
+      "comparator_threshold_mg_dl": 250,
+      "cumulative_percent": 0,
+      "icgm_reading_label": "HIGH",
+      "subjects_n": 430
+    }
+  ],
+  "low_high_reading_totals": [
+    {
+      "icgm_reading_label": "LOW",
+      "total_comparator_pairs_n": 298
+    },
+    {
+      "icgm_reading_label": "HIGH",
+      "total_comparator_pairs_n": 356
+    }
+  ],
+  "measurand": "Glucose in Interstitial Fluid",
+  "overall_twenty_percent_accuracy": [
+    {
+      "matched_pairs_n": 47261,
+      "patient_population": "Overall (40-400 mg/dL)",
+      "percent_within_20_95_lb_percent": 92.7,
+      "percent_within_20_percent": 93.5,
+      "wear_location": "Arm"
+    },
+    {
+      "matched_pairs_n": 39193,
+      "patient_population": "18 years and up",
+      "percent_within_20_95_lb_percent": 93.3,
+      "percent_within_20_percent": 94.1,
+      "wear_location": "Arm"
+    },
+    {
+      "matched_pairs_n": 8068,
+      "patient_population": "Pediatrics (7-17 years old)",
+      "percent_within_20_95_lb_percent": 92.7,
+      "percent_within_20_percent": 94.4,
+      "wear_location": "Arm"
+    },
+    {
+      "matched_pairs_n": 148,
+      "patient_population": "Pediatrics (2 - 6 years old)",
+      "percent_within_20_95_lb_percent": 90.8,
+      "percent_within_20_percent": 96.4,
+      "wear_location": "Arm"
+    },
+    {
+      "matched_pairs_n": 143,
+      "patient_population": "Pediatrics (2 - 6 years old)",
+      "percent_within_20_95_lb_percent": 79.1,
+      "percent_within_20_percent": 87.4,
+      "wear_location": "Upper buttocks"
+    }
+  ],
+  "point_accuracy_by_glucose_range": [
+    {
+      "glucose_range_mg_dl": "<70",
+      "matched_pairs_n": 4869,
+      "mean_bias_95_ub_mg_dl": -5.4,
+      "mean_bias_mg_dl": -6.5,
+      "population_age_group": "≥ 18 YO",
+      "range_basis": "iCGM Glucose Range",
+      "subjects_n": 308,
+      "wear_location": "Arm",
+      "within_15_mg_dl_95_lb_percent": 90,
+      "within_15_mg_dl_percent": 92,
+      "within_15_percent_95_lb_percent": null,
+      "within_15_percent_percent": null,
+      "within_40_mg_dl_95_lb_percent": 99.1,
+      "within_40_mg_dl_percent": 99.5,
+      "within_40_percent_95_lb_percent": null,
+      "within_40_percent_percent": null
+    },
+    {
+      "glucose_range_mg_dl": "70-180",
+      "matched_pairs_n": 18379,
+      "mean_bias_95_ub_mg_dl": -2,
+      "mean_bias_mg_dl": -3.1,
+      "population_age_group": "≥ 18 YO",
+      "range_basis": "iCGM Glucose Range",
+      "subjects_n": 308,
+      "wear_location": "Arm",
+      "within_15_mg_dl_95_lb_percent": null,
+      "within_15_mg_dl_percent": null,
+      "within_15_percent_95_lb_percent": 83.8,
+      "within_15_percent_percent": 85.4,
+      "within_40_mg_dl_95_lb_percent": null,
+      "within_40_mg_dl_percent": null,
+      "within_40_percent_95_lb_percent": 99.3,
+      "within_40_percent_percent": 99.5
+    },
+    {
+      "glucose_range_mg_dl": ">180",
+      "matched_pairs_n": 15945,
+      "mean_bias_95_ub_mg_dl": 2.8,
+      "mean_bias_mg_dl": 1.6,
+      "population_age_group": "≥ 18 YO",
+      "range_basis": "iCGM Glucose Range",
+      "subjects_n": 308,
+      "wear_location": "Arm",
+      "within_15_mg_dl_95_lb_percent": null,
+      "within_15_mg_dl_percent": null,
+      "within_15_percent_95_lb_percent": 91.1,
+      "within_15_percent_percent": 92.2,
+      "within_40_mg_dl_95_lb_percent": null,
+      "within_40_mg_dl_percent": null,
+      "within_40_percent_95_lb_percent": 99.9,
+      "within_40_percent_percent": 99.9
+    },
+    {
+      "glucose_range_mg_dl": "<70",
+      "matched_pairs_n": 881,
+      "mean_bias_95_ub_mg_dl": -5.6,
+      "mean_bias_mg_dl": -7.8,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "range_basis": "iCGM Glucose Range",
+      "subjects_n": 122,
+      "wear_location": "Arm",
+      "within_15_mg_dl_95_lb_percent": 79.9,
+      "within_15_mg_dl_percent": 85.7,
+      "within_15_percent_95_lb_percent": null,
+      "within_15_percent_percent": null,
+      "within_40_mg_dl_95_lb_percent": 92,
+      "within_40_mg_dl_percent": 96.8,
+      "within_40_percent_95_lb_percent": null,
+      "within_40_percent_percent": null
+    },
+    {
+      "glucose_range_mg_dl": "70-180",
+      "matched_pairs_n": 3996,
+      "mean_bias_95_ub_mg_dl": -1.5,
+      "mean_bias_mg_dl": -3.6,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "range_basis": "iCGM Glucose Range",
+      "subjects_n": 122,
+      "wear_location": "Arm",
+      "within_15_mg_dl_95_lb_percent": null,
+      "within_15_mg_dl_percent": null,
+      "within_15_percent_95_lb_percent": 82.1,
+      "within_15_percent_percent": 86,
+      "within_40_mg_dl_95_lb_percent": null,
+      "within_40_mg_dl_percent": null,
+      "within_40_percent_95_lb_percent": 99.3,
+      "within_40_percent_percent": 99.6
+    },
+    {
+      "glucose_range_mg_dl": ">180",
+      "matched_pairs_n": 3191,
+      "mean_bias_95_ub_mg_dl": 3.9,
+      "mean_bias_mg_dl": 1.6,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "range_basis": "iCGM Glucose Range",
+      "subjects_n": 122,
+      "wear_location": "Arm",
+      "within_15_mg_dl_95_lb_percent": null,
+      "within_15_mg_dl_percent": null,
+      "within_15_percent_95_lb_percent": 89.4,
+      "within_15_percent_percent": 92.2,
+      "within_40_mg_dl_95_lb_percent": null,
+      "within_40_mg_dl_percent": null,
+      "within_40_percent_95_lb_percent": 99.8,
+      "within_40_percent_percent": 100
+    },
+    {
+      "glucose_range_mg_dl": "<70",
+      "matched_pairs_n": 5262,
+      "mean_bias_95_ub_mg_dl": 2.2,
+      "mean_bias_mg_dl": 1.2,
+      "population_age_group": "≥ 18 YO",
+      "range_basis": "Comparator Glucose Range",
+      "subjects_n": 308,
+      "wear_location": "Arm",
+      "within_15_mg_dl_95_lb_percent": 91.8,
+      "within_15_mg_dl_percent": 93.4,
+      "within_15_percent_95_lb_percent": null,
+      "within_15_percent_percent": null,
+      "within_40_mg_dl_95_lb_percent": 99.2,
+      "within_40_mg_dl_percent": 99.8,
+      "within_40_percent_95_lb_percent": null,
+      "within_40_percent_percent": null
+    },
+    {
+      "glucose_range_mg_dl": "70-180",
+      "matched_pairs_n": 17910,
+      "mean_bias_95_ub_mg_dl": 0.5,
+      "mean_bias_mg_dl": -0.5,
+      "population_age_group": "≥ 18 YO",
+      "range_basis": "Comparator Glucose Range",
+      "subjects_n": 308,
+      "wear_location": "Arm",
+      "within_15_mg_dl_95_lb_percent": null,
+      "within_15_mg_dl_percent": null,
+      "within_15_percent_95_lb_percent": 84.2,
+      "within_15_percent_percent": 85.7,
+      "within_40_mg_dl_95_lb_percent": null,
+      "within_40_mg_dl_percent": null,
+      "within_40_percent_95_lb_percent": 99.3,
+      "within_40_percent_percent": 99.5
+    },
+    {
+      "glucose_range_mg_dl": ">180",
+      "matched_pairs_n": 16021,
+      "mean_bias_95_ub_mg_dl": -2.5,
+      "mean_bias_mg_dl": -3.9,
+      "population_age_group": "≥ 18 YO",
+      "range_basis": "Comparator Glucose Range",
+      "subjects_n": 308,
+      "wear_location": "Arm",
+      "within_15_mg_dl_95_lb_percent": null,
+      "within_15_mg_dl_percent": null,
+      "within_15_percent_95_lb_percent": 90.6,
+      "within_15_percent_percent": 91.9,
+      "within_40_mg_dl_95_lb_percent": null,
+      "within_40_mg_dl_percent": null,
+      "within_40_percent_95_lb_percent": 99.7,
+      "within_40_percent_percent": 99.8
+    },
+    {
+      "glucose_range_mg_dl": "<70",
+      "matched_pairs_n": 877,
+      "mean_bias_95_ub_mg_dl": 1.9,
+      "mean_bias_mg_dl": -0.2,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "range_basis": "Comparator Glucose Range",
+      "subjects_n": 122,
+      "wear_location": "Arm",
+      "within_15_mg_dl_95_lb_percent": 90.2,
+      "within_15_mg_dl_percent": 93.2,
+      "within_15_percent_95_lb_percent": null,
+      "within_15_percent_percent": null,
+      "within_40_mg_dl_95_lb_percent": 100,
+      "within_40_mg_dl_percent": 100,
+      "within_40_percent_95_lb_percent": null,
+      "within_40_percent_percent": null
+    },
+    {
+      "glucose_range_mg_dl": "70-180",
+      "matched_pairs_n": 3936,
+      "mean_bias_95_ub_mg_dl": 0.7,
+      "mean_bias_mg_dl": -1.2,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "range_basis": "Comparator Glucose Range",
+      "subjects_n": 122,
+      "wear_location": "Arm",
+      "within_15_mg_dl_95_lb_percent": null,
+      "within_15_mg_dl_percent": null,
+      "within_15_percent_95_lb_percent": 83.6,
+      "within_15_percent_percent": 87.2,
+      "within_40_mg_dl_95_lb_percent": null,
+      "within_40_mg_dl_percent": null,
+      "within_40_percent_95_lb_percent": 97.4,
+      "within_40_percent_percent": 98.6
+    },
+    {
+      "glucose_range_mg_dl": ">180",
+      "matched_pairs_n": 3255,
+      "mean_bias_95_ub_mg_dl": -0.4,
+      "mean_bias_mg_dl": -2.7,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "range_basis": "Comparator Glucose Range",
+      "subjects_n": 122,
+      "wear_location": "Arm",
+      "within_15_mg_dl_95_lb_percent": null,
+      "within_15_mg_dl_percent": null,
+      "within_15_percent_95_lb_percent": 86.5,
+      "within_15_percent_percent": 89.8,
+      "within_40_mg_dl_95_lb_percent": null,
+      "within_40_mg_dl_percent": null,
+      "within_40_percent_95_lb_percent": 99.7,
+      "within_40_percent_percent": 99.9
+    }
+  ],
+  "precision_by_insertion_site_age": [
+    {
+      "cgm_cgm_matched_pairs_n": 50542,
+      "coefficient_of_variation_percent": 6.3,
+      "number_of_subjects_n": 43,
+      "paired_absolute_difference_mg_dl": 13.8,
+      "paired_absolute_relative_difference_percent": 8.9,
+      "population_age_group": "18+ YO",
+      "wear_location": "Arm"
+    },
+    {
+      "cgm_cgm_matched_pairs_n": 22345,
+      "coefficient_of_variation_percent": 6.6,
+      "number_of_subjects_n": 21,
+      "paired_absolute_difference_mg_dl": 14.4,
+      "paired_absolute_relative_difference_percent": 9.3,
+      "population_age_group": "7-17 YO",
+      "wear_location": "Arm"
+    },
+    {
+      "cgm_cgm_matched_pairs_n": 2611,
+      "coefficient_of_variation_percent": 4.3,
+      "number_of_subjects_n": 9,
+      "paired_absolute_difference_mg_dl": 12.8,
+      "paired_absolute_relative_difference_percent": 6.1,
+      "population_age_group": "2-6 YO",
+      "wear_location": "Arm"
+    },
+    {
+      "cgm_cgm_matched_pairs_n": 4245,
+      "coefficient_of_variation_percent": 6.8,
+      "number_of_subjects_n": 9,
+      "paired_absolute_difference_mg_dl": 15.4,
+      "paired_absolute_relative_difference_percent": 9.7,
+      "population_age_group": "2-6 YO",
+      "wear_location": "Upper Buttocks"
+    }
+  ],
+  "predicate_510k_number": "K201328",
+  "predicate_device_name": "Dexcom G6 Continuous Glucose Monitoring (CGM) System",
+  "product_code": "QBJ",
+  "proprietary_established_name": "Dexcom G7 Continuous Glucose Monitoring (CGM) System",
+  "regulation_section": "21 CFR 862.1355 - Integrated Continuous Glucose Monitoring System",
+  "reportable_high_mg_dl": 400,
+  "reportable_low_mg_dl": 40,
+  "sensor_stability_by_wear_period": [
+    {
+      "mard_percent": 9.9,
+      "matched_pairs_n": 17658,
+      "wear_period_label": "Beginning",
+      "within_15_15_percent": 82.2,
+      "within_20_20_percent": 91,
+      "within_40_40_percent": 98.9
+    },
+    {
+      "mard_percent": 7.1,
+      "matched_pairs_n": 16551,
+      "wear_period_label": "Middle",
+      "within_15_15_percent": 92.2,
+      "within_20_20_percent": 97.1,
+      "within_40_40_percent": 99.9
+    },
+    {
+      "mard_percent": 7.2,
+      "matched_pairs_n": 13052,
+      "wear_period_label": "End",
+      "within_15_15_percent": 91.9,
+      "within_20_20_percent": 96.4,
+      "within_40_40_percent": 99.8
+    }
+  ],
+  "sensor_survival_by_day": [
+    {
+      "number_of_sensors_n": 310,
+      "population_age_group": "≥ 18 YO",
+      "sensor_denominator_n": 315,
+      "survival_rate_percent": 98.4,
+      "wear_day": 1,
+      "wear_location": "Arm"
+    },
+    {
+      "number_of_sensors_n": 303,
+      "population_age_group": "≥ 18 YO",
+      "sensor_denominator_n": 315,
+      "survival_rate_percent": 96.8,
+      "wear_day": 2,
+      "wear_location": "Arm"
+    },
+    {
+      "number_of_sensors_n": 300,
+      "population_age_group": "≥ 18 YO",
+      "sensor_denominator_n": 315,
+      "survival_rate_percent": 95.9,
+      "wear_day": 3,
+      "wear_location": "Arm"
+    },
+    {
+      "number_of_sensors_n": 291,
+      "population_age_group": "≥ 18 YO",
+      "sensor_denominator_n": 315,
+      "survival_rate_percent": 93.6,
+      "wear_day": 4,
+      "wear_location": "Arm"
+    },
+    {
+      "number_of_sensors_n": 286,
+      "population_age_group": "≥ 18 YO",
+      "sensor_denominator_n": 315,
+      "survival_rate_percent": 92,
+      "wear_day": 5,
+      "wear_location": "Arm"
+    },
+    {
+      "number_of_sensors_n": 282,
+      "population_age_group": "≥ 18 YO",
+      "sensor_denominator_n": 315,
+      "survival_rate_percent": 90.7,
+      "wear_day": 6,
+      "wear_location": "Arm"
+    },
+    {
+      "number_of_sensors_n": 273,
+      "population_age_group": "≥ 18 YO",
+      "sensor_denominator_n": 315,
+      "survival_rate_percent": 88.5,
+      "wear_day": 7,
+      "wear_location": "Arm"
+    },
+    {
+      "number_of_sensors_n": 267,
+      "population_age_group": "≥ 18 YO",
+      "sensor_denominator_n": 315,
+      "survival_rate_percent": 86.5,
+      "wear_day": 8,
+      "wear_location": "Arm"
+    },
+    {
+      "number_of_sensors_n": 259,
+      "population_age_group": "≥ 18 YO",
+      "sensor_denominator_n": 315,
+      "survival_rate_percent": 83.9,
+      "wear_day": 9,
+      "wear_location": "Arm"
+    },
+    {
+      "number_of_sensors_n": 152,
+      "population_age_group": "≥ 18 YO",
+      "sensor_denominator_n": 315,
+      "survival_rate_percent": 80.5,
+      "wear_day": 10,
+      "wear_location": "Arm"
+    },
+    {
+      "number_of_sensors_n": 141,
+      "population_age_group": "Pediatrics 2-17 YO",
+      "sensor_denominator_n": 145,
+      "survival_rate_percent": 97.2,
+      "wear_day": 1,
+      "wear_location": "Arm"
+    },
+    {
+      "number_of_sensors_n": 140,
+      "population_age_group": "Pediatrics 2-17 YO",
+      "sensor_denominator_n": 145,
+      "survival_rate_percent": 96.6,
+      "wear_day": 2,
+      "wear_location": "Arm"
+    },
+    {
+      "number_of_sensors_n": 138,
+      "population_age_group": "Pediatrics 2-17 YO",
+      "sensor_denominator_n": 145,
+      "survival_rate_percent": 95.2,
+      "wear_day": 3,
+      "wear_location": "Arm"
+    },
+    {
+      "number_of_sensors_n": 137,
+      "population_age_group": "Pediatrics 2-17 YO",
+      "sensor_denominator_n": 145,
+      "survival_rate_percent": 95.2,
+      "wear_day": 4,
+      "wear_location": "Arm"
+    },
+    {
+      "number_of_sensors_n": 135,
+      "population_age_group": "Pediatrics 2-17 YO",
+      "sensor_denominator_n": 145,
+      "survival_rate_percent": 93.8,
+      "wear_day": 5,
+      "wear_location": "Arm"
+    },
+    {
+      "number_of_sensors_n": 132,
+      "population_age_group": "Pediatrics 2-17 YO",
+      "sensor_denominator_n": 145,
+      "survival_rate_percent": 91.7,
+      "wear_day": 6,
+      "wear_location": "Arm"
+    },
+    {
+      "number_of_sensors_n": 128,
+      "population_age_group": "Pediatrics 2-17 YO",
+      "sensor_denominator_n": 145,
+      "survival_rate_percent": 88.9,
+      "wear_day": 7,
+      "wear_location": "Arm"
+    },
+    {
+      "number_of_sensors_n": 122,
+      "population_age_group": "Pediatrics 2-17 YO",
+      "sensor_denominator_n": 145,
+      "survival_rate_percent": 84.8,
+      "wear_day": 8,
+      "wear_location": "Arm"
+    },
+    {
+      "number_of_sensors_n": 115,
+      "population_age_group": "Pediatrics 2-17 YO",
+      "sensor_denominator_n": 145,
+      "survival_rate_percent": 79.9,
+      "wear_day": 9,
+      "wear_location": "Arm"
+    },
+    {
+      "number_of_sensors_n": 102,
+      "population_age_group": "Pediatrics 2-17 YO",
+      "sensor_denominator_n": 145,
+      "survival_rate_percent": 75,
+      "wear_day": 10,
+      "wear_location": "Arm"
+    },
+    {
+      "number_of_sensors_n": 15,
+      "population_age_group": "Pediatrics 2-6 YO",
+      "sensor_denominator_n": 16,
+      "survival_rate_percent": 93.8,
+      "wear_day": 1,
+      "wear_location": "Buttocks"
+    },
+    {
+      "number_of_sensors_n": 13,
+      "population_age_group": "Pediatrics 2-6 YO",
+      "sensor_denominator_n": 16,
+      "survival_rate_percent": 81.3,
+      "wear_day": 2,
+      "wear_location": "Buttocks"
+    },
+    {
+      "number_of_sensors_n": 13,
+      "population_age_group": "Pediatrics 2-6 YO",
+      "sensor_denominator_n": 16,
+      "survival_rate_percent": 81.3,
+      "wear_day": 3,
+      "wear_location": "Buttocks"
+    },
+    {
+      "number_of_sensors_n": 13,
+      "population_age_group": "Pediatrics 2-6 YO",
+      "sensor_denominator_n": 16,
+      "survival_rate_percent": 81.3,
+      "wear_day": 4,
+      "wear_location": "Buttocks"
+    },
+    {
+      "number_of_sensors_n": 13,
+      "population_age_group": "Pediatrics 2-6 YO",
+      "sensor_denominator_n": 16,
+      "survival_rate_percent": 81.3,
+      "wear_day": 5,
+      "wear_location": "Buttocks"
+    },
+    {
+      "number_of_sensors_n": 13,
+      "population_age_group": "Pediatrics 2-6 YO",
+      "sensor_denominator_n": 16,
+      "survival_rate_percent": 81.3,
+      "wear_day": 6,
+      "wear_location": "Buttocks"
+    },
+    {
+      "number_of_sensors_n": 11,
+      "population_age_group": "Pediatrics 2-6 YO",
+      "sensor_denominator_n": 16,
+      "survival_rate_percent": 68.8,
+      "wear_day": 7,
+      "wear_location": "Buttocks"
+    },
+    {
+      "number_of_sensors_n": 10,
+      "population_age_group": "Pediatrics 2-6 YO",
+      "sensor_denominator_n": 16,
+      "survival_rate_percent": 62.5,
+      "wear_day": 8,
+      "wear_location": "Buttocks"
+    },
+    {
+      "number_of_sensors_n": 10,
+      "population_age_group": "Pediatrics 2-6 YO",
+      "sensor_denominator_n": 16,
+      "survival_rate_percent": 62.5,
+      "wear_day": 9,
+      "wear_location": "Buttocks"
+    },
+    {
+      "number_of_sensors_n": 8,
+      "population_age_group": "Pediatrics 2-6 YO",
+      "sensor_denominator_n": 16,
+      "survival_rate_percent": 50,
+      "wear_day": 10,
+      "wear_location": "Buttocks"
+    }
+  ],
+  "sensor_wear_days": 10,
+  "standards_referenced": [
+    {
+      "sequence_number": 1,
+      "standard_reference_code": "ISO 14971:2007"
+    },
+    {
+      "sequence_number": 2,
+      "standard_reference_code": "IEC 60601-1-2:2014"
+    },
+    {
+      "sequence_number": 3,
+      "standard_reference_code": "IEC 60601-1-11:2015"
+    },
+    {
+      "sequence_number": 4,
+      "standard_reference_code": "ISO 14155: 2011"
+    },
+    {
+      "sequence_number": 5,
+      "standard_reference_code": "IEC 62366-1:2015"
+    },
+    {
+      "sequence_number": 6,
+      "standard_reference_code": "ISO 10993-1:2018"
+    },
+    {
+      "sequence_number": 7,
+      "standard_reference_code": "ISO 10993-2:2006"
+    },
+    {
+      "sequence_number": 8,
+      "standard_reference_code": "ISO 10993-3: 2014 Biological Evaluation of Medical Devices - Part 3: Tests for genotoxicity"
+    },
+    {
+      "sequence_number": 9,
+      "standard_reference_code": "ISO 10993 -5:2009"
+    },
+    {
+      "sequence_number": 10,
+      "standard_reference_code": "ISO 10993-6 :2016"
+    },
+    {
+      "sequence_number": 11,
+      "standard_reference_code": "ISO 10993-7:2008"
+    },
+    {
+      "sequence_number": 12,
+      "standard_reference_code": "ISO 10993-10:2010"
+    },
+    {
+      "sequence_number": 13,
+      "standard_reference_code": "ISO 10993-11:2017"
+    },
+    {
+      "sequence_number": 14,
+      "standard_reference_code": "ISO 10993-12:2012"
+    },
+    {
+      "sequence_number": 15,
+      "standard_reference_code": "ISO 10993-17:2002"
+    },
+    {
+      "sequence_number": 16,
+      "standard_reference_code": "ISO 10993-18:2020"
+    },
+    {
+      "sequence_number": 17,
+      "standard_reference_code": "ISO 11607-1:2019"
+    },
+    {
+      "sequence_number": 18,
+      "standard_reference_code": "ISO 11607-2:2019"
+    },
+    {
+      "sequence_number": 19,
+      "standard_reference_code": "ISO 11737 -1:2018"
+    },
+    {
+      "sequence_number": 20,
+      "standard_reference_code": "ISO 11737-2:2018"
+    },
+    {
+      "sequence_number": 21,
+      "standard_reference_code": "ISO 15223-1:2016"
+    },
+    {
+      "sequence_number": 22,
+      "standard_reference_code": "ISO 14644-1:2015"
+    },
+    {
+      "sequence_number": 23,
+      "standard_reference_code": "ISO 14644-2:2015"
+    },
+    {
+      "sequence_number": 24,
+      "standard_reference_code": "ASTM D4169-16"
+    },
+    {
+      "sequence_number": 25,
+      "standard_reference_code": "ASTM F2503-20"
+    },
+    {
+      "sequence_number": 26,
+      "standard_reference_code": "ISO 23908:2011"
+    },
+    {
+      "sequence_number": 27,
+      "standard_reference_code": "IEC 62133-2:2017"
+    },
+    {
+      "sequence_number": 28,
+      "standard_reference_code": "IEC/TR 60601-4-2: 2016"
+    },
+    {
+      "sequence_number": 29,
+      "standard_reference_code": "AIM 7351731: 2017-02-23"
+    },
+    {
+      "sequence_number": 30,
+      "standard_reference_code": "IEEE/ANSI C63.27-2017"
+    },
+    {
+      "sequence_number": 31,
+      "standard_reference_code": "IEC 60417: 2002"
+    }
+  ],
+  "submission_510k_number": "K213919",
+  "test_type": "Quantitative, amperometric assay (Glucose Oxidase)",
+  "trend_accuracy_matrix_cells": [
+    {
+      "comparator_rate_range_mg_dl_per_min": "<-2",
+      "icgm_rate_range_mg_dl_per_min": "<-2",
+      "pair_count_n": 221,
+      "population_age_group": "≥ 18 YO",
+      "row_percent": 29.2,
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "[-2,-1)",
+      "icgm_rate_range_mg_dl_per_min": "<-2",
+      "pair_count_n": 235,
+      "population_age_group": "≥ 18 YO",
+      "row_percent": 31,
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "[-1,-0)",
+      "icgm_rate_range_mg_dl_per_min": "<-2",
+      "pair_count_n": 213,
+      "population_age_group": "≥ 18 YO",
+      "row_percent": 28.1,
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "[0,1]",
+      "icgm_rate_range_mg_dl_per_min": "<-2",
+      "pair_count_n": 69,
+      "population_age_group": "≥ 18 YO",
+      "row_percent": 9.1,
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "(1,2]",
+      "icgm_rate_range_mg_dl_per_min": "<-2",
+      "pair_count_n": 17,
+      "population_age_group": "≥ 18 YO",
+      "row_percent": 2.2,
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": ">2",
+      "icgm_rate_range_mg_dl_per_min": "<-2",
+      "pair_count_n": 3,
+      "population_age_group": "≥ 18 YO",
+      "row_percent": 0.4,
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "<-2",
+      "icgm_rate_range_mg_dl_per_min": "[-2,-1)",
+      "pair_count_n": 209,
+      "population_age_group": "≥ 18 YO",
+      "row_percent": 7.3,
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "[-2,-1)",
+      "icgm_rate_range_mg_dl_per_min": "[-2,-1)",
+      "pair_count_n": 989,
+      "population_age_group": "≥ 18 YO",
+      "row_percent": 34.7,
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "[-1,-0)",
+      "icgm_rate_range_mg_dl_per_min": "[-2,-1)",
+      "pair_count_n": 1314,
+      "population_age_group": "≥ 18 YO",
+      "row_percent": 46.1,
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "[0,1]",
+      "icgm_rate_range_mg_dl_per_min": "[-2,-1)",
+      "pair_count_n": 281,
+      "population_age_group": "≥ 18 YO",
+      "row_percent": 9.9,
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "(1,2]",
+      "icgm_rate_range_mg_dl_per_min": "[-2,-1)",
+      "pair_count_n": 48,
+      "population_age_group": "≥ 18 YO",
+      "row_percent": 1.7,
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": ">2",
+      "icgm_rate_range_mg_dl_per_min": "[-2,-1)",
+      "pair_count_n": 10,
+      "population_age_group": "≥ 18 YO",
+      "row_percent": 0.4,
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "<-2",
+      "icgm_rate_range_mg_dl_per_min": "[-1,0)",
+      "pair_count_n": 143,
+      "population_age_group": "≥ 18 YO",
+      "row_percent": 1,
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "[-2,-1)",
+      "icgm_rate_range_mg_dl_per_min": "[-1,0)",
+      "pair_count_n": 951,
+      "population_age_group": "≥ 18 YO",
+      "row_percent": 6.8,
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "[-1,-0)",
+      "icgm_rate_range_mg_dl_per_min": "[-1,0)",
+      "pair_count_n": 9822,
+      "population_age_group": "≥ 18 YO",
+      "row_percent": 70.3,
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "[0,1]",
+      "icgm_rate_range_mg_dl_per_min": "[-1,0)",
+      "pair_count_n": 2792,
+      "population_age_group": "≥ 18 YO",
+      "row_percent": 20,
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "(1,2]",
+      "icgm_rate_range_mg_dl_per_min": "[-1,0)",
+      "pair_count_n": 221,
+      "population_age_group": "≥ 18 YO",
+      "row_percent": 1.6,
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": ">2",
+      "icgm_rate_range_mg_dl_per_min": "[-1,0)",
+      "pair_count_n": 51,
+      "population_age_group": "≥ 18 YO",
+      "row_percent": 0.4,
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "<-2",
+      "icgm_rate_range_mg_dl_per_min": "[0,1]",
+      "pair_count_n": 63,
+      "population_age_group": "≥ 18 YO",
+      "row_percent": 0.6,
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "[-2,-1)",
+      "icgm_rate_range_mg_dl_per_min": "[0,1]",
+      "pair_count_n": 230,
+      "population_age_group": "≥ 18 YO",
+      "row_percent": 2,
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "[-1,-0)",
+      "icgm_rate_range_mg_dl_per_min": "[0,1]",
+      "pair_count_n": 3292,
+      "population_age_group": "≥ 18 YO",
+      "row_percent": 29.1,
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "[0,1]",
+      "icgm_rate_range_mg_dl_per_min": "[0,1]",
+      "pair_count_n": 6370,
+      "population_age_group": "≥ 18 YO",
+      "row_percent": 56.4,
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "(1,2]",
+      "icgm_rate_range_mg_dl_per_min": "[0,1]",
+      "pair_count_n": 1140,
+      "population_age_group": "≥ 18 YO",
+      "row_percent": 10.1,
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": ">2",
+      "icgm_rate_range_mg_dl_per_min": "[0,1]",
+      "pair_count_n": 200,
+      "population_age_group": "≥ 18 YO",
+      "row_percent": 1.8,
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "<-2",
+      "icgm_rate_range_mg_dl_per_min": "(1,2]",
+      "pair_count_n": 4,
+      "population_age_group": "≥ 18 YO",
+      "row_percent": 0.1,
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "[-2,-1)",
+      "icgm_rate_range_mg_dl_per_min": "(1,2]",
+      "pair_count_n": 43,
+      "population_age_group": "≥ 18 YO",
+      "row_percent": 1.3,
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "[-1,-0)",
+      "icgm_rate_range_mg_dl_per_min": "(1,2]",
+      "pair_count_n": 262,
+      "population_age_group": "≥ 18 YO",
+      "row_percent": 7.9,
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "[0,1]",
+      "icgm_rate_range_mg_dl_per_min": "(1,2]",
+      "pair_count_n": 1114,
+      "population_age_group": "≥ 18 YO",
+      "row_percent": 33.7,
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "(1,2]",
+      "icgm_rate_range_mg_dl_per_min": "(1,2]",
+      "pair_count_n": 1401,
+      "population_age_group": "≥ 18 YO",
+      "row_percent": 42.4,
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": ">2",
+      "icgm_rate_range_mg_dl_per_min": "(1,2]",
+      "pair_count_n": 469,
+      "population_age_group": "≥ 18 YO",
+      "row_percent": 14.2,
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "<-2",
+      "icgm_rate_range_mg_dl_per_min": ">2",
+      "pair_count_n": 2,
+      "population_age_group": "≥ 18 YO",
+      "row_percent": 0.1,
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "[-2,-1)",
+      "icgm_rate_range_mg_dl_per_min": ">2",
+      "pair_count_n": 8,
+      "population_age_group": "≥ 18 YO",
+      "row_percent": 0.4,
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "[-1,-0)",
+      "icgm_rate_range_mg_dl_per_min": ">2",
+      "pair_count_n": 84,
+      "population_age_group": "≥ 18 YO",
+      "row_percent": 4.1,
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "[0,1]",
+      "icgm_rate_range_mg_dl_per_min": ">2",
+      "pair_count_n": 258,
+      "population_age_group": "≥ 18 YO",
+      "row_percent": 12.7,
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "(1,2]",
+      "icgm_rate_range_mg_dl_per_min": ">2",
+      "pair_count_n": 622,
+      "population_age_group": "≥ 18 YO",
+      "row_percent": 30.6,
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": ">2",
+      "icgm_rate_range_mg_dl_per_min": ">2",
+      "pair_count_n": 1058,
+      "population_age_group": "≥ 18 YO",
+      "row_percent": 52,
+      "subjects_n": 308,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "<-2",
+      "icgm_rate_range_mg_dl_per_min": "<-2",
+      "pair_count_n": 63,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "row_percent": 29.6,
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "[-2,-1)",
+      "icgm_rate_range_mg_dl_per_min": "<-2",
+      "pair_count_n": 78,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "row_percent": 36.6,
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "[-1,-0)",
+      "icgm_rate_range_mg_dl_per_min": "<-2",
+      "pair_count_n": 50,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "row_percent": 23.5,
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "[0,1]",
+      "icgm_rate_range_mg_dl_per_min": "<-2",
+      "pair_count_n": 19,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "row_percent": 8.9,
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "(1,2]",
+      "icgm_rate_range_mg_dl_per_min": "<-2",
+      "pair_count_n": 3,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "row_percent": 1.4,
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": ">2",
+      "icgm_rate_range_mg_dl_per_min": "<-2",
+      "pair_count_n": 0,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "row_percent": 0,
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "<-2",
+      "icgm_rate_range_mg_dl_per_min": "[-2,-1)",
+      "pair_count_n": 54,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "row_percent": 6.6,
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "[-2,-1)",
+      "icgm_rate_range_mg_dl_per_min": "[-2,-1)",
+      "pair_count_n": 386,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "row_percent": 47.5,
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "[-1,-0)",
+      "icgm_rate_range_mg_dl_per_min": "[-2,-1)",
+      "pair_count_n": 308,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "row_percent": 37.9,
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "[0,1]",
+      "icgm_rate_range_mg_dl_per_min": "[-2,-1)",
+      "pair_count_n": 56,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "row_percent": 6.9,
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "(1,2]",
+      "icgm_rate_range_mg_dl_per_min": "[-2,-1)",
+      "pair_count_n": 7,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "row_percent": 0.9,
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": ">2",
+      "icgm_rate_range_mg_dl_per_min": "[-2,-1)",
+      "pair_count_n": 2,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "row_percent": 0.2,
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "<-2",
+      "icgm_rate_range_mg_dl_per_min": "[-1,0)",
+      "pair_count_n": 16,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "row_percent": 0.6,
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "[-2,-1)",
+      "icgm_rate_range_mg_dl_per_min": "[-1,0)",
+      "pair_count_n": 222,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "row_percent": 8.3,
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "[-1,-0)",
+      "icgm_rate_range_mg_dl_per_min": "[-1,0)",
+      "pair_count_n": 1860,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "row_percent": 69.8,
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "[0,1]",
+      "icgm_rate_range_mg_dl_per_min": "[-1,0)",
+      "pair_count_n": 522,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "row_percent": 19.6,
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "(1,2]",
+      "icgm_rate_range_mg_dl_per_min": "[-1,0)",
+      "pair_count_n": 37,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "row_percent": 1.4,
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": ">2",
+      "icgm_rate_range_mg_dl_per_min": "[-1,0)",
+      "pair_count_n": 9,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "row_percent": 0.3,
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "<-2",
+      "icgm_rate_range_mg_dl_per_min": "[0,1]",
+      "pair_count_n": 6,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "row_percent": 0.3,
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "[-2,-1)",
+      "icgm_rate_range_mg_dl_per_min": "[0,1]",
+      "pair_count_n": 38,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "row_percent": 1.7,
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "[-1,-0)",
+      "icgm_rate_range_mg_dl_per_min": "[0,1]",
+      "pair_count_n": 545,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "row_percent": 24.5,
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "[0,1]",
+      "icgm_rate_range_mg_dl_per_min": "[0,1]",
+      "pair_count_n": 1403,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "row_percent": 63.2,
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "(1,2]",
+      "icgm_rate_range_mg_dl_per_min": "[0,1]",
+      "pair_count_n": 202,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "row_percent": 9.1,
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": ">2",
+      "icgm_rate_range_mg_dl_per_min": "[0,1]",
+      "pair_count_n": 27,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "row_percent": 1.2,
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "<-2",
+      "icgm_rate_range_mg_dl_per_min": "(1,2]",
+      "pair_count_n": 3,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "row_percent": 0.4,
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "[-2,-1)",
+      "icgm_rate_range_mg_dl_per_min": "(1,2]",
+      "pair_count_n": 7,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "row_percent": 1,
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "[-1,-0)",
+      "icgm_rate_range_mg_dl_per_min": "(1,2]",
+      "pair_count_n": 66,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "row_percent": 9,
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "[0,1]",
+      "icgm_rate_range_mg_dl_per_min": "(1,2]",
+      "pair_count_n": 263,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "row_percent": 35.7,
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "(1,2]",
+      "icgm_rate_range_mg_dl_per_min": "(1,2]",
+      "pair_count_n": 324,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "row_percent": 44,
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": ">2",
+      "icgm_rate_range_mg_dl_per_min": "(1,2]",
+      "pair_count_n": 73,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "row_percent": 9.9,
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "<-2",
+      "icgm_rate_range_mg_dl_per_min": ">2",
+      "pair_count_n": 0,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "row_percent": 0,
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "[-2,-1)",
+      "icgm_rate_range_mg_dl_per_min": ">2",
+      "pair_count_n": 4,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "row_percent": 0.9,
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "[-1,-0)",
+      "icgm_rate_range_mg_dl_per_min": ">2",
+      "pair_count_n": 21,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "row_percent": 4.6,
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "[0,1]",
+      "icgm_rate_range_mg_dl_per_min": ">2",
+      "pair_count_n": 49,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "row_percent": 10.8,
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": "(1,2]",
+      "icgm_rate_range_mg_dl_per_min": ">2",
+      "pair_count_n": 138,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "row_percent": 30.4,
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    },
+    {
+      "comparator_rate_range_mg_dl_per_min": ">2",
+      "icgm_rate_range_mg_dl_per_min": ">2",
+      "pair_count_n": 242,
+      "population_age_group": "Pediatrics 7-17 YO",
+      "row_percent": 53.3,
+      "subjects_n": 122,
+      "wear_location": "Arm"
+    }
+  ],
+  "trend_accuracy_row_totals": [
+    {
+      "icgm_rate_range_mg_dl_per_min": "<-2",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "total_paired_icgm_comparator_n": 758,
+      "wear_location": "Arm"
+    },
+    {
+      "icgm_rate_range_mg_dl_per_min": "[-2,-1)",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "total_paired_icgm_comparator_n": 2851,
+      "wear_location": "Arm"
+    },
+    {
+      "icgm_rate_range_mg_dl_per_min": "[-1,0)",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "total_paired_icgm_comparator_n": 13980,
+      "wear_location": "Arm"
+    },
+    {
+      "icgm_rate_range_mg_dl_per_min": "[0,1]",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "total_paired_icgm_comparator_n": 11295,
+      "wear_location": "Arm"
+    },
+    {
+      "icgm_rate_range_mg_dl_per_min": "(1,2]",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "total_paired_icgm_comparator_n": 3302,
+      "wear_location": "Arm"
+    },
+    {
+      "icgm_rate_range_mg_dl_per_min": ">2",
+      "population_age_group": "≥ 18 YO",
+      "subjects_n": 308,
+      "total_paired_icgm_comparator_n": 2035,
+      "wear_location": "Arm"
+    },
+    {
+      "icgm_rate_range_mg_dl_per_min": "<-2",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "total_paired_icgm_comparator_n": 213,
+      "wear_location": "Arm"
+    },
+    {
+      "icgm_rate_range_mg_dl_per_min": "[-2,-1)",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "total_paired_icgm_comparator_n": 813,
+      "wear_location": "Arm"
+    },
+    {
+      "icgm_rate_range_mg_dl_per_min": "[-1,0)",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "total_paired_icgm_comparator_n": 2666,
+      "wear_location": "Arm"
+    },
+    {
+      "icgm_rate_range_mg_dl_per_min": "[0,1]",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "total_paired_icgm_comparator_n": 2221,
+      "wear_location": "Arm"
+    },
+    {
+      "icgm_rate_range_mg_dl_per_min": "(1,2]",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "total_paired_icgm_comparator_n": 736,
+      "wear_location": "Arm"
+    },
+    {
+      "icgm_rate_range_mg_dl_per_min": ">2",
+      "population_age_group": "Pediatrics 7-17 YO",
+      "subjects_n": 122,
+      "total_paired_icgm_comparator_n": 454,
+      "wear_location": "Arm"
+    }
+  ]
+}

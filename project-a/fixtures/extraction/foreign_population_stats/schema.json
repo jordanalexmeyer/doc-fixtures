@@ -1,0 +1,139 @@
+{
+  "additionalProperties": false,
+  "description": "Schema for migrating a statistical publication that compares foreign-population counts from a census source and an administrative register source by administrative area and sex. Extract document metadata, all printed statistical rows, grouping headings, and deterministic footnote-marker links for field-by-field reconciliation across independent extractors.",
+  "properties": {
+    "area_name_correction_date": {
+      "description": "Date printed after the metadata phrase indicating that administrative-area names were partially corrected. Output only the date, excluding the surrounding phrase and punctuation. Preserve the document's printed date style, month spelling, and spacing. Null is not allowed because this date is printed.",
+      "type": "string"
+    },
+    "area_population_comparisons": {
+      "description": "All body-table rows that have a value in the sex column and numeric values under the census, register, absolute-deviation, and percent-deviation columns. Create one item for each printed sex-category row across the entire table body; do not create items for headings, headers, footnotes, source lines, or metadata text.",
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "area_name": {
+            "description": "Administrative-area label from the first table column for this row's area group. When the label is printed only on the first sex row of the group, repeat that same label for the subsequent sex rows in the same group. Remove any superscript footnote marker from the label; collapse repeated whitespace to a single space; trim leading and trailing whitespace. If the label wraps across printed lines, join the wrapped parts with one space unless a hyphen is visibly printed at the line break, in which case preserve the hyphen and do not add an extra space at that break. Null is not allowed because each statistical row belongs to a printed area label.",
+            "type": "string"
+          },
+          "azr_count": {
+            "description": "Integer cell under the administrative-register count column for this statistical row. Strip spaces used as thousands separators; convert any printed minus sign to the ASCII hyphen-minus; emit an integer, never a string and never a value with a trailing .0. Null is not allowed because every statistical row has a printed register count.",
+            "type": "integer"
+          },
+          "deviation_count": {
+            "description": "Integer cell under the absolute-deviation count column within the deviation column group for this statistical row. Strip spaces used as thousands separators; convert any printed minus sign to the ASCII hyphen-minus; emit an integer, never a string and never a value with a trailing .0. A printed zero must be emitted as 0, not null. Null is not allowed because every statistical row has a printed absolute-deviation count.",
+            "type": "integer"
+          },
+          "deviation_percent": {
+            "description": "Numeric cell under the percent column within the deviation column group for this statistical row. Strip any percent sign if one is printed in the cell; convert the decimal comma to a decimal point; convert any printed minus sign to the ASCII hyphen-minus; emit a JSON number, never a string. If the printed value is a signed zero, emit 0. Null is not allowed because every statistical row has a printed percent-deviation value.",
+            "type": "number"
+          },
+          "federal_state": {
+            "description": "Nearest preceding standalone grouping heading in the first table column that has no sex value and no numeric measure cells, applied to this statistical row. Use the exact printed capitalization; collapse repeated whitespace to a single space; trim leading and trailing whitespace. Null is not allowed because every statistical row belongs under such a printed grouping heading.",
+            "type": "string"
+          },
+          "sex": {
+            "description": "Cell value under the table column headed for sex for this statistical row. Use the exact printed capitalization and spelling; collapse repeated whitespace to a single space; trim leading and trailing whitespace. Null is not allowed because every statistical row has a printed sex-category cell.",
+            "type": "string"
+          },
+          "zensus_count": {
+            "description": "Integer cell under the census-source count column for this statistical row. Strip spaces used as thousands separators; convert any printed minus sign to the ASCII hyphen-minus; emit an integer, never a string and never a value with a trailing .0. Null is not allowed because every statistical row has a printed census count.",
+            "type": "integer"
+          }
+        },
+        "required": [
+          "federal_state",
+          "area_name",
+          "sex",
+          "zensus_count",
+          "azr_count",
+          "deviation_count",
+          "deviation_percent"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "contact_phone": {
+      "description": "Telephone number printed in the contact section after the telephone label. Output only the phone number, excluding the label; preserve plus signs, parentheses, slashes, and digit grouping as printed, while collapsing repeated whitespace to a single space and trimming leading and trailing whitespace. Null is not allowed because this contact value is printed.",
+      "type": "string"
+    },
+    "contact_url": {
+      "description": "URL printed in the contact section of the metadata block. Output the URL exactly as printed except trim leading and trailing whitespace; do not add or remove a trailing slash unless it is absent or present in the printed URL. Null is not allowed because this contact value is printed.",
+      "type": "string"
+    },
+    "federal_state_sections": {
+      "description": "All standalone grouping headings printed in the first table column that divide the statistical rows into federal-state sections. Create one item for each such heading; do not include administrative-area labels, table headers, footnotes, source lines, or metadata text.",
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "state_name": {
+            "description": "Text of the standalone grouping heading in the first table column. Use exact printed capitalization; collapse repeated whitespace to a single space; trim leading and trailing whitespace. Null is not allowed because each item represents a printed grouping heading.",
+            "type": "string"
+          }
+        },
+        "required": [
+          "state_name"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "initial_publication_date": {
+      "description": "Date printed after the metadata label meaning 'published on'. Output only the date, excluding the label and punctuation before it. Preserve the document's printed date style, month spelling, and spacing. Null is not allowed because this date is printed.",
+      "type": "string"
+    },
+    "issuing_organization": {
+      "description": "Organization name printed at the top of the document metadata block. Use the exact printed capitalization, collapse repeated whitespace to a single space, and trim leading and trailing whitespace. Null is not allowed because this metadata cell is printed.",
+      "type": "string"
+    },
+    "publication_category": {
+      "description": "Short publication-type label printed directly below the issuing organization in the metadata block. Use the exact printed capitalization, collapse repeated whitespace to a single space, and trim leading and trailing whitespace. Null is not allowed because this label is printed.",
+      "type": "string"
+    },
+    "reference_date": {
+      "description": "Population reference date printed as the standalone date associated with the table subtitle or title metadata. Output the date exactly in the document's printed day-month-year style, preserving the printed month spelling and spacing, with no added leading zeroes. Null is not allowed because this date is printed.",
+      "type": "string"
+    },
+    "scope_footnote_references": {
+      "description": "All superscript footnote markers attached to administrative-area labels in the statistical table and linked to explanatory notes after the table. Create one item per marker attached to an area label; do not extract the explanatory prose note text.",
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "marker": {
+            "description": "Superscript marker attached to the administrative-area label. Convert superscript digits or symbols to their ordinary plain-text form; trim whitespace; do not include the area label or note text. Null is not allowed because each item represents a printed marker.",
+            "type": "string"
+          },
+          "referenced_area_name": {
+            "description": "Administrative-area label to which the footnote marker is attached, excluding the marker itself. Use the same whitespace, capitalization, line-wrap, and hyphen handling rules as area_name in the statistical rows. Null is not allowed because each marker is attached to a printed area label.",
+            "type": "string"
+          }
+        },
+        "required": [
+          "marker",
+          "referenced_area_name"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "zensus_source_status_date": {
+      "description": "Date printed in the source line after the phrase indicating the census source status date. Output only the date in the exact numeric date style printed in that source line, excluding the surrounding words. Null is not allowed because the source line prints this date.",
+      "type": "string"
+    }
+  },
+  "required": [
+    "issuing_organization",
+    "publication_category",
+    "reference_date",
+    "initial_publication_date",
+    "area_name_correction_date",
+    "contact_url",
+    "contact_phone",
+    "zensus_source_status_date",
+    "area_population_comparisons",
+    "federal_state_sections",
+    "scope_footnote_references"
+  ],
+  "title": "Statistical Register Comparison Data Export",
+  "type": "object"
+}

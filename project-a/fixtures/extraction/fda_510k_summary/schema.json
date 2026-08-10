@@ -1,0 +1,847 @@
+{
+  "additionalProperties": false,
+  "description": "Structured extraction schema for migrating regulatory identifiers, referenced standards, and quantitative analytical/clinical performance results from an FDA 510(k) decision summary. Use this schema to compare independent extractions of the same document field-by-field without relying on narrative prose.",
+  "properties": {
+    "alert_performance": {
+      "description": "One object for each threshold-setting row in the hypoglycemic and hyperglycemic alert and detection tables. Use the table title to identify alert type, population, wear location, and subject count.",
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "alert_count_n": {
+            "description": "The integer printed under # of alerts (n) for the row. Strip commas; emit as an integer; null is not allowed.",
+            "type": "integer"
+          },
+          "alert_setting_mg_dl": {
+            "description": "The integer threshold printed in the Alert Setting (mg/dL) column for the row. Emit the integer only without units, commas, or a trailing .0; null is not allowed.",
+            "type": "integer"
+          },
+          "alert_type": {
+            "description": "The alert category named in the table title. Use the short category word from the title; preserve exact printed capitalization; null is not allowed.",
+            "type": "string"
+          },
+          "event_count_n": {
+            "description": "The integer printed under # of events (n) for the row. Strip commas; emit as an integer; null is not allowed.",
+            "type": "integer"
+          },
+          "false_alert_percent": {
+            "description": "The number printed under False Alert (%) for the row. Emit the percent number only without the percent sign; null is not allowed.",
+            "type": "number"
+          },
+          "missed_detection_percent": {
+            "description": "The number printed under Missed Detection (%) for the row. Emit the percent number only without the percent sign; null is not allowed.",
+            "type": "number"
+          },
+          "population_age_group": {
+            "description": "The population age group printed in the alert table title. Preserve comparison symbols, hyphens, digits, and capitalization; collapse repeated whitespace to a single space; null is not allowed.",
+            "type": "string"
+          },
+          "subjects_n": {
+            "description": "The subject count printed in parentheses in the alert table title. Emit the integer only, without the leading letter, parentheses, commas, or trailing .0; null is not allowed.",
+            "type": "integer"
+          },
+          "true_alert_percent": {
+            "description": "The number printed under True Alert (%) for the row. Emit the percent number only without the percent sign; null is not allowed.",
+            "type": "number"
+          },
+          "true_detection_percent": {
+            "description": "The number printed under True Detection (%) for the row. Emit the percent number only without the percent sign; null is not allowed.",
+            "type": "number"
+          },
+          "wear_location": {
+            "description": "The wear-location label printed in the alert table title. Preserve exact printed capitalization; collapse repeated whitespace to a single space; null is not allowed.",
+            "type": "string"
+          }
+        },
+        "required": [
+          "alert_type",
+          "population_age_group",
+          "wear_location",
+          "subjects_n",
+          "alert_setting_mg_dl",
+          "alert_count_n",
+          "true_alert_percent",
+          "false_alert_percent",
+          "event_count_n",
+          "true_detection_percent",
+          "missed_detection_percent"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "applicant_name": {
+      "description": "The value printed in the Background Information subsection labeled Applicant. Preserve exact printed capitalization and punctuation; collapse repeated whitespace to a single space; null is not allowed.",
+      "type": "string"
+    },
+    "classification_panel": {
+      "description": "The panel text printed in the Regulatory Information table under the Classification Panel column. Preserve exact printed capitalization and punctuation; collapse repeated whitespace to a single space; null is not allowed.",
+      "type": "string"
+    },
+    "concurrence_marginal_totals": {
+      "description": "One object for each printed marginal total in the concurrence matrices, including row totals when the table prints a Total column and column totals when the table prints a Total row.",
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "glucose_range_mg_dl": {
+            "description": "The glucose range label for the marginal total, taken from the row label for row totals or the column header for column totals. Preserve comparison signs and hyphens; remove units because the field name supplies them; collapse whitespace; null is not allowed.",
+            "type": "string"
+          },
+          "percentage_basis": {
+            "description": "The basis indicated by the concurrence table title after the word \"by\" and before the population/location segment. Transcribe the full printed glucose-range basis phrase from that title, preserving capitalization and including descriptor words that are part of the phrase; do not shorten it to only the device or comparator name; null is not allowed.",
+            "type": "string"
+          },
+          "population_age_group": {
+            "description": "The population age group printed in the concurrence table title. Preserve comparison symbols, hyphens, digits, and capitalization; collapse repeated whitespace to a single space; null is not allowed.",
+            "type": "string"
+          },
+          "subjects_n": {
+            "description": "The subject count printed in parentheses in the concurrence table title. Emit the integer only, without the leading letter, parentheses, commas, or trailing .0; null is not allowed.",
+            "type": "integer"
+          },
+          "total_axis": {
+            "description": "The printed matrix axis whose margin supplies this total: for totals at the end of matrix rows, use the row-axis heading at the left of the table; for totals in the bottom Total row, use the column-axis heading above the glucose-range columns. Preserve the printed axis wording and capitalization, including descriptor words that are part of the heading, but remove unit-only lines such as parenthesized units; null is not allowed.",
+            "type": "string"
+          },
+          "total_count_n": {
+            "description": "The printed marginal total count for this glucose range. Strip commas; emit as an integer; null is not allowed.",
+            "type": "integer"
+          },
+          "wear_location": {
+            "description": "The wear-location label printed in the concurrence table title. Preserve exact printed capitalization; collapse repeated whitespace to a single space; null is not allowed.",
+            "type": "string"
+          }
+        },
+        "required": [
+          "total_axis",
+          "percentage_basis",
+          "population_age_group",
+          "wear_location",
+          "subjects_n",
+          "glucose_range_mg_dl",
+          "total_count_n"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "concurrence_matrix_cells": {
+      "description": "One object for each populated count-and-percent cell in each concurrence matrix comparing iCGM glucose ranges with comparator glucose ranges. Do not create objects for visibly blank matrix cells or marginal total cells.",
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "comparator_glucose_range_mg_dl": {
+            "description": "The comparator glucose range column header for the matrix cell. Preserve comparison signs and hyphens; remove units because the field name supplies them; collapse whitespace; null is not allowed.",
+            "type": "string"
+          },
+          "icgm_glucose_range_mg_dl": {
+            "description": "The iCGM glucose range row label for the matrix cell. Preserve comparison signs and hyphens; remove units because the field name supplies them; collapse whitespace; null is not allowed.",
+            "type": "string"
+          },
+          "pair_count_n": {
+            "description": "The integer count printed in the matrix cell above or adjacent to the percentage for this row-column intersection. Strip commas; emit as an integer; null is not allowed.",
+            "type": "integer"
+          },
+          "percentage": {
+            "description": "The percentage printed in the matrix cell for this row-column intersection. Strip parentheses and the percent sign; emit zero as 0 when printed; null is not allowed.",
+            "type": "number"
+          },
+          "percentage_basis": {
+            "description": "The basis indicated by the concurrence table title after the word \"by\" and before the population/location segment. Transcribe the full printed glucose-range basis phrase from that title, preserving capitalization and including descriptor words that are part of the phrase; do not shorten it to only the device or comparator name; null is not allowed.",
+            "type": "string"
+          },
+          "population_age_group": {
+            "description": "The population age group printed in the concurrence table title. Preserve comparison symbols, hyphens, digits, and capitalization; collapse repeated whitespace to a single space; null is not allowed.",
+            "type": "string"
+          },
+          "subjects_n": {
+            "description": "The subject count printed in parentheses in the concurrence table title. Emit the integer only, without the leading letter, parentheses, commas, or trailing .0; null is not allowed.",
+            "type": "integer"
+          },
+          "wear_location": {
+            "description": "The wear-location label printed in the concurrence table title. Preserve exact printed capitalization; collapse repeated whitespace to a single space; null is not allowed.",
+            "type": "string"
+          }
+        },
+        "required": [
+          "percentage_basis",
+          "population_age_group",
+          "wear_location",
+          "subjects_n",
+          "icgm_glucose_range_mg_dl",
+          "comparator_glucose_range_mg_dl",
+          "pair_count_n",
+          "percentage"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "data_availability_by_wear_day": {
+      "description": "One object for each wear-day or overall row in the data availability rate table. Use the first column exactly to distinguish numbered days from the overall summary row.",
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "data_availability_rate_percent": {
+            "description": "The number printed in the Data Availability Rate (%) column for the row. Emit the percent number only without the percent sign; null is not allowed.",
+            "type": "number"
+          },
+          "number_of_sensors": {
+            "description": "The integer printed in the Number of Sensors column for the row. Strip commas; emit as an integer; null is not allowed.",
+            "type": "integer"
+          },
+          "wear_day_label": {
+            "description": "The label printed in the Wear Day column. For numbered days, emit the digits as a string; for a summary row, preserve the exact printed capitalization; collapse repeated whitespace to a single space; null is not allowed.",
+            "type": "string"
+          }
+        },
+        "required": [
+          "wear_day_label",
+          "number_of_sensors",
+          "data_availability_rate_percent"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "detailed_accuracy_by_glucose_range": {
+      "description": "One object for each glucose-range row in the system accuracy tables that include 15/20/40 mg/dL, 15/20/40 percent, mean bias, and MARD. Use the table title to identify the range basis, population, and wear location.",
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "glucose_range_mg_dl": {
+            "description": "The glucose range label printed in the first column for the row. Preserve comparison signs and hyphens; remove units because the field name supplies them; collapse whitespace; null is not allowed.",
+            "type": "string"
+          },
+          "mard_percent": {
+            "description": "The number printed under MARD (%) for this row. Emit the percent number only without the percent sign; null is not allowed.",
+            "type": "number"
+          },
+          "matched_pairs_n": {
+            "description": "The integer printed under Matched Pairs (N) for this row. Strip commas; emit as an integer; null is not allowed.",
+            "type": "integer"
+          },
+          "mean_bias_mg_dl": {
+            "description": "The number printed under Mean Bias (mg/dL) for this row. Preserve the negative sign when printed; emit the number only without units; null is not allowed.",
+            "type": "number"
+          },
+          "population_age_group": {
+            "description": "The population age group printed in the table title. Preserve comparison symbols, hyphens, digits, and capitalization; collapse repeated whitespace to a single space; null is not allowed.",
+            "type": "string"
+          },
+          "range_basis": {
+            "description": "The measurement basis named in the table title after \"Within\" and before the population/location segment. Transcribe the full printed glucose-range basis phrase from that title, preserving capitalization and including descriptor words that are part of the phrase; do not shorten it to only the device or comparator name; null is not allowed.",
+            "type": "string"
+          },
+          "subjects_n": {
+            "description": "The subject count printed in parentheses in the table title. Emit the integer only, without the leading letter, parentheses, commas, or trailing .0; null is not allowed.",
+            "type": "integer"
+          },
+          "wear_location": {
+            "description": "The wear-location label printed in the table title. Preserve exact printed capitalization; collapse repeated whitespace to a single space; null is not allowed.",
+            "type": "string"
+          },
+          "within_15_mg_dl_percent": {
+            "description": "The percent number in the Percent Within 15 mg/dL column for this row. Emit null only when the cell is a dash placeholder; strip percent signs if present.",
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "within_15_percent_percent": {
+            "description": "The percent number in the Percent Within 15% column for this row. Emit null only when the cell is a dash placeholder; strip percent signs.",
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "within_20_mg_dl_percent": {
+            "description": "The percent number in the Percent Within 20 mg/dL column for this row. Emit null only when the cell is a dash placeholder; strip percent signs if present.",
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "within_20_percent_percent": {
+            "description": "The percent number in the Percent Within 20% column for this row. Emit null only when the cell is a dash placeholder; strip percent signs.",
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "within_40_mg_dl_percent": {
+            "description": "The percent number in the Percent Within 40 mg/dL column for this row. Emit null only when the cell is a dash placeholder; strip percent signs if present.",
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "within_40_percent_percent": {
+            "description": "The percent number in the Percent Within 40% column for this row. Emit null only when the cell is a dash placeholder; strip percent signs.",
+            "type": [
+              "number",
+              "null"
+            ]
+          }
+        },
+        "required": [
+          "range_basis",
+          "population_age_group",
+          "wear_location",
+          "subjects_n",
+          "glucose_range_mg_dl",
+          "matched_pairs_n",
+          "within_15_mg_dl_percent",
+          "within_20_mg_dl_percent",
+          "within_40_mg_dl_percent",
+          "within_15_percent_percent",
+          "within_20_percent_percent",
+          "within_40_percent_percent",
+          "mean_bias_mg_dl",
+          "mard_percent"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "device_classification": {
+      "description": "The classification text printed in the Regulatory Information table under the Classification column. Preserve the class wording as printed; collapse repeated whitespace to a single space; null is not allowed.",
+      "type": "string"
+    },
+    "grace_period_hours": {
+      "description": "The numeric extended grace period printed with the sensor wear period in the device description text. Emit the number of hours only, without the word hours; use an integer-valued JSON number when the printed value is an integer; null is not allowed.",
+      "type": "number"
+    },
+    "low_high_reading_distribution": {
+      "description": "One object for each comparator-threshold column in the distribution table for iCGM readings displayed as LOW or HIGH. Exclude the Total column from this array and capture it in the totals array.",
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "comparator_pairs_n": {
+            "description": "The integer count printed in the n row for this iCGM reading group and comparator threshold. Strip commas; emit as an integer; null is not allowed.",
+            "type": "integer"
+          },
+          "comparator_threshold_direction": {
+            "description": "The comparison symbol printed in the comparator threshold column header for this value. Preserve the printed symbol exactly; do not replace it with words; null is not allowed.",
+            "type": "string"
+          },
+          "comparator_threshold_mg_dl": {
+            "description": "The numeric threshold printed in the comparator threshold column header. Emit the integer only, without comparison symbols, units, commas, or a trailing .0; null is not allowed.",
+            "type": "integer"
+          },
+          "cumulative_percent": {
+            "description": "The number printed in the Cumulative Percent row for this iCGM reading group and comparator threshold. Strip percent signs if present; emit zero as 0 when printed; null is not allowed.",
+            "type": "number"
+          },
+          "icgm_reading_label": {
+            "description": "The iCGM reading label printed at the start of the row group. Preserve exact printed capitalization; collapse repeated whitespace to a single space; null is not allowed.",
+            "type": "string"
+          },
+          "subjects_n": {
+            "description": "The subject count printed in parentheses in the distribution table title. Emit the integer only, without the leading letter, parentheses, commas, or trailing .0; null is not allowed.",
+            "type": "integer"
+          }
+        },
+        "required": [
+          "icgm_reading_label",
+          "comparator_threshold_direction",
+          "comparator_threshold_mg_dl",
+          "comparator_pairs_n",
+          "cumulative_percent",
+          "subjects_n"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "low_high_reading_totals": {
+      "description": "One object for each Total column value printed for an iCGM LOW or HIGH reading group in the distribution table.",
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "icgm_reading_label": {
+            "description": "The iCGM reading label printed at the start of the row group. Preserve exact printed capitalization; collapse repeated whitespace to a single space; null is not allowed.",
+            "type": "string"
+          },
+          "total_comparator_pairs_n": {
+            "description": "The integer printed in the Total column of the n row for this iCGM reading group. Strip commas; emit as an integer; null is not allowed.",
+            "type": "integer"
+          }
+        },
+        "required": [
+          "icgm_reading_label",
+          "total_comparator_pairs_n"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "measurand": {
+      "description": "The value printed in the Submission/Device Overview subsection labeled Measurand. Preserve exact printed capitalization; collapse repeated whitespace to a single space; null is not allowed.",
+      "type": "string"
+    },
+    "overall_twenty_percent_accuracy": {
+      "description": "One object for each population/wear-location row in the summary table reporting percent of iCGM values within 20% of comparator glucose.",
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "matched_pairs_n": {
+            "description": "The integer printed under Matched Pairs (n). Strip commas; emit as an integer; null is not allowed.",
+            "type": "integer"
+          },
+          "patient_population": {
+            "description": "The patient population label printed in the first column. Preserve exact printed capitalization, digits, comparison symbols, and parenthetical age text; collapse repeated whitespace to a single space; null is not allowed.",
+            "type": "string"
+          },
+          "percent_within_20_95_lb_percent": {
+            "description": "The number inside parentheses in the Percent within 20% (95% LB) cell. Strip parentheses and percent signs; null is not allowed.",
+            "type": "number"
+          },
+          "percent_within_20_percent": {
+            "description": "The number before parentheses in the Percent within 20% column. Emit the percent number only without the percent sign; null is not allowed.",
+            "type": "number"
+          },
+          "wear_location": {
+            "description": "The wear-location label printed on the same row. Preserve exact printed capitalization; collapse repeated whitespace to a single space; null is not allowed.",
+            "type": "string"
+          }
+        },
+        "required": [
+          "patient_population",
+          "wear_location",
+          "matched_pairs_n",
+          "percent_within_20_percent",
+          "percent_within_20_95_lb_percent"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "point_accuracy_by_glucose_range": {
+      "description": "One object for each glucose-range row in the percent-and-point accuracy tables. Use the table title to determine whether the range basis is iCGM or comparator, then read all metrics from that row.",
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "glucose_range_mg_dl": {
+            "description": "The glucose range label printed in the first column for the row. Preserve comparison signs and hyphens; remove units because the field name supplies them; collapse whitespace; null is not allowed.",
+            "type": "string"
+          },
+          "matched_pairs_n": {
+            "description": "The integer printed under Matched Pairs (N) for this row. Strip commas; emit as an integer; null is not allowed.",
+            "type": "integer"
+          },
+          "mean_bias_95_ub_mg_dl": {
+            "description": "The number inside parentheses in the Mean Bias (mg/dL) (95% UB) cell for this row. Preserve the negative sign when printed; strip parentheses and units; null is not allowed.",
+            "type": "number"
+          },
+          "mean_bias_mg_dl": {
+            "description": "The number before parentheses in the Mean Bias (mg/dL) column for this row. Preserve the negative sign when printed; emit the number only without units; null is not allowed.",
+            "type": "number"
+          },
+          "population_age_group": {
+            "description": "The population age group printed in the table title. Preserve comparison symbols, hyphens, digits, and capitalization; collapse repeated whitespace to a single space; null is not allowed.",
+            "type": "string"
+          },
+          "range_basis": {
+            "description": "The measurement basis named in the table title after the word \"by\" and before the population/location segment. Transcribe the full printed glucose-range basis phrase from that title, preserving capitalization and including descriptor words that are part of the phrase; do not shorten it to only the device or comparator name; null is not allowed.",
+            "type": "string"
+          },
+          "subjects_n": {
+            "description": "The subject count printed in parentheses in the table title. Emit the integer only, without the leading letter, parentheses, commas, or a trailing .0; null is not allowed.",
+            "type": "integer"
+          },
+          "wear_location": {
+            "description": "The wear-location label printed in the table title. Preserve exact printed capitalization; collapse repeated whitespace to a single space; null is not allowed.",
+            "type": "string"
+          },
+          "within_15_mg_dl_95_lb_percent": {
+            "description": "The number inside parentheses in the Percent Within 15 mg/dL (95% LB) cell for this row. Emit null only when the corresponding cell is a dash placeholder; strip parentheses and percent signs.",
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "within_15_mg_dl_percent": {
+            "description": "The percent number before parentheses in the Percent Within 15 mg/dL column for this row. Emit null only when the cell is a dash placeholder indicating not applicable; never emit a dash string; strip the percent sign if present.",
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "within_15_percent_95_lb_percent": {
+            "description": "The number inside parentheses in the Percent Within 15% (95% LB) cell for this row. Emit null only when the corresponding cell is a dash placeholder; strip parentheses and percent signs.",
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "within_15_percent_percent": {
+            "description": "The percent number before parentheses in the Percent Within 15% column for this row. Emit null only when the cell is a dash placeholder indicating not applicable; never emit a dash string; strip percent signs.",
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "within_40_mg_dl_95_lb_percent": {
+            "description": "The number inside parentheses in the Percent Within 40 mg/dL (95% LB) cell for this row. Emit null only when the corresponding cell is a dash placeholder; strip parentheses and percent signs.",
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "within_40_mg_dl_percent": {
+            "description": "The percent number before parentheses in the Percent Within 40 mg/dL column for this row. Emit null only when the cell is a dash placeholder indicating not applicable; never emit a dash string; strip the percent sign if present.",
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "within_40_percent_95_lb_percent": {
+            "description": "The number inside parentheses in the Percent Within 40% (95% LB) cell for this row. Emit null only when the corresponding cell is a dash placeholder; strip parentheses and percent signs.",
+            "type": [
+              "number",
+              "null"
+            ]
+          },
+          "within_40_percent_percent": {
+            "description": "The percent number before parentheses in the Percent Within 40% column for this row. Emit null only when the cell is a dash placeholder indicating not applicable; never emit a dash string; strip percent signs.",
+            "type": [
+              "number",
+              "null"
+            ]
+          }
+        },
+        "required": [
+          "range_basis",
+          "population_age_group",
+          "wear_location",
+          "subjects_n",
+          "glucose_range_mg_dl",
+          "matched_pairs_n",
+          "within_15_mg_dl_percent",
+          "within_15_mg_dl_95_lb_percent",
+          "within_40_mg_dl_percent",
+          "within_40_mg_dl_95_lb_percent",
+          "within_15_percent_percent",
+          "within_15_percent_95_lb_percent",
+          "within_40_percent_percent",
+          "within_40_percent_95_lb_percent",
+          "mean_bias_mg_dl",
+          "mean_bias_95_ub_mg_dl"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "precision_by_insertion_site_age": {
+      "description": "One object for each population and insertion-site column in the precision table. Read each value from the intersection of the printed metric row and the population/site column.",
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "cgm_cgm_matched_pairs_n": {
+            "description": "The integer in the row labeled CGM-CGM Matched Pairs (n) for this population/site column. Strip commas and units; emit as an integer; null is not allowed.",
+            "type": "integer"
+          },
+          "coefficient_of_variation_percent": {
+            "description": "The numeric value in the row labeled Coefficient of Variation (%) for this population/site column. Emit the percent number only, without the percent sign; null is not allowed.",
+            "type": "number"
+          },
+          "number_of_subjects_n": {
+            "description": "The integer in the row labeled Number of Subjects (N) for this population/site column. Emit as an integer without commas or a trailing .0; null is not allowed.",
+            "type": "integer"
+          },
+          "paired_absolute_difference_mg_dl": {
+            "description": "The numeric value in the row labeled Paired Absolute Difference (mg/dL) for this population/site column. Emit the number only without units; null is not allowed.",
+            "type": "number"
+          },
+          "paired_absolute_relative_difference_percent": {
+            "description": "The numeric value in the row labeled Paired Absolute Relative Difference (%) for this population/site column. Emit the percent number only, without the percent sign; null is not allowed.",
+            "type": "number"
+          },
+          "population_age_group": {
+            "description": "The age-group header printed above the column. Preserve comparison symbols, hyphens, digits, and capitalization; collapse repeated whitespace to a single space; null is not allowed.",
+            "type": "string"
+          },
+          "wear_location": {
+            "description": "The insertion-site or wear-location label printed under the age-group header for the column. Preserve the site-name capitalization and words, collapse repeated whitespace to a single space, and remove footnote markers or callout symbols attached to the label; null is not allowed.",
+            "type": "string"
+          }
+        },
+        "required": [
+          "population_age_group",
+          "wear_location",
+          "cgm_cgm_matched_pairs_n",
+          "number_of_subjects_n",
+          "paired_absolute_difference_mg_dl",
+          "paired_absolute_relative_difference_percent",
+          "coefficient_of_variation_percent"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "predicate_510k_number": {
+      "description": "The value printed in the Substantial Equivalence Information subsection labeled Predicate 510(k) Number(s). Preserve exact printed capitalization and digits; collapse repeated whitespace to a single space; null is not allowed.",
+      "type": "string"
+    },
+    "predicate_device_name": {
+      "description": "The value printed in the Substantial Equivalence Information subsection labeled Predicate Device Name(s). Join wrapped lines with a single space if wrapping occurs; preserve exact printed capitalization and punctuation; null is not allowed.",
+      "type": "string"
+    },
+    "product_code": {
+      "description": "The product code printed in the Regulatory Information table under the Product Code(s) column. Preserve exact printed capitalization; strip surrounding whitespace; null is not allowed.",
+      "type": "string"
+    },
+    "proprietary_established_name": {
+      "description": "The value printed in the Background Information subsection labeled Proprietary and Established Names. Join wrapped lines with a single space if wrapping occurs; preserve exact printed capitalization and punctuation; null is not allowed.",
+      "type": "string"
+    },
+    "regulation_section": {
+      "description": "The regulation citation printed in the Regulatory Information table under the Regulation Section column. Preserve the CFR citation text as printed, including spaces; collapse repeated whitespace to a single space; null is not allowed.",
+      "type": "string"
+    },
+    "reportable_high_mg_dl": {
+      "description": "The upper numeric endpoint of the reportable glucose range printed in the device characteristics or linearity/reportable range text. Emit the integer only, without units, commas, comparison symbols, or a trailing .0; null is not allowed.",
+      "type": "integer"
+    },
+    "reportable_low_mg_dl": {
+      "description": "The lower numeric endpoint of the reportable glucose range printed in the device characteristics or linearity/reportable range text. Emit the integer only, without units, commas, comparison symbols, or a trailing .0; null is not allowed.",
+      "type": "integer"
+    },
+    "sensor_stability_by_wear_period": {
+      "description": "One object for each wear-period row in the sensor stability accuracy table.",
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "mard_percent": {
+            "description": "The number printed under MARD (%) for the row. Emit the percent number only without the percent sign; null is not allowed.",
+            "type": "number"
+          },
+          "matched_pairs_n": {
+            "description": "The integer printed under Matched Pairs (n) for the row. Strip commas; emit as an integer; null is not allowed.",
+            "type": "integer"
+          },
+          "wear_period_label": {
+            "description": "The wear-period label printed in the first column. Preserve exact printed capitalization; collapse repeated whitespace to a single space; null is not allowed.",
+            "type": "string"
+          },
+          "within_15_15_percent": {
+            "description": "The number printed under the %15/15 column for the row. Emit the percent number only without the percent sign; null is not allowed.",
+            "type": "number"
+          },
+          "within_20_20_percent": {
+            "description": "The number printed under the %20/20 column for the row. Emit the percent number only without the percent sign; null is not allowed.",
+            "type": "number"
+          },
+          "within_40_40_percent": {
+            "description": "The number printed under the %40/40 column for the row. Emit the percent number only without the percent sign; null is not allowed.",
+            "type": "number"
+          }
+        },
+        "required": [
+          "wear_period_label",
+          "matched_pairs_n",
+          "mard_percent",
+          "within_15_15_percent",
+          "within_20_20_percent",
+          "within_40_40_percent"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "sensor_survival_by_day": {
+      "description": "One object for each day-of-wear row in each system survival table. Use the table title to identify population, wear location, and the denominator printed in parentheses.",
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "number_of_sensors_n": {
+            "description": "The integer printed in the Number of Sensors column for the row. Strip commas; emit as an integer; null is not allowed.",
+            "type": "integer"
+          },
+          "population_age_group": {
+            "description": "The population age group printed in the survival table title. Preserve comparison symbols, hyphens, digits, and capitalization; collapse repeated whitespace to a single space; null is not allowed.",
+            "type": "string"
+          },
+          "sensor_denominator_n": {
+            "description": "The sensor denominator printed in parentheses in the survival table title. Emit the integer only, without the leading letter, parentheses, commas, or trailing .0; null is not allowed.",
+            "type": "integer"
+          },
+          "survival_rate_percent": {
+            "description": "The number printed in the Survival Rate (%) column for the row. Emit the percent number only without the percent sign; null is not allowed.",
+            "type": "number"
+          },
+          "wear_day": {
+            "description": "The integer printed in the Day of Wear column for the row. Emit as an integer without units or trailing .0; null is not allowed.",
+            "type": "integer"
+          },
+          "wear_location": {
+            "description": "The wear-location label printed in the survival table title. Preserve exact printed capitalization; collapse repeated whitespace to a single space; null is not allowed.",
+            "type": "string"
+          }
+        },
+        "required": [
+          "population_age_group",
+          "wear_location",
+          "sensor_denominator_n",
+          "wear_day",
+          "number_of_sensors_n",
+          "survival_rate_percent"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "sensor_wear_days": {
+      "description": "The numeric expected sensor wear period printed in the device description text. Emit the number of days only, without the word days; use an integer-valued JSON number when the printed value is an integer; null is not allowed.",
+      "type": "number"
+    },
+    "standards_referenced": {
+      "description": "One object for each numbered standard or guidance document listed in the Standards/Guidance Documents Referenced section. Exclude the descriptive title after the first comma so that each row contains only deterministic short reference data.",
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "sequence_number": {
+            "description": "The leading list number printed before the standard reference. Emit as an integer without punctuation; null is not allowed.",
+            "type": "integer"
+          },
+          "standard_reference_code": {
+            "description": "The standard or guidance reference text after the list number and before the first comma in the same list item. Preserve exact printed capitalization, slashes, hyphens, colons, and date punctuation; collapse repeated whitespace to a single space; null is not allowed.",
+            "type": "string"
+          }
+        },
+        "required": [
+          "sequence_number",
+          "standard_reference_code"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "submission_510k_number": {
+      "description": "The value printed in the Background Information subsection labeled 510(k) Number. Preserve the exact printed capitalization and digits; collapse internal whitespace to a single space; null is not allowed.",
+      "type": "string"
+    },
+    "test_type": {
+      "description": "The value printed in the Submission/Device Overview subsection labeled Type of Test. Preserve exact printed capitalization and parenthetical text; collapse repeated whitespace to a single space; null is not allowed.",
+      "type": "string"
+    },
+    "trend_accuracy_matrix_cells": {
+      "description": "One object for each cell in each trend accuracy matrix comparing iCGM rate range with comparator rate range. Read the count and row percentage from the same row-column intersection.",
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "comparator_rate_range_mg_dl_per_min": {
+            "description": "The comparator rate range column header for the matrix cell. Preserve brackets, parentheses, comparison signs, commas, minus signs, and spacing as printed after collapsing repeated whitespace; remove units because the field name supplies them; null is not allowed.",
+            "type": "string"
+          },
+          "icgm_rate_range_mg_dl_per_min": {
+            "description": "The iCGM rate range row label for the matrix cell. Preserve brackets, parentheses, comparison signs, commas, minus signs, and spacing as printed after collapsing repeated whitespace; remove units because the field name supplies them; null is not allowed.",
+            "type": "string"
+          },
+          "pair_count_n": {
+            "description": "The integer count printed in the matrix cell for this row-column intersection. Strip commas; emit as an integer; null is not allowed.",
+            "type": "integer"
+          },
+          "population_age_group": {
+            "description": "The population age group printed in the trend accuracy table title. Preserve comparison symbols, hyphens, digits, and capitalization; collapse repeated whitespace to a single space; null is not allowed.",
+            "type": "string"
+          },
+          "row_percent": {
+            "description": "The row percentage printed in parentheses in the matrix cell for this row-column intersection. Strip parentheses and the percent sign; emit zero as 0 when printed; null is not allowed.",
+            "type": "number"
+          },
+          "subjects_n": {
+            "description": "The subject count printed in parentheses in the trend accuracy table title. Emit the integer only, without the leading letter, parentheses, commas, or trailing .0; null is not allowed.",
+            "type": "integer"
+          },
+          "wear_location": {
+            "description": "The wear-location label printed in the trend accuracy table title. Preserve exact printed capitalization; collapse repeated whitespace to a single space; null is not allowed.",
+            "type": "string"
+          }
+        },
+        "required": [
+          "population_age_group",
+          "wear_location",
+          "subjects_n",
+          "icgm_rate_range_mg_dl_per_min",
+          "comparator_rate_range_mg_dl_per_min",
+          "pair_count_n",
+          "row_percent"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "trend_accuracy_row_totals": {
+      "description": "One object for each row-total cell in each trend accuracy matrix. These totals are printed in the rightmost total column and are separate from the matrix percentages.",
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "icgm_rate_range_mg_dl_per_min": {
+            "description": "The iCGM rate range row label for the row total. Preserve brackets, parentheses, comparison signs, commas, minus signs, and spacing as printed after collapsing repeated whitespace; remove units because the field name supplies them; null is not allowed.",
+            "type": "string"
+          },
+          "population_age_group": {
+            "description": "The population age group printed in the trend accuracy table title. Preserve comparison symbols, hyphens, digits, and capitalization; collapse repeated whitespace to a single space; null is not allowed.",
+            "type": "string"
+          },
+          "subjects_n": {
+            "description": "The subject count printed in parentheses in the trend accuracy table title. Emit the integer only, without the leading letter, parentheses, commas, or trailing .0; null is not allowed.",
+            "type": "integer"
+          },
+          "total_paired_icgm_comparator_n": {
+            "description": "The integer printed in the row's rightmost total column for number of paired iCGM-comparator values. Strip commas; emit as an integer; null is not allowed.",
+            "type": "integer"
+          },
+          "wear_location": {
+            "description": "The wear-location label printed in the trend accuracy table title. Preserve exact printed capitalization; collapse repeated whitespace to a single space; null is not allowed.",
+            "type": "string"
+          }
+        },
+        "required": [
+          "population_age_group",
+          "wear_location",
+          "subjects_n",
+          "icgm_rate_range_mg_dl_per_min",
+          "total_paired_icgm_comparator_n"
+        ],
+        "type": "object"
+      },
+      "type": "array"
+    }
+  },
+  "required": [
+    "submission_510k_number",
+    "applicant_name",
+    "proprietary_established_name",
+    "product_code",
+    "regulation_section",
+    "classification_panel",
+    "device_classification",
+    "measurand",
+    "test_type",
+    "predicate_510k_number",
+    "predicate_device_name",
+    "reportable_low_mg_dl",
+    "reportable_high_mg_dl",
+    "sensor_wear_days",
+    "grace_period_hours",
+    "standards_referenced",
+    "precision_by_insertion_site_age",
+    "point_accuracy_by_glucose_range",
+    "overall_twenty_percent_accuracy",
+    "detailed_accuracy_by_glucose_range",
+    "concurrence_matrix_cells",
+    "concurrence_marginal_totals",
+    "trend_accuracy_matrix_cells",
+    "trend_accuracy_row_totals",
+    "low_high_reading_distribution",
+    "low_high_reading_totals",
+    "alert_performance",
+    "sensor_stability_by_wear_period",
+    "sensor_survival_by_day",
+    "data_availability_by_wear_day"
+  ],
+  "title": "FDA 510(k) Continuous Glucose Monitor Decision Summary Data Export",
+  "type": "object"
+}

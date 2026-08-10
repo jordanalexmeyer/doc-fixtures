@@ -1,0 +1,6182 @@
+{
+  "college_program_completion_rows": [
+    {
+      "completions_2018_19": 23,
+      "completions_2019_20": 10,
+      "completions_2020_21": 13,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "3D Computer Graphics"
+    },
+    {
+      "completions_2018_19": 22,
+      "completions_2019_20": 22,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Academic Eng for Univ/College Entrance"
+    },
+    {
+      "completions_2018_19": 11,
+      "completions_2019_20": 6,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Academic Foundations"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 1,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "ACCESS Health"
+    },
+    {
+      "completions_2018_19": 25,
+      "completions_2019_20": 17,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Administrative Assistant"
+    },
+    {
+      "completions_2018_19": 14,
+      "completions_2019_20": 8,
+      "completions_2020_21": 7,
+      "completions_2021_22": 7,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Advanced Care Paramedic"
+    },
+    {
+      "completions_2018_19": 26,
+      "completions_2019_20": 13,
+      "completions_2020_21": 38,
+      "completions_2021_22": 21,
+      "completions_2022_23": 20,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Aerospace Manufacturing"
+    },
+    {
+      "completions_2018_19": 29,
+      "completions_2019_20": 29,
+      "completions_2020_21": 29,
+      "completions_2021_22": 39,
+      "completions_2022_23": 36,
+      "completions_2023_24": 30,
+      "institution": "Red River College",
+      "program_name": "Aircraft Maintenance Engineer"
+    },
+    {
+      "completions_2018_19": 4,
+      "completions_2019_20": 4,
+      "completions_2020_21": 8,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 3,
+      "institution": "Red River College",
+      "program_name": "American Sign Language - English"
+    },
+    {
+      "completions_2018_19": 122,
+      "completions_2019_20": 92,
+      "completions_2020_21": 77,
+      "completions_2021_22": 90,
+      "completions_2022_23": 121,
+      "completions_2023_24": 108,
+      "institution": "Red River College",
+      "program_name": "Applied Accounting"
+    },
+    {
+      "completions_2018_19": 1,
+      "completions_2019_20": 0,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Applied Counselling skills"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 6,
+      "completions_2020_21": 7,
+      "completions_2021_22": 26,
+      "completions_2022_23": 18,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Architectural Technology"
+    },
+    {
+      "completions_2018_19": 18,
+      "completions_2019_20": 25,
+      "completions_2020_21": 17,
+      "completions_2021_22": 24,
+      "completions_2022_23": 28,
+      "completions_2023_24": 39,
+      "institution": "Red River College",
+      "program_name": "Architectural/Engineering Technology"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 0,
+      "completions_2020_21": 0,
+      "completions_2021_22": 4,
+      "completions_2022_23": 1,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "ASL - English Interpretation"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 23,
+      "completions_2020_21": 16,
+      "completions_2021_22": 11,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "ASL and Deaf Studies"
+    },
+    {
+      "completions_2018_19": 152,
+      "completions_2019_20": 155,
+      "completions_2020_21": 119,
+      "completions_2021_22": 145,
+      "completions_2022_23": 104,
+      "completions_2023_24": 110,
+      "institution": "Red River College",
+      "program_name": "Automotive Technician"
+    },
+    {
+      "completions_2018_19": 8,
+      "completions_2019_20": 10,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Bridging for Internationally Ed.Nurses Level 1"
+    },
+    {
+      "completions_2018_19": 36,
+      "completions_2019_20": 20,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Bridging Program for International Ed Nurses"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 0,
+      "completions_2020_21": 0,
+      "completions_2021_22": 8,
+      "completions_2022_23": 2,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Bridging Pathway for Internationally Educated Nurses"
+    },
+    {
+      "completions_2018_19": 24,
+      "completions_2019_20": 2,
+      "completions_2020_21": 1,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Building Design Technology"
+    },
+    {
+      "completions_2018_19": 390,
+      "completions_2019_20": 353,
+      "completions_2020_21": 422,
+      "completions_2021_22": 333,
+      "completions_2022_23": 359,
+      "completions_2023_24": 430,
+      "institution": "Red River College",
+      "program_name": "Business Administration"
+    },
+    {
+      "completions_2018_19": 117,
+      "completions_2019_20": 135,
+      "completions_2020_21": 144,
+      "completions_2021_22": 121,
+      "completions_2022_23": 140,
+      "completions_2023_24": 184,
+      "institution": "Red River College",
+      "program_name": "Business Information Technology"
+    },
+    {
+      "completions_2018_19": 26,
+      "completions_2019_20": 74,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Business Technology Management"
+    },
+    {
+      "completions_2018_19": 16,
+      "completions_2019_20": 33,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Business, Accounting & Mgmt"
+    },
+    {
+      "completions_2018_19": 3,
+      "completions_2019_20": 0,
+      "completions_2020_21": 8,
+      "completions_2021_22": 0,
+      "completions_2022_23": 8,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Business/Technology Teacher Education"
+    },
+    {
+      "completions_2018_19": 20,
+      "completions_2019_20": 13,
+      "completions_2020_21": 11,
+      "completions_2021_22": 1,
+      "completions_2022_23": 0,
+      "completions_2023_24": 14,
+      "institution": "Red River College",
+      "program_name": "Cabinetry & Woodworking Technology"
+    },
+    {
+      "completions_2018_19": 25,
+      "completions_2019_20": 15,
+      "completions_2020_21": 34,
+      "completions_2021_22": 23,
+      "completions_2022_23": 26,
+      "completions_2023_24": 27,
+      "institution": "Red River College",
+      "program_name": "Carpentry"
+    },
+    {
+      "completions_2018_19": 33,
+      "completions_2019_20": 24,
+      "completions_2020_21": 22,
+      "completions_2021_22": 20,
+      "completions_2022_23": 15,
+      "completions_2023_24": 29,
+      "institution": "Red River College",
+      "program_name": "Child and Youth Care"
+    },
+    {
+      "completions_2018_19": 1,
+      "completions_2019_20": 0,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Civil Engineering Technology"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 0,
+      "completions_2020_21": 0,
+      "completions_2021_22": 7,
+      "completions_2022_23": 6,
+      "completions_2023_24": 10,
+      "institution": "Red River College",
+      "program_name": "CNC Machining and Advanced Technology"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 0,
+      "completions_2020_21": 22,
+      "completions_2021_22": 17,
+      "completions_2022_23": 25,
+      "completions_2023_24": 24,
+      "institution": "Red River College",
+      "program_name": "CNC Machinist Technician"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 9,
+      "completions_2020_21": 5,
+      "completions_2021_22": 11,
+      "completions_2022_23": 18,
+      "completions_2023_24": 21,
+      "institution": "Red River College",
+      "program_name": "College Transition"
+    },
+    {
+      "completions_2018_19": 28,
+      "completions_2019_20": 29,
+      "completions_2020_21": 29,
+      "completions_2021_22": 26,
+      "completions_2022_23": 31,
+      "completions_2023_24": 33,
+      "institution": "Red River College",
+      "program_name": "Collision Repair and Refinishing"
+    },
+    {
+      "completions_2018_19": 11,
+      "completions_2019_20": 7,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Comm & Prof Prac for MLTs"
+    },
+    {
+      "completions_2018_19": 13,
+      "completions_2019_20": 12,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Comm for Int Educated Health Professions"
+    },
+    {
+      "completions_2018_19": 24,
+      "completions_2019_20": 21,
+      "completions_2020_21": 21,
+      "completions_2021_22": 16,
+      "completions_2022_23": 17,
+      "completions_2023_24": 26,
+      "institution": "Red River College",
+      "program_name": "Commerce Industry Sales & Marketing"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 14,
+      "completions_2020_21": 11,
+      "completions_2021_22": 13,
+      "completions_2022_23": 8,
+      "completions_2023_24": 13,
+      "institution": "Red River College",
+      "program_name": "Communication Design"
+    },
+    {
+      "completions_2018_19": 17,
+      "completions_2019_20": 20,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Communication for Business & Entrepreneurship"
+    },
+    {
+      "completions_2018_19": 17,
+      "completions_2019_20": 20,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Communications for Health Professions"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 6,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Communications for Technical Professions"
+    },
+    {
+      "completions_2018_19": 18,
+      "completions_2019_20": 3,
+      "completions_2020_21": 23,
+      "completions_2021_22": 6,
+      "completions_2022_23": 7,
+      "completions_2023_24": 5,
+      "institution": "Red River College",
+      "program_name": "Community Development/Community Economic Dev"
+    },
+    {
+      "completions_2018_19": 1,
+      "completions_2019_20": 0,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Computer Applications for Business"
+    },
+    {
+      "completions_2018_19": 18,
+      "completions_2019_20": 20,
+      "completions_2020_21": 21,
+      "completions_2021_22": 20,
+      "completions_2022_23": 27,
+      "completions_2023_24": 19,
+      "institution": "Red River College",
+      "program_name": "Construction Management"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 1,
+      "completions_2020_21": 2,
+      "completions_2021_22": 1,
+      "completions_2022_23": 1,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Construction Technician"
+    },
+    {
+      "completions_2018_19": 1,
+      "completions_2019_20": 0,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Construction Technology"
+    },
+    {
+      "completions_2018_19": 52,
+      "completions_2019_20": 57,
+      "completions_2020_21": 45,
+      "completions_2021_22": 42,
+      "completions_2022_23": 48,
+      "completions_2023_24": 38,
+      "institution": "Red River College",
+      "program_name": "Creative Communications"
+    },
+    {
+      "completions_2018_19": 50,
+      "completions_2019_20": 53,
+      "completions_2020_21": 16,
+      "completions_2021_22": 55,
+      "completions_2022_23": 40,
+      "completions_2023_24": 43,
+      "institution": "Red River College",
+      "program_name": "Culinary Arts"
+    },
+    {
+      "completions_2018_19": 34,
+      "completions_2019_20": 36,
+      "completions_2020_21": 0,
+      "completions_2021_22": 7,
+      "completions_2022_23": 5,
+      "completions_2023_24": 7,
+      "institution": "Red River College",
+      "program_name": "Culinary Skills"
+    },
+    {
+      "completions_2018_19": 2,
+      "completions_2019_20": 0,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Deaf Studies"
+    },
+    {
+      "completions_2018_19": 43,
+      "completions_2019_20": 0,
+      "completions_2020_21": 71,
+      "completions_2021_22": 30,
+      "completions_2022_23": 34,
+      "completions_2023_24": 34,
+      "institution": "Red River College",
+      "program_name": "Dental Assisting - Level II"
+    },
+    {
+      "completions_2018_19": 4,
+      "completions_2019_20": 4,
+      "completions_2020_21": 4,
+      "completions_2021_22": 4,
+      "completions_2022_23": 4,
+      "completions_2023_24": 4,
+      "institution": "Red River College",
+      "program_name": "Diagnostic Cardiac Sonography"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 0,
+      "completions_2020_21": 0,
+      "completions_2021_22": 13,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Digital Film and Media Production"
+    },
+    {
+      "completions_2018_19": 42,
+      "completions_2019_20": 46,
+      "completions_2020_21": 75,
+      "completions_2021_22": 79,
+      "completions_2022_23": 63,
+      "completions_2023_24": 69,
+      "institution": "Red River College",
+      "program_name": "Digital Media Design"
+    },
+    {
+      "completions_2018_19": 28,
+      "completions_2019_20": 29,
+      "completions_2020_21": 20,
+      "completions_2021_22": 15,
+      "completions_2022_23": 21,
+      "completions_2023_24": 14,
+      "institution": "Red River College",
+      "program_name": "Disability and Community Support"
+    },
+    {
+      "completions_2018_19": 57,
+      "completions_2019_20": 34,
+      "completions_2020_21": 63,
+      "completions_2021_22": 49,
+      "completions_2022_23": 37,
+      "completions_2023_24": 54,
+      "institution": "Red River College",
+      "program_name": "Early Childhood Education"
+    },
+    {
+      "completions_2018_19": 88,
+      "completions_2019_20": 54,
+      "completions_2020_21": 67,
+      "completions_2021_22": 47,
+      "completions_2022_23": 72,
+      "completions_2023_24": 68,
+      "institution": "Red River College",
+      "program_name": "Early Childhood Education - Workplace"
+    },
+    {
+      "completions_2018_19": 38,
+      "completions_2019_20": 2,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 1,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Educational Assistant"
+    },
+    {
+      "completions_2018_19": 28,
+      "completions_2019_20": 16,
+      "completions_2020_21": 42,
+      "completions_2021_22": 28,
+      "completions_2022_23": 32,
+      "completions_2023_24": 36,
+      "institution": "Red River College",
+      "program_name": "Electrical"
+    },
+    {
+      "completions_2018_19": 31,
+      "completions_2019_20": 30,
+      "completions_2020_21": 15,
+      "completions_2021_22": 26,
+      "completions_2022_23": 15,
+      "completions_2023_24": 41,
+      "institution": "Red River College",
+      "program_name": "Electrical Engineering Technology"
+    },
+    {
+      "completions_2018_19": 1,
+      "completions_2019_20": 0,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Electronic & Network Technician"
+    },
+    {
+      "completions_2018_19": 24,
+      "completions_2019_20": 25,
+      "completions_2020_21": 18,
+      "completions_2021_22": 18,
+      "completions_2022_23": 17,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Electronic Engineering Technology"
+    },
+    {
+      "completions_2018_19": 227,
+      "completions_2019_20": 490,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "English Language Learning P/T"
+    },
+    {
+      "completions_2018_19": 65,
+      "completions_2019_20": 153,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "English Language Learning for Academic Study"
+    },
+    {
+      "completions_2018_19": 64,
+      "completions_2019_20": 172,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "English Language Learning for Employment"
+    },
+    {
+      "completions_2018_19": 23,
+      "completions_2019_20": 80,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "English Language Learning Foundations"
+    },
+    {
+      "completions_2018_19": 13,
+      "completions_2019_20": 7,
+      "completions_2020_21": 24,
+      "completions_2021_22": 18,
+      "completions_2022_23": 9,
+      "completions_2023_24": 8,
+      "institution": "Red River College",
+      "program_name": "Environmental Engineering Technology"
+    },
+    {
+      "completions_2018_19": 1,
+      "completions_2019_20": 0,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Environmental Technology"
+    },
+    {
+      "completions_2018_19": 19,
+      "completions_2019_20": 17,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 15,
+      "completions_2023_24": 21,
+      "institution": "Red River College",
+      "program_name": "Family Support Worker"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 7,
+      "completions_2020_21": 17,
+      "completions_2021_22": 9,
+      "completions_2022_23": 19,
+      "completions_2023_24": 18,
+      "institution": "Red River College",
+      "program_name": "Foundations in Social Innovation and Community Development"
+    },
+    {
+      "completions_2018_19": 9,
+      "completions_2019_20": 16,
+      "completions_2020_21": 16,
+      "completions_2021_22": 13,
+      "completions_2022_23": 7,
+      "completions_2023_24": 15,
+      "institution": "Red River College",
+      "program_name": "Geomatics Technology"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 14,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 7,
+      "completions_2023_24": 12,
+      "institution": "Red River College",
+      "program_name": "Grade 11"
+    },
+    {
+      "completions_2018_19": 67,
+      "completions_2019_20": 29,
+      "completions_2020_21": 41,
+      "completions_2021_22": 48,
+      "completions_2022_23": 52,
+      "completions_2023_24": 74,
+      "institution": "Red River College",
+      "program_name": "Grade 12"
+    },
+    {
+      "completions_2018_19": 43,
+      "completions_2019_20": 39,
+      "completions_2020_21": 41,
+      "completions_2021_22": 35,
+      "completions_2022_23": 37,
+      "completions_2023_24": 33,
+      "institution": "Red River College",
+      "program_name": "Graphic Design"
+    },
+    {
+      "completions_2018_19": 9,
+      "completions_2019_20": 0,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Graphic Design - Advanced"
+    },
+    {
+      "completions_2018_19": 8,
+      "completions_2019_20": 12,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Greenspace Horticulture"
+    },
+    {
+      "completions_2018_19": 92,
+      "completions_2019_20": 136,
+      "completions_2020_21": 144,
+      "completions_2021_22": 76,
+      "completions_2022_23": 57,
+      "completions_2023_24": 139,
+      "institution": "Red River College",
+      "program_name": "Health Care Aide"
+    },
+    {
+      "completions_2018_19": 19,
+      "completions_2019_20": 0,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Health Care Aide & Health Unit Clerk"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 27,
+      "completions_2020_21": 0,
+      "completions_2021_22": 17,
+      "completions_2022_23": 0,
+      "completions_2023_24": 21,
+      "institution": "Red River College",
+      "program_name": "Health Information Management"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 0,
+      "completions_2020_21": 34,
+      "completions_2021_22": 48,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Health Unit Clerk"
+    },
+    {
+      "completions_2018_19": 58,
+      "completions_2019_20": 59,
+      "completions_2020_21": 83,
+      "completions_2021_22": 63,
+      "completions_2022_23": 71,
+      "completions_2023_24": 59,
+      "institution": "Red River College",
+      "program_name": "Heavy Duty Equipment Mechanic"
+    },
+    {
+      "completions_2018_19": 18,
+      "completions_2019_20": 4,
+      "completions_2020_21": 15,
+      "completions_2021_22": 21,
+      "completions_2022_23": 26,
+      "completions_2023_24": 51,
+      "institution": "Red River College",
+      "program_name": "Hospitality and Tourism Management"
+    },
+    {
+      "completions_2018_19": 12,
+      "completions_2019_20": 16,
+      "completions_2020_21": 17,
+      "completions_2021_22": 22,
+      "completions_2022_23": 11,
+      "completions_2023_24": 17,
+      "institution": "Red River College",
+      "program_name": "Hotel & Restaurant Management"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 8,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Human Resource Management"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 6,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Indigenous Language - Cree"
+    },
+    {
+      "completions_2018_19": 8,
+      "completions_2019_20": 8,
+      "completions_2020_21": 13,
+      "completions_2021_22": 6,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Indigenous Language - Ojibwe"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 0,
+      "completions_2020_21": 4,
+      "completions_2021_22": 1,
+      "completions_2022_23": 2,
+      "completions_2023_24": 10,
+      "institution": "Red River College",
+      "program_name": "Indigenous Social Entrepreneur"
+    },
+    {
+      "completions_2018_19": 10,
+      "completions_2019_20": 1,
+      "completions_2020_21": 16,
+      "completions_2021_22": 1,
+      "completions_2022_23": 11,
+      "completions_2023_24": 9,
+      "institution": "Red River College",
+      "program_name": "Industrial Arts/Technology Teacher Education"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 26,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Information Security"
+    },
+    {
+      "completions_2018_19": 11,
+      "completions_2019_20": 12,
+      "completions_2020_21": 6,
+      "completions_2021_22": 13,
+      "completions_2022_23": 8,
+      "completions_2023_24": 10,
+      "institution": "Red River College",
+      "program_name": "Instrumentation and Control Engineering Technology"
+    },
+    {
+      "completions_2018_19": 3,
+      "completions_2019_20": 0,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Intensive Eng. as an Additional Language"
+    },
+    {
+      "completions_2018_19": 474,
+      "completions_2019_20": 542,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Intensive Eng. for International Students"
+    },
+    {
+      "completions_2018_19": 24,
+      "completions_2019_20": 0,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "International Business"
+    },
+    {
+      "completions_2018_19": 10,
+      "completions_2019_20": 1,
+      "completions_2020_21": 8,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Introduction to Aircraft Maintenance Engineer"
+    },
+    {
+      "completions_2018_19": 49,
+      "completions_2019_20": 56,
+      "completions_2020_21": 52,
+      "completions_2021_22": 51,
+      "completions_2022_23": 51,
+      "completions_2023_24": 27,
+      "institution": "Red River College",
+      "program_name": "Introduction to Business Information Technology"
+    },
+    {
+      "completions_2018_19": 13,
+      "completions_2019_20": 24,
+      "completions_2020_21": 0,
+      "completions_2021_22": 16,
+      "completions_2022_23": 17,
+      "completions_2023_24": 11,
+      "institution": "Red River College",
+      "program_name": "Introduction to Electrical Engineering Technology"
+    },
+    {
+      "completions_2018_19": 25,
+      "completions_2019_20": 10,
+      "completions_2020_21": 7,
+      "completions_2021_22": 7,
+      "completions_2022_23": 21,
+      "completions_2023_24": 39,
+      "institution": "Red River College",
+      "program_name": "Introduction to Trades"
+    },
+    {
+      "completions_2018_19": 11,
+      "completions_2019_20": 13,
+      "completions_2020_21": 11,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Library and Information Technology"
+    },
+    {
+      "completions_2018_19": 9,
+      "completions_2019_20": 9,
+      "completions_2020_21": 11,
+      "completions_2021_22": 11,
+      "completions_2022_23": 12,
+      "completions_2023_24": 18,
+      "institution": "Red River College",
+      "program_name": "Manufacturing Computer Aided Drafting (CAD)"
+    },
+    {
+      "completions_2018_19": 7,
+      "completions_2019_20": 12,
+      "completions_2020_21": 6,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Manufacturing Technician"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 0,
+      "completions_2020_21": 26,
+      "completions_2021_22": 13,
+      "completions_2022_23": 17,
+      "completions_2023_24": 32,
+      "institution": "Red River College",
+      "program_name": "Marine and Powersports Technician"
+    },
+    {
+      "completions_2018_19": 23,
+      "completions_2019_20": 22,
+      "completions_2020_21": 20,
+      "completions_2021_22": 26,
+      "completions_2022_23": 23,
+      "completions_2023_24": 26,
+      "institution": "Red River College",
+      "program_name": "Mechanical Engineering Technology"
+    },
+    {
+      "completions_2018_19": 39,
+      "completions_2019_20": 33,
+      "completions_2020_21": 0,
+      "completions_2021_22": 35,
+      "completions_2022_23": 28,
+      "completions_2023_24": 33,
+      "institution": "Red River College",
+      "program_name": "Medical Laboratory Sciences"
+    },
+    {
+      "completions_2018_19": 56,
+      "completions_2019_20": 33,
+      "completions_2020_21": 0,
+      "completions_2021_22": 33,
+      "completions_2022_23": 32,
+      "completions_2023_24": 34,
+      "institution": "Red River College",
+      "program_name": "Medical Radiologic Technology"
+    },
+    {
+      "completions_2018_19": 13,
+      "completions_2019_20": 0,
+      "completions_2020_21": 10,
+      "completions_2021_22": 5,
+      "completions_2022_23": 5,
+      "completions_2023_24": 5,
+      "institution": "Red River College",
+      "program_name": "MRI and Spectroscopy"
+    },
+    {
+      "completions_2018_19": 36,
+      "completions_2019_20": 31,
+      "completions_2020_21": 34,
+      "completions_2021_22": 26,
+      "completions_2022_23": 27,
+      "completions_2023_24": 19,
+      "institution": "Red River College",
+      "program_name": "Municipal Engineering Technology"
+    },
+    {
+      "completions_2018_19": 25,
+      "completions_2019_20": 10,
+      "completions_2020_21": 14,
+      "completions_2021_22": 37,
+      "completions_2022_23": 21,
+      "completions_2023_24": 22,
+      "institution": "Red River College",
+      "program_name": "Network Services Technician"
+    },
+    {
+      "completions_2018_19": 120,
+      "completions_2019_20": 114,
+      "completions_2020_21": 153,
+      "completions_2021_22": 194,
+      "completions_2022_23": 162,
+      "completions_2023_24": 144,
+      "institution": "Red River College",
+      "program_name": "Nursing"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 0,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 10,
+      "institution": "Red River College",
+      "program_name": "Nurse Re-Entry"
+    },
+    {
+      "completions_2018_19": 26,
+      "completions_2019_20": 27,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Outdoor Power Equipment Technician"
+    },
+    {
+      "completions_2018_19": 35,
+      "completions_2019_20": 32,
+      "completions_2020_21": 38,
+      "completions_2021_22": 15,
+      "completions_2022_23": 18,
+      "completions_2023_24": 13,
+      "institution": "Red River College",
+      "program_name": "Paramedicine - Primary Care Paramedic"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 8,
+      "completions_2020_21": 3,
+      "completions_2021_22": 3,
+      "completions_2022_23": 4,
+      "completions_2023_24": 8,
+      "institution": "Red River College",
+      "program_name": "Pathway Business Creative Communications Digital Technology"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 7,
+      "completions_2020_21": 5,
+      "completions_2021_22": 3,
+      "completions_2022_23": 4,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Pathway to Engineering Technology Programs"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 0,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 15,
+      "institution": "Red River College",
+      "program_name": "Pathway to Information Technology Programs"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 9,
+      "completions_2020_21": 12,
+      "completions_2021_22": 21,
+      "completions_2022_23": 6,
+      "completions_2023_24": 30,
+      "institution": "Red River College",
+      "program_name": "Pathway to Health Programs"
+    },
+    {
+      "completions_2018_19": 23,
+      "completions_2019_20": 28,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Pharmaceutical Manufacturing"
+    },
+    {
+      "completions_2018_19": 19,
+      "completions_2019_20": 17,
+      "completions_2020_21": 43,
+      "completions_2021_22": 27,
+      "completions_2022_23": 28,
+      "completions_2023_24": 37,
+      "institution": "Red River College",
+      "program_name": "Plumbing"
+    },
+    {
+      "completions_2018_19": 14,
+      "completions_2019_20": 16,
+      "completions_2020_21": 20,
+      "completions_2021_22": 38,
+      "completions_2022_23": 32,
+      "completions_2023_24": 47,
+      "institution": "Red River College",
+      "program_name": "Power Engineering Technology"
+    },
+    {
+      "completions_2018_19": 12,
+      "completions_2019_20": 12,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Precision Metal Machining"
+    },
+    {
+      "completions_2018_19": 18,
+      "completions_2019_20": 15,
+      "completions_2020_21": 14,
+      "completions_2021_22": 8,
+      "completions_2022_23": 11,
+      "completions_2023_24": 19,
+      "institution": "Red River College",
+      "program_name": "Professional Baking and Pastry"
+    },
+    {
+      "completions_2018_19": 1,
+      "completions_2019_20": 0,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "QA/QC in Pharmaceutical Industry"
+    },
+    {
+      "completions_2018_19": 25,
+      "completions_2019_20": 19,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "QA/QC Pharm and Food"
+    },
+    {
+      "completions_2018_19": 34,
+      "completions_2019_20": 17,
+      "completions_2020_21": 28,
+      "completions_2021_22": 25,
+      "completions_2022_23": 24,
+      "completions_2023_24": 30,
+      "institution": "Red River College",
+      "program_name": "Refrigeration and Air Conditioning Tech"
+    },
+    {
+      "completions_2018_19": 35,
+      "completions_2019_20": 40,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Refugee Employment Development Initiative"
+    },
+    {
+      "completions_2018_19": 33,
+      "completions_2019_20": 35,
+      "completions_2020_21": 23,
+      "completions_2021_22": 32,
+      "completions_2022_23": 39,
+      "completions_2023_24": 34,
+      "institution": "Red River College",
+      "program_name": "Science Laboratory Technology"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 1,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Social Enterprise"
+    },
+    {
+      "completions_2018_19": 29,
+      "completions_2019_20": 30,
+      "completions_2020_21": 39,
+      "completions_2021_22": 16,
+      "completions_2022_23": 28,
+      "completions_2023_24": 19,
+      "institution": "Red River College",
+      "program_name": "Structural Engineering Technology"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 0,
+      "completions_2020_21": 10,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 17,
+      "institution": "Red River College",
+      "program_name": "Technical Vocational Teacher Education"
+    },
+    {
+      "completions_2018_19": 24,
+      "completions_2019_20": 8,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Technology Management"
+    },
+    {
+      "completions_2018_19": 13,
+      "completions_2019_20": 15,
+      "completions_2020_21": 7,
+      "completions_2021_22": 8,
+      "completions_2022_23": 5,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Tourism Management"
+    },
+    {
+      "completions_2018_19": 11,
+      "completions_2019_20": 0,
+      "completions_2020_21": 11,
+      "completions_2021_22": 12,
+      "completions_2022_23": 10,
+      "completions_2023_24": 12,
+      "institution": "Red River College",
+      "program_name": "Ultrasound - Diagnostic Medical Sonography"
+    },
+    {
+      "completions_2018_19": 23,
+      "completions_2019_20": 23,
+      "completions_2020_21": 26,
+      "completions_2021_22": 20,
+      "completions_2022_23": 17,
+      "completions_2023_24": 21,
+      "institution": "Red River College",
+      "program_name": "Veterinary Technology"
+    },
+    {
+      "completions_2018_19": 30,
+      "completions_2019_20": 10,
+      "completions_2020_21": 11,
+      "completions_2021_22": 14,
+      "completions_2022_23": 31,
+      "completions_2023_24": 40,
+      "institution": "Red River College",
+      "program_name": "Welding"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 0,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 8,
+      "completions_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Youth Recreation Activity Worker"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 9,
+      "completions_2020_21": 3,
+      "completions_2021_22": 3,
+      "completions_2022_23": 9,
+      "completions_2023_24": 14,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Accounting"
+    },
+    {
+      "completions_2018_19": 13,
+      "completions_2019_20": 10,
+      "completions_2020_21": 4,
+      "completions_2021_22": 1,
+      "completions_2022_23": 0,
+      "completions_2023_24": 1,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Accounting and Finance"
+    },
+    {
+      "completions_2018_19": 45,
+      "completions_2019_20": 42,
+      "completions_2020_21": 51,
+      "completions_2021_22": 43,
+      "completions_2022_23": 47,
+      "completions_2023_24": 41,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Agribusiness"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 0,
+      "completions_2020_21": 0,
+      "completions_2021_22": 6,
+      "completions_2022_23": 4,
+      "completions_2023_24": 0,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Applied Electrical Installation"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 0,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 13,
+      "completions_2023_24": 0,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Applied Plumbing Installation"
+    },
+    {
+      "completions_2018_19": 12,
+      "completions_2019_20": 11,
+      "completions_2020_21": 10,
+      "completions_2021_22": 9,
+      "completions_2022_23": 21,
+      "completions_2023_24": 25,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Automotive Technician"
+    },
+    {
+      "completions_2018_19": 60,
+      "completions_2019_20": 74,
+      "completions_2020_21": 121,
+      "completions_2021_22": 67,
+      "completions_2022_23": 70,
+      "completions_2023_24": 91,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Business Administration"
+    },
+    {
+      "completions_2018_19": 10,
+      "completions_2019_20": 16,
+      "completions_2020_21": 11,
+      "completions_2021_22": 15,
+      "completions_2022_23": 7,
+      "completions_2023_24": 16,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Carpentry and Woodworking"
+    },
+    {
+      "completions_2018_19": 15,
+      "completions_2019_20": 25,
+      "completions_2020_21": 2,
+      "completions_2021_22": 13,
+      "completions_2022_23": 11,
+      "completions_2023_24": 11,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Civil Technician"
+    },
+    {
+      "completions_2018_19": 7,
+      "completions_2019_20": 5,
+      "completions_2020_21": 2,
+      "completions_2021_22": 4,
+      "completions_2022_23": 2,
+      "completions_2023_24": 2,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Communications Engineering Technology"
+    },
+    {
+      "completions_2018_19": 83,
+      "completions_2019_20": 65,
+      "completions_2020_21": 93,
+      "completions_2021_22": 63,
+      "completions_2022_23": 31,
+      "completions_2023_24": 46,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Comprehensive Health Care Aide"
+    },
+    {
+      "completions_2018_19": 13,
+      "completions_2019_20": 13,
+      "completions_2020_21": 10,
+      "completions_2021_22": 15,
+      "completions_2022_23": 13,
+      "completions_2023_24": 22,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Construction Electrician"
+    },
+    {
+      "completions_2018_19": 16,
+      "completions_2019_20": 14,
+      "completions_2020_21": 14,
+      "completions_2021_22": 3,
+      "completions_2022_23": 7,
+      "completions_2023_24": 8,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Culinary Arts"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 0,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 14,
+      "completions_2023_24": 9,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Digital Art and Design"
+    },
+    {
+      "completions_2018_19": 33,
+      "completions_2019_20": 22,
+      "completions_2020_21": 27,
+      "completions_2021_22": 33,
+      "completions_2022_23": 48,
+      "completions_2023_24": 18,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Early Childhood Education"
+    },
+    {
+      "completions_2018_19": 36,
+      "completions_2019_20": 39,
+      "completions_2020_21": 15,
+      "completions_2021_22": 23,
+      "completions_2022_23": 15,
+      "completions_2023_24": 0,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Early Childhood Program Management"
+    },
+    {
+      "completions_2018_19": 27,
+      "completions_2019_20": 28,
+      "completions_2020_21": 34,
+      "completions_2021_22": 8,
+      "completions_2022_23": 5,
+      "completions_2023_24": 0,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Education Assistant"
+    },
+    {
+      "completions_2018_19": 2,
+      "completions_2019_20": 1,
+      "completions_2020_21": 3,
+      "completions_2021_22": 3,
+      "completions_2022_23": 3,
+      "completions_2023_24": 0,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Electronic Technician"
+    },
+    {
+      "completions_2018_19": 9,
+      "completions_2019_20": 18,
+      "completions_2020_21": 15,
+      "completions_2021_22": 9,
+      "completions_2022_23": 12,
+      "completions_2023_24": 0,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Environmental Technologies"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 6,
+      "completions_2020_21": 3,
+      "completions_2021_22": 1,
+      "completions_2022_23": 2,
+      "completions_2023_24": 11,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Finance"
+    },
+    {
+      "completions_2018_19": 20,
+      "completions_2019_20": 39,
+      "completions_2020_21": 6,
+      "completions_2021_22": 0,
+      "completions_2022_23": 1,
+      "completions_2023_24": 0,
+      "institution": "Assisiniboine Community College",
+      "program_name": "General Business"
+    },
+    {
+      "completions_2018_19": 10,
+      "completions_2019_20": 22,
+      "completions_2020_21": 8,
+      "completions_2021_22": 11,
+      "completions_2022_23": 4,
+      "completions_2023_24": 10,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Geographic Information Systems"
+    },
+    {
+      "completions_2018_19": 26,
+      "completions_2019_20": 20,
+      "completions_2020_21": 2,
+      "completions_2021_22": 1,
+      "completions_2022_23": 1,
+      "completions_2023_24": 0,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Heavy Duty Equipment Technician"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 0,
+      "completions_2020_21": 23,
+      "completions_2021_22": 23,
+      "completions_2022_23": 19,
+      "completions_2023_24": 29,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Heavy Equipment Technician"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 1,
+      "completions_2020_21": 1,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 3,
+      "institution": "Assisiniboine Community College",
+      "program_name": "High School Diploma"
+    },
+    {
+      "completions_2018_19": 3,
+      "completions_2019_20": 2,
+      "completions_2020_21": 8,
+      "completions_2021_22": 7,
+      "completions_2022_23": 12,
+      "completions_2023_24": 13,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Horticultural Production"
+    },
+    {
+      "completions_2018_19": 43,
+      "completions_2019_20": 23,
+      "completions_2020_21": 25,
+      "completions_2021_22": 15,
+      "completions_2022_23": 12,
+      "completions_2023_24": 5,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Hotel and Restaurant Management"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 7,
+      "completions_2020_21": 5,
+      "completions_2021_22": 15,
+      "completions_2022_23": 10,
+      "completions_2023_24": 28,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Human Resource Management"
+    },
+    {
+      "completions_2018_19": 9,
+      "completions_2019_20": 17,
+      "completions_2020_21": 18,
+      "completions_2021_22": 9,
+      "completions_2022_23": 0,
+      "completions_2023_24": 11,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Industrial Metals Fabrication"
+    },
+    {
+      "completions_2018_19": 28,
+      "completions_2019_20": 33,
+      "completions_2020_21": 19,
+      "completions_2021_22": 10,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Interactive Media Arts"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 0,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 7,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Land and Water Management"
+    },
+    {
+      "completions_2018_19": 6,
+      "completions_2019_20": 4,
+      "completions_2020_21": 4,
+      "completions_2021_22": 6,
+      "completions_2022_23": 4,
+      "completions_2023_24": 10,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Legal Administration"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 9,
+      "completions_2020_21": 5,
+      "completions_2021_22": 4,
+      "completions_2022_23": 8,
+      "completions_2023_24": 8,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Marketing"
+    },
+    {
+      "completions_2018_19": 46,
+      "completions_2019_20": 46,
+      "completions_2020_21": 31,
+      "completions_2021_22": 40,
+      "completions_2022_23": 36,
+      "completions_2023_24": 48,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Mature Student High School"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 0,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 6,
+      "completions_2023_24": 5,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Media and Communications"
+    },
+    {
+      "completions_2018_19": 5,
+      "completions_2019_20": 9,
+      "completions_2020_21": 14,
+      "completions_2021_22": 14,
+      "completions_2022_23": 15,
+      "completions_2023_24": 18,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Medical Administration"
+    },
+    {
+      "completions_2018_19": 2,
+      "completions_2019_20": 3,
+      "completions_2020_21": 1,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Network Administration Technician"
+    },
+    {
+      "completions_2018_19": 16,
+      "completions_2019_20": 13,
+      "completions_2020_21": 7,
+      "completions_2021_22": 8,
+      "completions_2022_23": 4,
+      "completions_2023_24": 14,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Network Administration Technology"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 1,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Office Administration Certificate"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 7,
+      "completions_2020_21": 5,
+      "completions_2021_22": 1,
+      "completions_2022_23": 3,
+      "completions_2023_24": 1,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Office Management"
+    },
+    {
+      "completions_2018_19": 5,
+      "completions_2019_20": 21,
+      "completions_2020_21": 30,
+      "completions_2021_22": 25,
+      "completions_2022_23": 25,
+      "completions_2023_24": 34,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Office Skills"
+    },
+    {
+      "completions_2018_19": 10,
+      "completions_2019_20": 12,
+      "completions_2020_21": 9,
+      "completions_2021_22": 13,
+      "completions_2022_23": 12,
+      "completions_2023_24": 12,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Piping Trades"
+    },
+    {
+      "completions_2018_19": 11,
+      "completions_2019_20": 15,
+      "completions_2020_21": 11,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Police Studies"
+    },
+    {
+      "completions_2018_19": 13,
+      "completions_2019_20": 12,
+      "completions_2020_21": 11,
+      "completions_2021_22": 14,
+      "completions_2022_23": 8,
+      "completions_2023_24": 9,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Power Engineering"
+    },
+    {
+      "completions_2018_19": 147,
+      "completions_2019_20": 135,
+      "completions_2020_21": 154,
+      "completions_2021_22": 119,
+      "completions_2022_23": 145,
+      "completions_2023_24": 179,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Practical Nursing"
+    },
+    {
+      "completions_2018_19": 1,
+      "completions_2019_20": 2,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Practical Nursing Refresher"
+    },
+    {
+      "completions_2018_19": 15,
+      "completions_2019_20": 4,
+      "completions_2020_21": 3,
+      "completions_2021_22": 8,
+      "completions_2022_23": 5,
+      "completions_2023_24": 5,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Professional Cooking"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 0,
+      "completions_2020_21": 0,
+      "completions_2021_22": 10,
+      "completions_2022_23": 16,
+      "completions_2023_24": 10,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Public Safety"
+    },
+    {
+      "completions_2018_19": 16,
+      "completions_2019_20": 19,
+      "completions_2020_21": 19,
+      "completions_2021_22": 21,
+      "completions_2022_23": 17,
+      "completions_2023_24": 26,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Social Service Worker"
+    },
+    {
+      "completions_2018_19": 7,
+      "completions_2019_20": 23,
+      "completions_2020_21": 17,
+      "completions_2021_22": 3,
+      "completions_2022_23": 8,
+      "completions_2023_24": 14,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Sustainable Food Systems"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 0,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 9,
+      "completions_2023_24": 5,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Web and Interactive Development"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 0,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 10,
+      "completions_2023_24": 21,
+      "institution": "Assisiniboine Community College",
+      "program_name": "Welding"
+    },
+    {
+      "completions_2018_19": 27,
+      "completions_2019_20": 0,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "University College of the North",
+      "program_name": "Aboriginal & Northern Counselling Skills"
+    },
+    {
+      "completions_2018_19": 5,
+      "completions_2019_20": 4,
+      "completions_2020_21": 4,
+      "completions_2021_22": 3,
+      "completions_2022_23": 5,
+      "completions_2023_24": 4,
+      "institution": "University College of the North",
+      "program_name": "Automotive Technician"
+    },
+    {
+      "completions_2018_19": 2,
+      "completions_2019_20": 11,
+      "completions_2020_21": 1,
+      "completions_2021_22": 2,
+      "completions_2022_23": 4,
+      "completions_2023_24": 1,
+      "institution": "University College of the North",
+      "program_name": "Basic Business Principals"
+    },
+    {
+      "completions_2018_19": 11,
+      "completions_2019_20": 17,
+      "completions_2020_21": 24,
+      "completions_2021_22": 7,
+      "completions_2022_23": 10,
+      "completions_2023_24": 19,
+      "institution": "University College of the North",
+      "program_name": "Business Administration"
+    },
+    {
+      "completions_2018_19": 16,
+      "completions_2019_20": 20,
+      "completions_2020_21": 12,
+      "completions_2021_22": 1,
+      "completions_2022_23": 7,
+      "completions_2023_24": 5,
+      "institution": "University College of the North",
+      "program_name": "Carpentry/Woodworking"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 0,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 8,
+      "institution": "University College of the North",
+      "program_name": "Certificate in Teaching Ininimowin"
+    },
+    {
+      "completions_2018_19": 7,
+      "completions_2019_20": 1,
+      "completions_2020_21": 0,
+      "completions_2021_22": 2,
+      "completions_2022_23": 0,
+      "completions_2023_24": 2,
+      "institution": "University College of the North",
+      "program_name": "Community Economic Development"
+    },
+    {
+      "completions_2018_19": 4,
+      "completions_2019_20": 11,
+      "completions_2020_21": 5,
+      "completions_2021_22": 6,
+      "completions_2022_23": 4,
+      "completions_2023_24": 8,
+      "institution": "University College of the North",
+      "program_name": "Culinary Arts"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 11,
+      "completions_2020_21": 9,
+      "completions_2021_22": 25,
+      "completions_2022_23": 11,
+      "completions_2023_24": 20,
+      "institution": "University College of the North",
+      "program_name": "Diploma in Practical Nursing"
+    },
+    {
+      "completions_2018_19": 29,
+      "completions_2019_20": 24,
+      "completions_2020_21": 21,
+      "completions_2021_22": 19,
+      "completions_2022_23": 25,
+      "completions_2023_24": 9,
+      "institution": "University College of the North",
+      "program_name": "Early Childhood Education"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 16,
+      "completions_2020_21": 0,
+      "completions_2021_22": 5,
+      "completions_2022_23": 1,
+      "completions_2023_24": 0,
+      "institution": "University College of the North",
+      "program_name": "Early Learning and Child Care"
+    },
+    {
+      "completions_2018_19": 1,
+      "completions_2019_20": 49,
+      "completions_2020_21": 65,
+      "completions_2021_22": 29,
+      "completions_2022_23": 46,
+      "completions_2023_24": 27,
+      "institution": "University College of the North",
+      "program_name": "Educational Assistant Certificate"
+    },
+    {
+      "completions_2018_19": 7,
+      "completions_2019_20": 6,
+      "completions_2020_21": 8,
+      "completions_2021_22": 5,
+      "completions_2022_23": 7,
+      "completions_2023_24": 5,
+      "institution": "University College of the North",
+      "program_name": "Electrical Trades Fundamentals"
+    },
+    {
+      "completions_2018_19": 9,
+      "completions_2019_20": 0,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "University College of the North",
+      "program_name": "Facilities Basic Maintenance"
+    },
+    {
+      "completions_2018_19": 41,
+      "completions_2019_20": 24,
+      "completions_2020_21": 15,
+      "completions_2021_22": 15,
+      "completions_2022_23": 9,
+      "completions_2023_24": 30,
+      "institution": "University College of the North",
+      "program_name": "Health Care Aide"
+    },
+    {
+      "completions_2018_19": 6,
+      "completions_2019_20": 4,
+      "completions_2020_21": 6,
+      "completions_2021_22": 4,
+      "completions_2022_23": 2,
+      "completions_2023_24": 7,
+      "institution": "University College of the North",
+      "program_name": "Heavy Duty Mechanics"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 1,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "University College of the North",
+      "program_name": "High School Diploma"
+    },
+    {
+      "completions_2018_19": 3,
+      "completions_2019_20": 3,
+      "completions_2020_21": 5,
+      "completions_2021_22": 2,
+      "completions_2022_23": 2,
+      "completions_2023_24": 1,
+      "institution": "University College of the North",
+      "program_name": "Industrial Welding"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 0,
+      "completions_2020_21": 0,
+      "completions_2021_22": 6,
+      "completions_2022_23": 3,
+      "completions_2023_24": 3,
+      "institution": "University College of the North",
+      "program_name": "Information Technology Readiness North"
+    },
+    {
+      "completions_2018_19": 9,
+      "completions_2019_20": 0,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 0,
+      "completions_2023_24": 0,
+      "institution": "University College of the North",
+      "program_name": "Ininiw Nekani Human Resource Management"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 0,
+      "completions_2020_21": 0,
+      "completions_2021_22": 4,
+      "completions_2022_23": 9,
+      "completions_2023_24": 7,
+      "institution": "University College of the North",
+      "program_name": "Intro to Construction Trades"
+    },
+    {
+      "completions_2018_19": 7,
+      "completions_2019_20": 5,
+      "completions_2020_21": 4,
+      "completions_2021_22": 6,
+      "completions_2022_23": 9,
+      "completions_2023_24": 3,
+      "institution": "University College of the North",
+      "program_name": "Law Enforcement"
+    },
+    {
+      "completions_2018_19": 21,
+      "completions_2019_20": 20,
+      "completions_2020_21": 14,
+      "completions_2021_22": 17,
+      "completions_2022_23": 9,
+      "completions_2023_24": 10,
+      "institution": "University College of the North",
+      "program_name": "Mature High School Diploma"
+    },
+    {
+      "completions_2018_19": 10,
+      "completions_2019_20": 13,
+      "completions_2020_21": 10,
+      "completions_2021_22": 5,
+      "completions_2022_23": 4,
+      "completions_2023_24": 10,
+      "institution": "University College of the North",
+      "program_name": "Natural Resources Management Technology"
+    },
+    {
+      "completions_2018_19": 10,
+      "completions_2019_20": 12,
+      "completions_2020_21": 13,
+      "completions_2021_22": 9,
+      "completions_2022_23": 8,
+      "completions_2023_24": 11,
+      "institution": "University College of the North",
+      "program_name": "Office Assistant"
+    },
+    {
+      "completions_2018_19": 0,
+      "completions_2019_20": 0,
+      "completions_2020_21": 0,
+      "completions_2021_22": 0,
+      "completions_2022_23": 3,
+      "completions_2023_24": 2,
+      "institution": "University College of the North",
+      "program_name": "Preparation for Diploma Practical Nursing"
+    },
+    {
+      "completions_2018_19": 2,
+      "completions_2019_20": 2,
+      "completions_2020_21": 9,
+      "completions_2021_22": 7,
+      "completions_2022_23": 4,
+      "completions_2023_24": 0,
+      "institution": "University College of the North",
+      "program_name": "Primary Care Paramedic"
+    },
+    {
+      "completions_2018_19": 28,
+      "completions_2019_20": 34,
+      "completions_2020_21": 34,
+      "completions_2021_22": 28,
+      "completions_2022_23": 31,
+      "completions_2023_24": null,
+      "institution": "Ecole technique et professionnelle",
+      "program_name": "Adminstration des affaires (Business Administration)"
+    },
+    {
+      "completions_2018_19": 4,
+      "completions_2019_20": 2,
+      "completions_2020_21": 2,
+      "completions_2021_22": 6,
+      "completions_2022_23": 6,
+      "completions_2023_24": null,
+      "institution": "Ecole technique et professionnelle",
+      "program_name": "Aide en soins de santé (Health Care Aide)"
+    },
+    {
+      "completions_2018_19": 2,
+      "completions_2019_20": 2,
+      "completions_2020_21": 2,
+      "completions_2021_22": 2,
+      "completions_2022_23": 1,
+      "completions_2023_24": null,
+      "institution": "Ecole technique et professionnelle",
+      "program_name": "Communication multimédia (Multimedia Communication)"
+    },
+    {
+      "completions_2018_19": 6,
+      "completions_2019_20": 3,
+      "completions_2020_21": 3,
+      "completions_2021_22": 9,
+      "completions_2022_23": 1,
+      "completions_2023_24": null,
+      "institution": "Ecole technique et professionnelle",
+      "program_name": "Diploma in Auxiliary Nursing Sciences"
+    },
+    {
+      "completions_2018_19": 8,
+      "completions_2019_20": 8,
+      "completions_2020_21": 8,
+      "completions_2021_22": 14,
+      "completions_2022_23": 9,
+      "completions_2023_24": null,
+      "institution": "Ecole technique et professionnelle",
+      "program_name": "Éducation de la jeune enfance (Early Childhood Education)"
+    },
+    {
+      "completions_2018_19": 5,
+      "completions_2019_20": 0,
+      "completions_2020_21": 0,
+      "completions_2021_22": 10,
+      "completions_2022_23": 4,
+      "completions_2023_24": null,
+      "institution": "Ecole technique et professionnelle",
+      "program_name": "Informatique (Computer Analyst)"
+    },
+    {
+      "completions_2018_19": 6,
+      "completions_2019_20": 4,
+      "completions_2020_21": 4,
+      "completions_2021_22": 1,
+      "completions_2022_23": 0,
+      "completions_2023_24": null,
+      "institution": "Ecole technique et professionnelle",
+      "program_name": "Tourisime (Tourisim)"
+    }
+  ],
+  "college_program_enrollment_rows": [
+    {
+      "headcount_2018_19": 15,
+      "headcount_2019_20": 11,
+      "headcount_2020_21": 14,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "3D Computer Graphics"
+    },
+    {
+      "headcount_2018_19": 9,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "ACCESS Engineering"
+    },
+    {
+      "headcount_2018_19": 22,
+      "headcount_2019_20": 1,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "ACCESS Health"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 1,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "ACCESS Nursing"
+    },
+    {
+      "headcount_2018_19": 30,
+      "headcount_2019_20": 24,
+      "headcount_2020_21": 16,
+      "headcount_2021_22": 7,
+      "headcount_2022_23": 6,
+      "headcount_2023_24": 16,
+      "institution": "Red River College",
+      "program_name": "Advanced Care Paramedic"
+    },
+    {
+      "headcount_2018_19": 29,
+      "headcount_2019_20": 32,
+      "headcount_2020_21": 28,
+      "headcount_2021_22": 22,
+      "headcount_2022_23": 21,
+      "headcount_2023_24": 29,
+      "institution": "Red River College",
+      "program_name": "Aerospace Manufacturing"
+    },
+    {
+      "headcount_2018_19": 100,
+      "headcount_2019_20": 101,
+      "headcount_2020_21": 105,
+      "headcount_2021_22": 96,
+      "headcount_2022_23": 90,
+      "headcount_2023_24": 108,
+      "institution": "Red River College",
+      "program_name": "Aircraft Maintenance Engineering"
+    },
+    {
+      "headcount_2018_19": 24,
+      "headcount_2019_20": 19,
+      "headcount_2020_21": 8,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 3,
+      "institution": "Red River College",
+      "program_name": "American Sign Language - English"
+    },
+    {
+      "headcount_2018_19": 69,
+      "headcount_2019_20": 80,
+      "headcount_2020_21": 76,
+      "headcount_2021_22": 74,
+      "headcount_2022_23": 87,
+      "headcount_2023_24": 90,
+      "institution": "Red River College",
+      "program_name": "App Aircraft Maintenance Engineer Journeyperson"
+    },
+    {
+      "headcount_2018_19": 33,
+      "headcount_2019_20": 33,
+      "headcount_2020_21": 42,
+      "headcount_2021_22": 32,
+      "headcount_2022_23": 33,
+      "headcount_2023_24": 33,
+      "institution": "Red River College",
+      "program_name": "App Automotive Service Ed Prg (ASEP)"
+    },
+    {
+      "headcount_2018_19": 30,
+      "headcount_2019_20": 26,
+      "headcount_2020_21": 37,
+      "headcount_2021_22": 42,
+      "headcount_2022_23": 39,
+      "headcount_2023_24": 40,
+      "institution": "Red River College",
+      "program_name": "App Auto Service Tech ASSET"
+    },
+    {
+      "headcount_2018_19": 201,
+      "headcount_2019_20": 187,
+      "headcount_2020_21": 177,
+      "headcount_2021_22": 192,
+      "headcount_2022_23": 197,
+      "headcount_2023_24": 205,
+      "institution": "Red River College",
+      "program_name": "App Auto Service Technician"
+    },
+    {
+      "headcount_2018_19": 5,
+      "headcount_2019_20": 6,
+      "headcount_2020_21": 12,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 13,
+      "headcount_2023_24": 11,
+      "institution": "Red River College",
+      "program_name": "App Automotive Service - Paint"
+    },
+    {
+      "headcount_2018_19": 42,
+      "headcount_2019_20": 32,
+      "headcount_2020_21": 9,
+      "headcount_2021_22": 35,
+      "headcount_2022_23": 27,
+      "headcount_2023_24": 27,
+      "institution": "Red River College",
+      "program_name": "App Boilermaker"
+    },
+    {
+      "headcount_2018_19": 30,
+      "headcount_2019_20": 28,
+      "headcount_2020_21": 21,
+      "headcount_2021_22": 21,
+      "headcount_2022_23": 24,
+      "headcount_2023_24": 29,
+      "institution": "Red River College",
+      "program_name": "App Bricklaying"
+    },
+    {
+      "headcount_2018_19": 37,
+      "headcount_2019_20": 28,
+      "headcount_2020_21": 15,
+      "headcount_2021_22": 17,
+      "headcount_2022_23": 22,
+      "headcount_2023_24": 20,
+      "institution": "Red River College",
+      "program_name": "App Cabinet Maker"
+    },
+    {
+      "headcount_2018_19": 516,
+      "headcount_2019_20": 468,
+      "headcount_2020_21": 391,
+      "headcount_2021_22": 324,
+      "headcount_2022_23": 312,
+      "headcount_2023_24": 299,
+      "institution": "Red River College",
+      "program_name": "App Carpenter"
+    },
+    {
+      "headcount_2018_19": 948,
+      "headcount_2019_20": 682,
+      "headcount_2020_21": 802,
+      "headcount_2021_22": 727,
+      "headcount_2022_23": 676,
+      "headcount_2023_24": 452,
+      "institution": "Red River College",
+      "program_name": "App Construction Electrician"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 246,
+      "institution": "Red River College",
+      "program_name": "Apprenticeship Common Core Electrical"
+    },
+    {
+      "headcount_2018_19": 22,
+      "headcount_2019_20": 12,
+      "headcount_2020_21": 4,
+      "headcount_2021_22": 5,
+      "headcount_2022_23": 11,
+      "headcount_2023_24": 12,
+      "institution": "Red River College",
+      "program_name": "App Cook"
+    },
+    {
+      "headcount_2018_19": 12,
+      "headcount_2019_20": 13,
+      "headcount_2020_21": 12,
+      "headcount_2021_22": 23,
+      "headcount_2022_23": 28,
+      "headcount_2023_24": 15,
+      "institution": "Red River College",
+      "program_name": "App Gas A License"
+    },
+    {
+      "headcount_2018_19": 138,
+      "headcount_2019_20": 149,
+      "headcount_2020_21": 106,
+      "headcount_2021_22": 82,
+      "headcount_2022_23": 57,
+      "headcount_2023_24": 72,
+      "institution": "Red River College",
+      "program_name": "App Gas B License"
+    },
+    {
+      "headcount_2018_19": 35,
+      "headcount_2019_20": 19,
+      "headcount_2020_21": 6,
+      "headcount_2021_22": 7,
+      "headcount_2022_23": 6,
+      "headcount_2023_24": 19,
+      "institution": "Red River College",
+      "program_name": "App Insulator"
+    },
+    {
+      "headcount_2018_19": 30,
+      "headcount_2019_20": 32,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 23,
+      "headcount_2022_23": 32,
+      "headcount_2023_24": 34,
+      "institution": "Red River College",
+      "program_name": "App Ironworker"
+    },
+    {
+      "headcount_2018_19": 25,
+      "headcount_2019_20": 31,
+      "headcount_2020_21": 17,
+      "headcount_2021_22": 30,
+      "headcount_2022_23": 24,
+      "headcount_2023_24": 18,
+      "institution": "Red River College",
+      "program_name": "App Landscape Horticulturalist"
+    },
+    {
+      "headcount_2018_19": 53,
+      "headcount_2019_20": 35,
+      "headcount_2020_21": 42,
+      "headcount_2021_22": 30,
+      "headcount_2022_23": 44,
+      "headcount_2023_24": 41,
+      "institution": "Red River College",
+      "program_name": "App Lather"
+    },
+    {
+      "headcount_2018_19": 29,
+      "headcount_2019_20": 20,
+      "headcount_2020_21": 7,
+      "headcount_2021_22": 15,
+      "headcount_2022_23": 12,
+      "headcount_2023_24": 27,
+      "institution": "Red River College",
+      "program_name": "App Machinist"
+    },
+    {
+      "headcount_2018_19": 19,
+      "headcount_2019_20": 12,
+      "headcount_2020_21": 11,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 5,
+      "headcount_2023_24": 11,
+      "institution": "Red River College",
+      "program_name": "App Marine Outdoor Power Equipment"
+    },
+    {
+      "headcount_2018_19": 31,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 31,
+      "headcount_2021_22": 19,
+      "headcount_2022_23": 27,
+      "headcount_2023_24": 39,
+      "institution": "Red River College",
+      "program_name": "App Mobile Crane Operator"
+    },
+    {
+      "headcount_2018_19": 97,
+      "headcount_2019_20": 101,
+      "headcount_2020_21": 68,
+      "headcount_2021_22": 97,
+      "headcount_2022_23": 70,
+      "headcount_2023_24": 82,
+      "institution": "Red River College",
+      "program_name": "App Motor Veh Body Repairer"
+    },
+    {
+      "headcount_2018_19": 16,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "App Painting & Decorating"
+    },
+    {
+      "headcount_2018_19": 269,
+      "headcount_2019_20": 260,
+      "headcount_2020_21": 238,
+      "headcount_2021_22": 233,
+      "headcount_2022_23": 245,
+      "headcount_2023_24": 283,
+      "institution": "Red River College",
+      "program_name": "App Plumbing"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 11,
+      "headcount_2022_23": 25,
+      "headcount_2023_24": 43,
+      "institution": "Red River College",
+      "program_name": "App Power Electrician"
+    },
+    {
+      "headcount_2018_19": 9,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 9,
+      "headcount_2021_22": 7,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "App Refrig & Air Conditioning Mechanic Residential"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 142,
+      "headcount_2021_22": 149,
+      "headcount_2022_23": 162,
+      "headcount_2023_24": 186,
+      "institution": "Red River College",
+      "program_name": "App Refrigeration & Air Conditioning Mechanic Commercial"
+    },
+    {
+      "headcount_2018_19": 115,
+      "headcount_2019_20": 139,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "App Refrigeration"
+    },
+    {
+      "headcount_2018_19": 24,
+      "headcount_2019_20": 25,
+      "headcount_2020_21": 18,
+      "headcount_2021_22": 9,
+      "headcount_2022_23": 19,
+      "headcount_2023_24": 19,
+      "institution": "Red River College",
+      "program_name": "App Roofer"
+    },
+    {
+      "headcount_2018_19": 89,
+      "headcount_2019_20": 85,
+      "headcount_2020_21": 82,
+      "headcount_2021_22": 80,
+      "headcount_2022_23": 65,
+      "headcount_2023_24": 68,
+      "institution": "Red River College",
+      "program_name": "App Sheet Metal"
+    },
+    {
+      "headcount_2018_19": 7,
+      "headcount_2019_20": 25,
+      "headcount_2020_21": 30,
+      "headcount_2021_22": 32,
+      "headcount_2022_23": 38,
+      "headcount_2023_24": 36,
+      "institution": "Red River College",
+      "program_name": "App Sprinkler/Fire Prot Installer"
+    },
+    {
+      "headcount_2018_19": 51,
+      "headcount_2019_20": 53,
+      "headcount_2020_21": 36,
+      "headcount_2021_22": 40,
+      "headcount_2022_23": 31,
+      "headcount_2023_24": 36,
+      "institution": "Red River College",
+      "program_name": "App Steamfitting - Pipefitter"
+    },
+    {
+      "headcount_2018_19": 25,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 23,
+      "headcount_2021_22": 15,
+      "headcount_2022_23": 26,
+      "headcount_2023_24": 26,
+      "institution": "Red River College",
+      "program_name": "App Transport Trailer Technician"
+    },
+    {
+      "headcount_2018_19": 265,
+      "headcount_2019_20": 212,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "App Transport Truck/Bus"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 196,
+      "headcount_2021_22": 178,
+      "headcount_2022_23": 232,
+      "headcount_2023_24": 230,
+      "institution": "Red River College",
+      "program_name": "App Truck & Transport Mechanic"
+    },
+    {
+      "headcount_2018_19": 131,
+      "headcount_2019_20": 141,
+      "headcount_2020_21": 174,
+      "headcount_2021_22": 153,
+      "headcount_2022_23": 202,
+      "headcount_2023_24": 190,
+      "institution": "Red River College",
+      "program_name": "Applied Accounting"
+    },
+    {
+      "headcount_2018_19": 1,
+      "headcount_2019_20": 3,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Applied Biology"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 12,
+      "headcount_2023_24": 7,
+      "institution": "Red River College",
+      "program_name": "Applied Commerce Education"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 143,
+      "institution": "Red River College",
+      "program_name": "Application Development and Delivery"
+    },
+    {
+      "headcount_2018_19": 29,
+      "headcount_2019_20": 47,
+      "headcount_2020_21": 54,
+      "headcount_2021_22": 58,
+      "headcount_2022_23": 55,
+      "headcount_2023_24": 30,
+      "institution": "Red River College",
+      "program_name": "Architectural Technology"
+    },
+    {
+      "headcount_2018_19": 54,
+      "headcount_2019_20": 64,
+      "headcount_2020_21": 64,
+      "headcount_2021_22": 65,
+      "headcount_2022_23": 58,
+      "headcount_2023_24": 66,
+      "institution": "Red River College",
+      "program_name": "Architectural/Engineering Technology"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 16,
+      "headcount_2021_22": 18,
+      "headcount_2022_23": 4,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "ASL - English Interpretation"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 29,
+      "headcount_2020_21": 21,
+      "headcount_2021_22": 17,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "ASL and Deaf Studies"
+    },
+    {
+      "headcount_2018_19": 163,
+      "headcount_2019_20": 135,
+      "headcount_2020_21": 155,
+      "headcount_2021_22": 138,
+      "headcount_2022_23": 131,
+      "headcount_2023_24": 132,
+      "institution": "Red River College",
+      "program_name": "Automotive Technician"
+    },
+    {
+      "headcount_2018_19": 10,
+      "headcount_2019_20": 13,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Bridging for Internationally Ed.Nurses Level 1"
+    },
+    {
+      "headcount_2018_19": 20,
+      "headcount_2019_20": 16,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Bridging Int'l Nurses Level 2CS"
+    },
+    {
+      "headcount_2018_19": 139,
+      "headcount_2019_20": 111,
+      "headcount_2020_21": 60,
+      "headcount_2021_22": 22,
+      "headcount_2022_23": 1,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Bridging Program for Internationally Ed Nurses"
+    },
+    {
+      "headcount_2018_19": 17,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Building Design Technology"
+    },
+    {
+      "headcount_2018_19": 1079,
+      "headcount_2019_20": 1125,
+      "headcount_2020_21": 1168,
+      "headcount_2021_22": 1102,
+      "headcount_2022_23": 1401,
+      "headcount_2023_24": 1340,
+      "institution": "Red River College",
+      "program_name": "Business Administration"
+    },
+    {
+      "headcount_2018_19": 514,
+      "headcount_2019_20": 542,
+      "headcount_2020_21": 557,
+      "headcount_2021_22": 632,
+      "headcount_2022_23": 851,
+      "headcount_2023_24": 665,
+      "institution": "Red River College",
+      "program_name": "Business Information Technology"
+    },
+    {
+      "headcount_2018_19": 15,
+      "headcount_2019_20": 17,
+      "headcount_2020_21": 19,
+      "headcount_2021_22": 14,
+      "headcount_2022_23": 3,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Business/Technology Teacher Education"
+    },
+    {
+      "headcount_2018_19": 200,
+      "headcount_2019_20": 275,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Business Technology Management"
+    },
+    {
+      "headcount_2018_19": 47,
+      "headcount_2019_20": 42,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Business, Accounting & Mgmt"
+    },
+    {
+      "headcount_2018_19": 50,
+      "headcount_2019_20": 36,
+      "headcount_2020_21": 15,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 17,
+      "institution": "Red River College",
+      "program_name": "Cabinetry & Woodworking"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 1,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "CAP RPL"
+    },
+    {
+      "headcount_2018_19": 36,
+      "headcount_2019_20": 38,
+      "headcount_2020_21": 37,
+      "headcount_2021_22": 35,
+      "headcount_2022_23": 49,
+      "headcount_2023_24": 34,
+      "institution": "Red River College",
+      "program_name": "Carpentry"
+    },
+    {
+      "headcount_2018_19": 64,
+      "headcount_2019_20": 52,
+      "headcount_2020_21": 57,
+      "headcount_2021_22": 46,
+      "headcount_2022_23": 60,
+      "headcount_2023_24": 70,
+      "institution": "Red River College",
+      "program_name": "Child and Youth Care"
+    },
+    {
+      "headcount_2018_19": 186,
+      "headcount_2019_20": 187,
+      "headcount_2020_21": 159,
+      "headcount_2021_22": 131,
+      "headcount_2022_23": 50,
+      "headcount_2023_24": 154,
+      "institution": "Red River College",
+      "program_name": "Civil Engineering Technology"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 8,
+      "headcount_2022_23": 7,
+      "headcount_2023_24": 11,
+      "institution": "Red River College",
+      "program_name": "CNC Machining and Advanced Technology"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 31,
+      "headcount_2021_22": 33,
+      "headcount_2022_23": 36,
+      "headcount_2023_24": 37,
+      "institution": "Red River College",
+      "program_name": "CNC Machinist Technician"
+    },
+    {
+      "headcount_2018_19": 27,
+      "headcount_2019_20": 37,
+      "headcount_2020_21": 24,
+      "headcount_2021_22": 57,
+      "headcount_2022_23": 45,
+      "headcount_2023_24": 42,
+      "institution": "Red River College",
+      "program_name": "College Transition"
+    },
+    {
+      "headcount_2018_19": 32,
+      "headcount_2019_20": 34,
+      "headcount_2020_21": 34,
+      "headcount_2021_22": 33,
+      "headcount_2022_23": 33,
+      "headcount_2023_24": 39,
+      "institution": "Red River College",
+      "program_name": "Collision Repair and Refinishing"
+    },
+    {
+      "headcount_2018_19": 29,
+      "headcount_2019_20": 28,
+      "headcount_2020_21": 32,
+      "headcount_2021_22": 26,
+      "headcount_2022_23": 26,
+      "headcount_2023_24": 31,
+      "institution": "Red River College",
+      "program_name": "Commerce/Industry Sales & Marketing"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 15,
+      "headcount_2020_21": 12,
+      "headcount_2021_22": 13,
+      "headcount_2022_23": 8,
+      "headcount_2023_24": 15,
+      "institution": "Red River College",
+      "program_name": "Communication Design"
+    },
+    {
+      "headcount_2018_19": 25,
+      "headcount_2019_20": 23,
+      "headcount_2020_21": 18,
+      "headcount_2021_22": 8,
+      "headcount_2022_23": 13,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Community Development"
+    },
+    {
+      "headcount_2018_19": 90,
+      "headcount_2019_20": 96,
+      "headcount_2020_21": 104,
+      "headcount_2021_22": 107,
+      "headcount_2022_23": 96,
+      "headcount_2023_24": 88,
+      "institution": "Red River College",
+      "program_name": "Construction Management"
+    },
+    {
+      "headcount_2018_19": 12,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 8,
+      "headcount_2021_22": 7,
+      "headcount_2022_23": 5,
+      "headcount_2023_24": 15,
+      "institution": "Red River College",
+      "program_name": "Co-op Vocational Education"
+    },
+    {
+      "headcount_2018_19": 124,
+      "headcount_2019_20": 140,
+      "headcount_2020_21": 116,
+      "headcount_2021_22": 112,
+      "headcount_2022_23": 106,
+      "headcount_2023_24": 125,
+      "institution": "Red River College",
+      "program_name": "Creative Communications"
+    },
+    {
+      "headcount_2018_19": 140,
+      "headcount_2019_20": 131,
+      "headcount_2020_21": 135,
+      "headcount_2021_22": 129,
+      "headcount_2022_23": 144,
+      "headcount_2023_24": 155,
+      "institution": "Red River College",
+      "program_name": "Culinary Arts"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 19,
+      "institution": "Red River College",
+      "program_name": "Culinary Skills"
+    },
+    {
+      "headcount_2018_19": 16,
+      "headcount_2019_20": 15,
+      "headcount_2020_21": 24,
+      "headcount_2021_22": 18,
+      "headcount_2022_23": 9,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Culinary Skills Indigenous"
+    },
+    {
+      "headcount_2018_19": 45,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Culinary Skills International"
+    },
+    {
+      "headcount_2018_19": 9,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Deaf Studies"
+    },
+    {
+      "headcount_2018_19": 48,
+      "headcount_2019_20": 42,
+      "headcount_2020_21": 39,
+      "headcount_2021_22": 38,
+      "headcount_2022_23": 42,
+      "headcount_2023_24": 41,
+      "institution": "Red River College",
+      "program_name": "Dental Assisting"
+    },
+    {
+      "headcount_2018_19": 4,
+      "headcount_2019_20": 4,
+      "headcount_2020_21": 4,
+      "headcount_2021_22": 8,
+      "headcount_2022_23": 8,
+      "headcount_2023_24": 8,
+      "institution": "Red River College",
+      "program_name": "Diagnostic Cardiac Sonography"
+    },
+    {
+      "headcount_2018_19": 97,
+      "headcount_2019_20": 101,
+      "headcount_2020_21": 100,
+      "headcount_2021_22": 107,
+      "headcount_2022_23": 89,
+      "headcount_2023_24": 91,
+      "institution": "Red River College",
+      "program_name": "Digital Media Design"
+    },
+    {
+      "headcount_2018_19": 65,
+      "headcount_2019_20": 53,
+      "headcount_2020_21": 51,
+      "headcount_2021_22": 41,
+      "headcount_2022_23": 39,
+      "headcount_2023_24": 45,
+      "institution": "Red River College",
+      "program_name": "Disability and Community Support"
+    },
+    {
+      "headcount_2018_19": 135,
+      "headcount_2019_20": 108,
+      "headcount_2020_21": 147,
+      "headcount_2021_22": 157,
+      "headcount_2022_23": 180,
+      "headcount_2023_24": 282,
+      "institution": "Red River College",
+      "program_name": "Early Childhood Ed Workplace"
+    },
+    {
+      "headcount_2018_19": 125,
+      "headcount_2019_20": 121,
+      "headcount_2020_21": 182,
+      "headcount_2021_22": 157,
+      "headcount_2022_23": 113,
+      "headcount_2023_24": 227,
+      "institution": "Red River College",
+      "program_name": "Early Childhood Education"
+    },
+    {
+      "headcount_2018_19": 45,
+      "headcount_2019_20": 9,
+      "headcount_2020_21": 4,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 1,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Educational Assistant"
+    },
+    {
+      "headcount_2018_19": 40,
+      "headcount_2019_20": 37,
+      "headcount_2020_21": 38,
+      "headcount_2021_22": 38,
+      "headcount_2022_23": 35,
+      "headcount_2023_24": 46,
+      "institution": "Red River College",
+      "program_name": "Electrical"
+    },
+    {
+      "headcount_2018_19": 183,
+      "headcount_2019_20": 188,
+      "headcount_2020_21": 166,
+      "headcount_2021_22": 175,
+      "headcount_2022_23": 209,
+      "headcount_2023_24": 176,
+      "institution": "Red River College",
+      "program_name": "Electrical Engineering Technology"
+    },
+    {
+      "headcount_2018_19": 58,
+      "headcount_2019_20": 63,
+      "headcount_2020_21": 64,
+      "headcount_2021_22": 56,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 50,
+      "institution": "Red River College",
+      "program_name": "Electronic Engineering Technology"
+    },
+    {
+      "headcount_2018_19": 34,
+      "headcount_2019_20": 31,
+      "headcount_2020_21": 40,
+      "headcount_2021_22": 29,
+      "headcount_2022_23": 22,
+      "headcount_2023_24": 20,
+      "institution": "Red River College",
+      "program_name": "Environmental Engineering Technology"
+    },
+    {
+      "headcount_2018_19": 26,
+      "headcount_2019_20": 25,
+      "headcount_2020_21": 28,
+      "headcount_2021_22": 24,
+      "headcount_2022_23": 28,
+      "headcount_2023_24": 28,
+      "institution": "Red River College",
+      "program_name": "Family Support Worker"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 8,
+      "headcount_2021_22": 4,
+      "headcount_2022_23": 17,
+      "headcount_2023_24": 19,
+      "institution": "Red River College",
+      "program_name": "Foundations in Social Innovation and Community Development"
+    },
+    {
+      "headcount_2018_19": 39,
+      "headcount_2019_20": 43,
+      "headcount_2020_21": 35,
+      "headcount_2021_22": 24,
+      "headcount_2022_23": 39,
+      "headcount_2023_24": 31,
+      "institution": "Red River College",
+      "program_name": "Geomatics Technology"
+    },
+    {
+      "headcount_2018_19": 97,
+      "headcount_2019_20": 74,
+      "headcount_2020_21": 104,
+      "headcount_2021_22": 72,
+      "headcount_2022_23": 69,
+      "headcount_2023_24": 76,
+      "institution": "Red River College",
+      "program_name": "Grade 11"
+    },
+    {
+      "headcount_2018_19": 188,
+      "headcount_2019_20": 162,
+      "headcount_2020_21": 206,
+      "headcount_2021_22": 216,
+      "headcount_2022_23": 184,
+      "headcount_2023_24": 238,
+      "institution": "Red River College",
+      "program_name": "Grade 12"
+    },
+    {
+      "headcount_2018_19": 90,
+      "headcount_2019_20": 88,
+      "headcount_2020_21": 89,
+      "headcount_2021_22": 90,
+      "headcount_2022_23": 88,
+      "headcount_2023_24": 90,
+      "institution": "Red River College",
+      "program_name": "Graphic Design"
+    },
+    {
+      "headcount_2018_19": 9,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Graphic Design - Advanced"
+    },
+    {
+      "headcount_2018_19": 23,
+      "headcount_2019_20": 13,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Greenspace Horticulture"
+    },
+    {
+      "headcount_2018_19": 117,
+      "headcount_2019_20": 196,
+      "headcount_2020_21": 175,
+      "headcount_2021_22": 109,
+      "headcount_2022_23": 85,
+      "headcount_2023_24": 171,
+      "institution": "Red River College",
+      "program_name": "Health Care Aide"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 26,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Health Care Aide & Health Unit Clerk"
+    },
+    {
+      "headcount_2018_19": 32,
+      "headcount_2019_20": 27,
+      "headcount_2020_21": 29,
+      "headcount_2021_22": 18,
+      "headcount_2022_23": 27,
+      "headcount_2023_24": 54,
+      "institution": "Red River College",
+      "program_name": "Health Information Management"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 7,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Health Unit Clerk"
+    },
+    {
+      "headcount_2018_19": 72,
+      "headcount_2019_20": 72,
+      "headcount_2020_21": 89,
+      "headcount_2021_22": 71,
+      "headcount_2022_23": 74,
+      "headcount_2023_24": 74,
+      "institution": "Red River College",
+      "program_name": "Heavy Duty Equipment Mechanic"
+    },
+    {
+      "headcount_2018_19": 71,
+      "headcount_2019_20": 63,
+      "headcount_2020_21": 69,
+      "headcount_2021_22": 72,
+      "headcount_2022_23": 65,
+      "headcount_2023_24": 88,
+      "institution": "Red River College",
+      "program_name": "Hospitality and Tourism Management"
+    },
+    {
+      "headcount_2018_19": 32,
+      "headcount_2019_20": 29,
+      "headcount_2020_21": 35,
+      "headcount_2021_22": 30,
+      "headcount_2022_23": 24,
+      "headcount_2023_24": 11,
+      "institution": "Red River College",
+      "program_name": "Hotel & Restaurant Management"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 10,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Indigenous Language - Cree"
+    },
+    {
+      "headcount_2018_19": 12,
+      "headcount_2019_20": 19,
+      "headcount_2020_21": 15,
+      "headcount_2021_22": 13,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Indigenous Language - Ojibwe"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 4,
+      "headcount_2021_22": 3,
+      "headcount_2022_23": 14,
+      "headcount_2023_24": 13,
+      "institution": "Red River College",
+      "program_name": "Indigenous Social Entrepreneur"
+    },
+    {
+      "headcount_2018_19": 42,
+      "headcount_2019_20": 48,
+      "headcount_2020_21": 52,
+      "headcount_2021_22": 41,
+      "headcount_2022_23": 35,
+      "headcount_2023_24": 27,
+      "institution": "Red River College",
+      "program_name": "Industrial Arts/Tech Teacher Ed"
+    },
+    {
+      "headcount_2018_19": 28,
+      "headcount_2019_20": 60,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Information Security"
+    },
+    {
+      "headcount_2018_19": 25,
+      "headcount_2019_20": 25,
+      "headcount_2020_21": 23,
+      "headcount_2021_22": 21,
+      "headcount_2022_23": 31,
+      "headcount_2023_24": 25,
+      "institution": "Red River College",
+      "program_name": "Instrumentation and Control Engineering Technology"
+    },
+    {
+      "headcount_2018_19": 48,
+      "headcount_2019_20": 101,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "International Ed PT Training (Summer English Camp)"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 196,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "International Electrical Engineering Technology"
+    },
+    {
+      "headcount_2018_19": 15,
+      "headcount_2019_20": 16,
+      "headcount_2020_21": 2,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Intro to Aircraft Maintenance Engineer"
+    },
+    {
+      "headcount_2018_19": 64,
+      "headcount_2019_20": 67,
+      "headcount_2020_21": 63,
+      "headcount_2021_22": 64,
+      "headcount_2022_23": 68,
+      "headcount_2023_24": 34,
+      "institution": "Red River College",
+      "program_name": "Introduction to Business Information Technology"
+    },
+    {
+      "headcount_2018_19": 18,
+      "headcount_2019_20": 33,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 18,
+      "headcount_2022_23": 22,
+      "headcount_2023_24": 21,
+      "institution": "Red River College",
+      "program_name": "Introduction to EET"
+    },
+    {
+      "headcount_2018_19": 36,
+      "headcount_2019_20": 33,
+      "headcount_2020_21": 14,
+      "headcount_2021_22": 40,
+      "headcount_2022_23": 33,
+      "headcount_2023_24": 45,
+      "institution": "Red River College",
+      "program_name": "Introduction to Trades"
+    },
+    {
+      "headcount_2018_19": 28,
+      "headcount_2019_20": 29,
+      "headcount_2020_21": 15,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Library and Information Technology"
+    },
+    {
+      "headcount_2018_19": 15,
+      "headcount_2019_20": 15,
+      "headcount_2020_21": 18,
+      "headcount_2021_22": 16,
+      "headcount_2022_23": 16,
+      "headcount_2023_24": 21,
+      "institution": "Red River College",
+      "program_name": "Manufacturing CAD"
+    },
+    {
+      "headcount_2018_19": 25,
+      "headcount_2019_20": 31,
+      "headcount_2020_21": 7,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Manufacturing Technician"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 27,
+      "headcount_2021_22": 20,
+      "headcount_2022_23": 22,
+      "headcount_2023_24": 37,
+      "institution": "Red River College",
+      "program_name": "Marine and Powersports Technician"
+    },
+    {
+      "headcount_2018_19": 121,
+      "headcount_2019_20": 129,
+      "headcount_2020_21": 132,
+      "headcount_2021_22": 123,
+      "headcount_2022_23": 123,
+      "headcount_2023_24": 128,
+      "institution": "Red River College",
+      "program_name": "Mechanical Engineering Technology"
+    },
+    {
+      "headcount_2018_19": 80,
+      "headcount_2019_20": 72,
+      "headcount_2020_21": 67,
+      "headcount_2021_22": 69,
+      "headcount_2022_23": 78,
+      "headcount_2023_24": 77,
+      "institution": "Red River College",
+      "program_name": "Medical Laboratory Sciences"
+    },
+    {
+      "headcount_2018_19": 72,
+      "headcount_2019_20": 73,
+      "headcount_2020_21": 75,
+      "headcount_2021_22": 76,
+      "headcount_2022_23": 79,
+      "headcount_2023_24": 118,
+      "institution": "Red River College",
+      "program_name": "Medical Radiologic Technology"
+    },
+    {
+      "headcount_2018_19": 8,
+      "headcount_2019_20": 6,
+      "headcount_2020_21": 6,
+      "headcount_2021_22": 6,
+      "headcount_2022_23": 7,
+      "headcount_2023_24": 8,
+      "institution": "Red River College",
+      "program_name": "MRI and Spectroscopy"
+    },
+    {
+      "headcount_2018_19": 72,
+      "headcount_2019_20": 72,
+      "headcount_2020_21": 73,
+      "headcount_2021_22": 58,
+      "headcount_2022_23": 57,
+      "headcount_2023_24": 37,
+      "institution": "Red River College",
+      "program_name": "Municipal Engineering Technology"
+    },
+    {
+      "headcount_2018_19": 48,
+      "headcount_2019_20": 36,
+      "headcount_2020_21": 46,
+      "headcount_2021_22": 38,
+      "headcount_2022_23": 31,
+      "headcount_2023_24": 36,
+      "institution": "Red River College",
+      "program_name": "Network Services Technician"
+    },
+    {
+      "headcount_2018_19": 620,
+      "headcount_2019_20": 637,
+      "headcount_2020_21": 714,
+      "headcount_2021_22": 654,
+      "headcount_2022_23": 662,
+      "headcount_2023_24": 677,
+      "institution": "Red River College",
+      "program_name": "Nursing"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 49,
+      "institution": "Red River College",
+      "program_name": "Nurse Re-Entry"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 84,
+      "headcount_2021_22": 113,
+      "headcount_2022_23": 141,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Nursing - Licensed Practical Nurse to BN Pathway"
+    },
+    {
+      "headcount_2018_19": 32,
+      "headcount_2019_20": 32,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Outdoor Power Equipment Technician"
+    },
+    {
+      "headcount_2018_19": 40,
+      "headcount_2019_20": 41,
+      "headcount_2020_21": 53,
+      "headcount_2021_22": 21,
+      "headcount_2022_23": 46,
+      "headcount_2023_24": 40,
+      "institution": "Red River College",
+      "program_name": "Paramedicine - Primary Care Paramedic"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 17,
+      "headcount_2020_21": 6,
+      "headcount_2021_22": 7,
+      "headcount_2022_23": 8,
+      "headcount_2023_24": 14,
+      "institution": "Red River College",
+      "program_name": "Pathway Business Creative Communications Digital Technology"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 12,
+      "headcount_2020_21": 11,
+      "headcount_2021_22": 8,
+      "headcount_2022_23": 12,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Pathway to Engineering Technology Programs"
+    },
+    {
+      "headcount_2018_19": 1,
+      "headcount_2019_20": 23,
+      "headcount_2020_21": 27,
+      "headcount_2021_22": 31,
+      "headcount_2022_23": 26,
+      "headcount_2023_24": 51,
+      "institution": "Red River College",
+      "program_name": "Pathway to Health Programs"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 9,
+      "headcount_2023_24": 13,
+      "institution": "Red River College",
+      "program_name": "Pathway to Information Technology Programs"
+    },
+    {
+      "headcount_2018_19": 25,
+      "headcount_2019_20": 29,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Pharmaceutical Manufacturing"
+    },
+    {
+      "headcount_2018_19": 33,
+      "headcount_2019_20": 40,
+      "headcount_2020_21": 40,
+      "headcount_2021_22": 40,
+      "headcount_2022_23": 37,
+      "headcount_2023_24": 87,
+      "institution": "Red River College",
+      "program_name": "Plumbing"
+    },
+    {
+      "headcount_2018_19": 8,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Plumbing Cross Connection Control"
+    },
+    {
+      "headcount_2018_19": 47,
+      "headcount_2019_20": 45,
+      "headcount_2020_21": 46,
+      "headcount_2021_22": 48,
+      "headcount_2022_23": 40,
+      "headcount_2023_24": 51,
+      "institution": "Red River College",
+      "program_name": "Power Engineering Technology"
+    },
+    {
+      "headcount_2018_19": 18,
+      "headcount_2019_20": 20,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Precision Metal Machining"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 21,
+      "headcount_2020_21": 24,
+      "headcount_2021_22": 20,
+      "headcount_2022_23": 21,
+      "headcount_2023_24": 21,
+      "institution": "Red River College",
+      "program_name": "Professional Baking and Pastry"
+    },
+    {
+      "headcount_2018_19": 20,
+      "headcount_2019_20": 1,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Professional Baking & Patissiere"
+    },
+    {
+      "headcount_2018_19": 29,
+      "headcount_2019_20": 20,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "QA/QC in Pharmaceutical Industry"
+    },
+    {
+      "headcount_2018_19": 37,
+      "headcount_2019_20": 36,
+      "headcount_2020_21": 34,
+      "headcount_2021_22": 34,
+      "headcount_2022_23": 34,
+      "headcount_2023_24": 37,
+      "institution": "Red River College",
+      "program_name": "Refrigeration and Air Conditioning Tech"
+    },
+    {
+      "headcount_2018_19": 76,
+      "headcount_2019_20": 90,
+      "headcount_2020_21": 89,
+      "headcount_2021_22": 61,
+      "headcount_2022_23": 79,
+      "headcount_2023_24": 88,
+      "institution": "Red River College",
+      "program_name": "Science Laboratory Technology"
+    },
+    {
+      "headcount_2018_19": 15,
+      "headcount_2019_20": 6,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Social Enterprise"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 37,
+      "headcount_2020_21": 53,
+      "headcount_2021_22": 38,
+      "headcount_2022_23": 37,
+      "headcount_2023_24": 29,
+      "institution": "Red River College",
+      "program_name": "Social Innovation Comm Dev"
+    },
+    {
+      "headcount_2018_19": 70,
+      "headcount_2019_20": 72,
+      "headcount_2020_21": 70,
+      "headcount_2021_22": 46,
+      "headcount_2022_23": 41,
+      "headcount_2023_24": 36,
+      "institution": "Red River College",
+      "program_name": "Structural Engineering Technology"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 5,
+      "headcount_2020_21": 75,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 81,
+      "institution": "Red River College",
+      "program_name": "Technical Vocational Teacher Education"
+    },
+    {
+      "headcount_2018_19": 33,
+      "headcount_2019_20": 27,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Technology Management"
+    },
+    {
+      "headcount_2018_19": 18,
+      "headcount_2019_20": 9,
+      "headcount_2020_21": 11,
+      "headcount_2021_22": 13,
+      "headcount_2022_23": 10,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Tourism Management"
+    },
+    {
+      "headcount_2018_19": 26,
+      "headcount_2019_20": 25,
+      "headcount_2020_21": 24,
+      "headcount_2021_22": 23,
+      "headcount_2022_23": 25,
+      "headcount_2023_24": 35,
+      "institution": "Red River College",
+      "program_name": "Ultrasound - Diagnostic Medical Sonography"
+    },
+    {
+      "headcount_2018_19": 57,
+      "headcount_2019_20": 57,
+      "headcount_2020_21": 53,
+      "headcount_2021_22": 51,
+      "headcount_2022_23": 51,
+      "headcount_2023_24": 59,
+      "institution": "Red River College",
+      "program_name": "Veterinary Technology"
+    },
+    {
+      "headcount_2018_19": 36,
+      "headcount_2019_20": 35,
+      "headcount_2020_21": 16,
+      "headcount_2021_22": 17,
+      "headcount_2022_23": 48,
+      "headcount_2023_24": 65,
+      "institution": "Red River College",
+      "program_name": "Welding"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 16,
+      "headcount_2023_24": 0,
+      "institution": "Red River College",
+      "program_name": "Youth Recreation Activity Worker"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 13,
+      "headcount_2020_21": 3,
+      "headcount_2021_22": 7,
+      "headcount_2022_23": 15,
+      "headcount_2023_24": 23,
+      "institution": "Assiniboine Community College",
+      "program_name": "Accounting"
+    },
+    {
+      "headcount_2018_19": 46,
+      "headcount_2019_20": 22,
+      "headcount_2020_21": 7,
+      "headcount_2021_22": 2,
+      "headcount_2022_23": 1,
+      "headcount_2023_24": 1,
+      "institution": "Assiniboine Community College",
+      "program_name": "Accounting and Finance"
+    },
+    {
+      "headcount_2018_19": 111,
+      "headcount_2019_20": 116,
+      "headcount_2020_21": 118,
+      "headcount_2021_22": 105,
+      "headcount_2022_23": 103,
+      "headcount_2023_24": 101,
+      "institution": "Assiniboine Community College",
+      "program_name": "Agribusiness"
+    },
+    {
+      "headcount_2018_19": 86,
+      "headcount_2019_20": 89,
+      "headcount_2020_21": 91,
+      "headcount_2021_22": 81,
+      "headcount_2022_23": 74,
+      "headcount_2023_24": 70,
+      "institution": "Assiniboine Community College",
+      "program_name": "Agricultural Equipment Technician Apprentice"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 1,
+      "headcount_2022_23": 1,
+      "headcount_2023_24": 0,
+      "institution": "Assiniboine Community College",
+      "program_name": "Applied Building Construction"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 12,
+      "headcount_2021_22": 6,
+      "headcount_2022_23": 12,
+      "headcount_2023_24": 0,
+      "institution": "Assiniboine Community College",
+      "program_name": "Applied Electrical Installation"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 16,
+      "headcount_2023_24": 0,
+      "institution": "Assiniboine Community College",
+      "program_name": "Applied Plumbing Installation"
+    },
+    {
+      "headcount_2018_19": 58,
+      "headcount_2019_20": 36,
+      "headcount_2020_21": 75,
+      "headcount_2021_22": 40,
+      "headcount_2022_23": 43,
+      "headcount_2023_24": 31,
+      "institution": "Assiniboine Community College",
+      "program_name": "Automotive Service Technician Apprentice"
+    },
+    {
+      "headcount_2018_19": 17,
+      "headcount_2019_20": 13,
+      "headcount_2020_21": 12,
+      "headcount_2021_22": 15,
+      "headcount_2022_23": 27,
+      "headcount_2023_24": 32,
+      "institution": "Assiniboine Community College",
+      "program_name": "Automotive Technician"
+    },
+    {
+      "headcount_2018_19": 381,
+      "headcount_2019_20": 317,
+      "headcount_2020_21": 303,
+      "headcount_2021_22": 280,
+      "headcount_2022_23": 304,
+      "headcount_2023_24": 350,
+      "institution": "Assiniboine Community College",
+      "program_name": "Business Administration"
+    },
+    {
+      "headcount_2018_19": 115,
+      "headcount_2019_20": 83,
+      "headcount_2020_21": 75,
+      "headcount_2021_22": 51,
+      "headcount_2022_23": 56,
+      "headcount_2023_24": 66,
+      "institution": "Assiniboine Community College",
+      "program_name": "Carpenter Apprentice"
+    },
+    {
+      "headcount_2018_19": 24,
+      "headcount_2019_20": 27,
+      "headcount_2020_21": 29,
+      "headcount_2021_22": 28,
+      "headcount_2022_23": 20,
+      "headcount_2023_24": 29,
+      "institution": "Assiniboine Community College",
+      "program_name": "Carpentry and Woodworking"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 207,
+      "institution": "Assiniboine Community College",
+      "program_name": "Child Care Assistant"
+    },
+    {
+      "headcount_2018_19": 32,
+      "headcount_2019_20": 32,
+      "headcount_2020_21": 17,
+      "headcount_2021_22": 25,
+      "headcount_2022_23": 24,
+      "headcount_2023_24": 23,
+      "institution": "Assiniboine Community College",
+      "program_name": "Civil Technician"
+    },
+    {
+      "headcount_2018_19": 19,
+      "headcount_2019_20": 19,
+      "headcount_2020_21": 11,
+      "headcount_2021_22": 17,
+      "headcount_2022_23": 11,
+      "headcount_2023_24": 14,
+      "institution": "Assiniboine Community College",
+      "program_name": "Communications Engineering Technology"
+    },
+    {
+      "headcount_2018_19": 155,
+      "headcount_2019_20": 143,
+      "headcount_2020_21": 124,
+      "headcount_2021_22": 84,
+      "headcount_2022_23": 47,
+      "headcount_2023_24": 72,
+      "institution": "Assiniboine Community College",
+      "program_name": "Comprehensive Health Care Aide"
+    },
+    {
+      "headcount_2018_19": 55,
+      "headcount_2019_20": 60,
+      "headcount_2020_21": 49,
+      "headcount_2021_22": 53,
+      "headcount_2022_23": 151,
+      "headcount_2023_24": 213,
+      "institution": "Assiniboine Community College",
+      "program_name": "Comprehensive Health Care Aide Challenge"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Assiniboine Community College",
+      "program_name": "Computer Systems Technology"
+    },
+    {
+      "headcount_2018_19": 15,
+      "headcount_2019_20": 16,
+      "headcount_2020_21": 15,
+      "headcount_2021_22": 16,
+      "headcount_2022_23": 16,
+      "headcount_2023_24": 29,
+      "institution": "Assiniboine Community College",
+      "program_name": "Construction Electrician"
+    },
+    {
+      "headcount_2018_19": 137,
+      "headcount_2019_20": 103,
+      "headcount_2020_21": 140,
+      "headcount_2021_22": 105,
+      "headcount_2022_23": 95,
+      "headcount_2023_24": 81,
+      "institution": "Assiniboine Community College",
+      "program_name": "Construction Electrician Apprentice"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 8,
+      "headcount_2020_21": 6,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Assiniboine Community College",
+      "program_name": "Cook Level 1"
+    },
+    {
+      "headcount_2018_19": 62,
+      "headcount_2019_20": 36,
+      "headcount_2020_21": 27,
+      "headcount_2021_22": 29,
+      "headcount_2022_23": 31,
+      "headcount_2023_24": 47,
+      "institution": "Assiniboine Community College",
+      "program_name": "Culinary Arts"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 21,
+      "headcount_2022_23": 36,
+      "headcount_2023_24": 32,
+      "institution": "Assiniboine Community College",
+      "program_name": "Digital Art and Design"
+    },
+    {
+      "headcount_2018_19": 243,
+      "headcount_2019_20": 189,
+      "headcount_2020_21": 150,
+      "headcount_2021_22": 125,
+      "headcount_2022_23": 120,
+      "headcount_2023_24": 151,
+      "institution": "Assiniboine Community College",
+      "program_name": "Early Childhood Education"
+    },
+    {
+      "headcount_2018_19": 192,
+      "headcount_2019_20": 156,
+      "headcount_2020_21": 82,
+      "headcount_2021_22": 58,
+      "headcount_2022_23": 32,
+      "headcount_2023_24": 16,
+      "institution": "Assiniboine Community College",
+      "program_name": "Early Childhood Program Management"
+    },
+    {
+      "headcount_2018_19": 118,
+      "headcount_2019_20": 92,
+      "headcount_2020_21": 53,
+      "headcount_2021_22": 18,
+      "headcount_2022_23": 6,
+      "headcount_2023_24": 1,
+      "institution": "Assiniboine Community College",
+      "program_name": "Education Assistant"
+    },
+    {
+      "headcount_2018_19": 2,
+      "headcount_2019_20": 1,
+      "headcount_2020_21": 4,
+      "headcount_2021_22": 3,
+      "headcount_2022_23": 3,
+      "headcount_2023_24": 4,
+      "institution": "Assiniboine Community College",
+      "program_name": "Electronic Technician"
+    },
+    {
+      "headcount_2018_19": 38,
+      "headcount_2019_20": 41,
+      "headcount_2020_21": 30,
+      "headcount_2021_22": 31,
+      "headcount_2022_23": 20,
+      "headcount_2023_24": 0,
+      "institution": "Assiniboine Community College",
+      "program_name": "Environmental Technologies"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 8,
+      "headcount_2020_21": 4,
+      "headcount_2021_22": 2,
+      "headcount_2022_23": 2,
+      "headcount_2023_24": 11,
+      "institution": "Assiniboine Community College",
+      "program_name": "Finance"
+    },
+    {
+      "headcount_2018_19": 5,
+      "headcount_2019_20": 15,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 13,
+      "headcount_2023_24": 8,
+      "institution": "Assiniboine Community College",
+      "program_name": "Gas Fitter \"B\" Apprentice"
+    },
+    {
+      "headcount_2018_19": 83,
+      "headcount_2019_20": 58,
+      "headcount_2020_21": 12,
+      "headcount_2021_22": 2,
+      "headcount_2022_23": 1,
+      "headcount_2023_24": 0,
+      "institution": "Assiniboine Community College",
+      "program_name": "General Business"
+    },
+    {
+      "headcount_2018_19": 19,
+      "headcount_2019_20": 26,
+      "headcount_2020_21": 9,
+      "headcount_2021_22": 11,
+      "headcount_2022_23": 4,
+      "headcount_2023_24": 11,
+      "institution": "Assiniboine Community College",
+      "program_name": "Geographic Information Systems"
+    },
+    {
+      "headcount_2018_19": 1,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Assiniboine Community College",
+      "program_name": "GIS Environmental Technology"
+    },
+    {
+      "headcount_2018_19": 54,
+      "headcount_2019_20": 51,
+      "headcount_2020_21": 5,
+      "headcount_2021_22": 2,
+      "headcount_2022_23": 1,
+      "headcount_2023_24": 0,
+      "institution": "Assiniboine Community College",
+      "program_name": "Heavy Duty Equipment Technician"
+    },
+    {
+      "headcount_2018_19": 188,
+      "headcount_2019_20": 153,
+      "headcount_2020_21": 166,
+      "headcount_2021_22": 136,
+      "headcount_2022_23": 127,
+      "headcount_2023_24": 142,
+      "institution": "Assiniboine Community College",
+      "program_name": "Heavy Duty Equipment Technician Apprentice"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 27,
+      "headcount_2021_22": 26,
+      "headcount_2022_23": 22,
+      "headcount_2023_24": 30,
+      "institution": "Assiniboine Community College",
+      "program_name": "Heavy Equipment Technician"
+    },
+    {
+      "headcount_2018_19": 4,
+      "headcount_2019_20": 4,
+      "headcount_2020_21": 1,
+      "headcount_2021_22": 1,
+      "headcount_2022_23": 1,
+      "headcount_2023_24": 5,
+      "institution": "Assiniboine Community College",
+      "program_name": "High School Diploma"
+    },
+    {
+      "headcount_2018_19": 7,
+      "headcount_2019_20": 4,
+      "headcount_2020_21": 11,
+      "headcount_2021_22": 14,
+      "headcount_2022_23": 16,
+      "headcount_2023_24": 26,
+      "institution": "Assiniboine Community College",
+      "program_name": "Horticultural Production"
+    },
+    {
+      "headcount_2018_19": 105,
+      "headcount_2019_20": 57,
+      "headcount_2020_21": 43,
+      "headcount_2021_22": 38,
+      "headcount_2022_23": 29,
+      "headcount_2023_24": 8,
+      "institution": "Assiniboine Community College",
+      "program_name": "Hotel and Restaurant Management"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 9,
+      "headcount_2020_21": 5,
+      "headcount_2021_22": 18,
+      "headcount_2022_23": 12,
+      "headcount_2023_24": 31,
+      "institution": "Assiniboine Community College",
+      "program_name": "Human Resource Management"
+    },
+    {
+      "headcount_2018_19": 20,
+      "headcount_2019_20": 30,
+      "headcount_2020_21": 26,
+      "headcount_2021_22": 19,
+      "headcount_2022_23": 15,
+      "headcount_2023_24": 13,
+      "institution": "Assiniboine Community College",
+      "program_name": "Industrial Metals Fabrication"
+    },
+    {
+      "headcount_2018_19": 70,
+      "headcount_2019_20": 77,
+      "headcount_2020_21": 48,
+      "headcount_2021_22": 17,
+      "headcount_2022_23": 2,
+      "headcount_2023_24": 0,
+      "institution": "Assiniboine Community College",
+      "program_name": "Interactive Media Arts"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 24,
+      "institution": "Assiniboine Community College",
+      "program_name": "John Deere TECH"
+    },
+    {
+      "headcount_2018_19": 16,
+      "headcount_2019_20": 11,
+      "headcount_2020_21": 20,
+      "headcount_2021_22": 23,
+      "headcount_2022_23": 20,
+      "headcount_2023_24": 20,
+      "institution": "Assiniboine Community College",
+      "program_name": "Legal Administration"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 10,
+      "headcount_2020_21": 6,
+      "headcount_2021_22": 5,
+      "headcount_2022_23": 8,
+      "headcount_2023_24": 9,
+      "institution": "Assiniboine Community College",
+      "program_name": "Marketing"
+    },
+    {
+      "headcount_2018_19": 288,
+      "headcount_2019_20": 269,
+      "headcount_2020_21": 202,
+      "headcount_2021_22": 235,
+      "headcount_2022_23": 334,
+      "headcount_2023_24": 307,
+      "institution": "Assiniboine Community College",
+      "program_name": "Mature Student High School"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 13,
+      "headcount_2022_23": 20,
+      "headcount_2023_24": 26,
+      "institution": "Assiniboine Community College",
+      "program_name": "Media and Communications"
+    },
+    {
+      "headcount_2018_19": 24,
+      "headcount_2019_20": 34,
+      "headcount_2020_21": 36,
+      "headcount_2021_22": 49,
+      "headcount_2022_23": 47,
+      "headcount_2023_24": 48,
+      "institution": "Assiniboine Community College",
+      "program_name": "Medical Administration"
+    },
+    {
+      "headcount_2018_19": 2,
+      "headcount_2019_20": 3,
+      "headcount_2020_21": 1,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Assiniboine Community College",
+      "program_name": "Network Administration Technician"
+    },
+    {
+      "headcount_2018_19": 38,
+      "headcount_2019_20": 36,
+      "headcount_2020_21": 33,
+      "headcount_2021_22": 30,
+      "headcount_2022_23": 43,
+      "headcount_2023_24": 68,
+      "institution": "Assiniboine Community College",
+      "program_name": "Network Administration Technology"
+    },
+    {
+      "headcount_2018_19": 2,
+      "headcount_2019_20": 1,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Assiniboine Community College",
+      "program_name": "Office Administration"
+    },
+    {
+      "headcount_2018_19": 12,
+      "headcount_2019_20": 21,
+      "headcount_2020_21": 14,
+      "headcount_2021_22": 14,
+      "headcount_2022_23": 13,
+      "headcount_2023_24": 16,
+      "institution": "Assiniboine Community College",
+      "program_name": "Office Management"
+    },
+    {
+      "headcount_2018_19": 19,
+      "headcount_2019_20": 50,
+      "headcount_2020_21": 55,
+      "headcount_2021_22": 57,
+      "headcount_2022_23": 63,
+      "headcount_2023_24": 80,
+      "institution": "Assiniboine Community College",
+      "program_name": "Office Skills"
+    },
+    {
+      "headcount_2018_19": 13,
+      "headcount_2019_20": 16,
+      "headcount_2020_21": 12,
+      "headcount_2021_22": 13,
+      "headcount_2022_23": 13,
+      "headcount_2023_24": 14,
+      "institution": "Assiniboine Community College",
+      "program_name": "Piping Trades"
+    },
+    {
+      "headcount_2018_19": 48,
+      "headcount_2019_20": 28,
+      "headcount_2020_21": 50,
+      "headcount_2021_22": 46,
+      "headcount_2022_23": 44,
+      "headcount_2023_24": 58,
+      "institution": "Assiniboine Community College",
+      "program_name": "Plumber Apprentice"
+    },
+    {
+      "headcount_2018_19": 61,
+      "headcount_2019_20": 35,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Assiniboine Community College",
+      "program_name": "PN Qualification Recognition"
+    },
+    {
+      "headcount_2018_19": 16,
+      "headcount_2019_20": 20,
+      "headcount_2020_21": 19,
+      "headcount_2021_22": 1,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Assiniboine Community College",
+      "program_name": "Police Studies"
+    },
+    {
+      "headcount_2018_19": 15,
+      "headcount_2019_20": 15,
+      "headcount_2020_21": 16,
+      "headcount_2021_22": 23,
+      "headcount_2022_23": 25,
+      "headcount_2023_24": 23,
+      "institution": "Assiniboine Community College",
+      "program_name": "Power Engineering"
+    },
+    {
+      "headcount_2018_19": 409,
+      "headcount_2019_20": 402,
+      "headcount_2020_21": 429,
+      "headcount_2021_22": 398,
+      "headcount_2022_23": 467,
+      "headcount_2023_24": 537,
+      "institution": "Assiniboine Community College",
+      "program_name": "Practical Nursing"
+    },
+    {
+      "headcount_2018_19": 5,
+      "headcount_2019_20": 3,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "Assiniboine Community College",
+      "program_name": "Practical Nursing Refresher"
+    },
+    {
+      "headcount_2018_19": 23,
+      "headcount_2019_20": 5,
+      "headcount_2020_21": 5,
+      "headcount_2021_22": 8,
+      "headcount_2022_23": 5,
+      "headcount_2023_24": 13,
+      "institution": "Assiniboine Community College",
+      "program_name": "Professional Cooking"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 12,
+      "headcount_2022_23": 17,
+      "headcount_2023_24": 12,
+      "institution": "Assiniboine Community College",
+      "program_name": "Public Safety"
+    },
+    {
+      "headcount_2018_19": 45,
+      "headcount_2019_20": 50,
+      "headcount_2020_21": 51,
+      "headcount_2021_22": 50,
+      "headcount_2022_23": 53,
+      "headcount_2023_24": 55,
+      "institution": "Assiniboine Community College",
+      "program_name": "Social Service Worker"
+    },
+    {
+      "headcount_2018_19": 20,
+      "headcount_2019_20": 37,
+      "headcount_2020_21": 17,
+      "headcount_2021_22": 9,
+      "headcount_2022_23": 15,
+      "headcount_2023_24": 26,
+      "institution": "Assiniboine Community College",
+      "program_name": "Sustainable Food Systems"
+    },
+    {
+      "headcount_2018_19": 410,
+      "headcount_2019_20": 320,
+      "headcount_2020_21": 40,
+      "headcount_2021_22": 12,
+      "headcount_2022_23": 13,
+      "headcount_2023_24": 12,
+      "institution": "Assiniboine Community College",
+      "program_name": "Undeclared"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 12,
+      "headcount_2022_23": 26,
+      "headcount_2023_24": 29,
+      "institution": "Assiniboine Community College",
+      "program_name": "Web and Interactive Development"
+    },
+    {
+      "headcount_2018_19": 82,
+      "headcount_2019_20": 83,
+      "headcount_2020_21": 93,
+      "headcount_2021_22": 88,
+      "headcount_2022_23": 98,
+      "headcount_2023_24": 107,
+      "institution": "Assiniboine Community College",
+      "program_name": "Welder Apprentice"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 15,
+      "headcount_2023_24": 29,
+      "institution": "Assiniboine Community College",
+      "program_name": "Welding"
+    },
+    {
+      "headcount_2018_19": 49,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "University College of the North",
+      "program_name": "Aboriginal & Northern Counselling Skills"
+    },
+    {
+      "headcount_2018_19": 5,
+      "headcount_2019_20": 7,
+      "headcount_2020_21": 9,
+      "headcount_2021_22": 10,
+      "headcount_2022_23": 12,
+      "headcount_2023_24": 5,
+      "institution": "University College of the North",
+      "program_name": "Automotive Technician"
+    },
+    {
+      "headcount_2018_19": 2,
+      "headcount_2019_20": 11,
+      "headcount_2020_21": 1,
+      "headcount_2021_22": 2,
+      "headcount_2022_23": 9,
+      "headcount_2023_24": 1,
+      "institution": "University College of the North",
+      "program_name": "Basic Business Prinicpals"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 1,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "University College of the North",
+      "program_name": "Basic Electrical"
+    },
+    {
+      "headcount_2018_19": 85,
+      "headcount_2019_20": 108,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "University College of the North",
+      "program_name": "Business Administration/Core/Management"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 78,
+      "headcount_2021_22": 64,
+      "headcount_2022_23": 75,
+      "headcount_2023_24": 79,
+      "institution": "University College of the North",
+      "program_name": "Business Administration Diploma"
+    },
+    {
+      "headcount_2018_19": 17,
+      "headcount_2019_20": 10,
+      "headcount_2020_21": 22,
+      "headcount_2021_22": 15,
+      "headcount_2022_23": 16,
+      "headcount_2023_24": null,
+      "institution": "University College of the North",
+      "program_name": "Carpentry (Apprenticeship)"
+    },
+    {
+      "headcount_2018_19": 44,
+      "headcount_2019_20": 30,
+      "headcount_2020_21": 21,
+      "headcount_2021_22": 8,
+      "headcount_2022_23": 8,
+      "headcount_2023_24": 13,
+      "institution": "University College of the North",
+      "program_name": "Carpentry/Woodworking"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 1,
+      "headcount_2022_23": 12,
+      "headcount_2023_24": 11,
+      "institution": "University College of the North",
+      "program_name": "Certificate in Teaching Ininimowin"
+    },
+    {
+      "headcount_2018_19": 8,
+      "headcount_2019_20": 4,
+      "headcount_2020_21": 11,
+      "headcount_2021_22": 7,
+      "headcount_2022_23": 3,
+      "headcount_2023_24": 6,
+      "institution": "University College of the North",
+      "program_name": "Community Economic Development"
+    },
+    {
+      "headcount_2018_19": 12,
+      "headcount_2019_20": 12,
+      "headcount_2020_21": 6,
+      "headcount_2021_22": 9,
+      "headcount_2022_23": 5,
+      "headcount_2023_24": 11,
+      "institution": "University College of the North",
+      "program_name": "Culinary Arts"
+    },
+    {
+      "headcount_2018_19": 25,
+      "headcount_2019_20": 47,
+      "headcount_2020_21": 49,
+      "headcount_2021_22": 59,
+      "headcount_2022_23": 57,
+      "headcount_2023_24": 66,
+      "institution": "University College of the North",
+      "program_name": "Diploma in Practical Nursing"
+    },
+    {
+      "headcount_2018_19": 61,
+      "headcount_2019_20": 72,
+      "headcount_2020_21": 56,
+      "headcount_2021_22": 61,
+      "headcount_2022_23": 57,
+      "headcount_2023_24": 50,
+      "institution": "University College of the North",
+      "program_name": "Early Childhood Education"
+    },
+    {
+      "headcount_2018_19": 17,
+      "headcount_2019_20": 16,
+      "headcount_2020_21": 9,
+      "headcount_2021_22": 7,
+      "headcount_2022_23": 1,
+      "headcount_2023_24": null,
+      "institution": "University College of the North",
+      "program_name": "Early Learning and Child Care"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 204,
+      "headcount_2020_21": 106,
+      "headcount_2021_22": 103,
+      "headcount_2022_23": 132,
+      "headcount_2023_24": 58,
+      "institution": "University College of the North",
+      "program_name": "Educational Assistant Certificate"
+    },
+    {
+      "headcount_2018_19": 7,
+      "headcount_2019_20": 13,
+      "headcount_2020_21": 12,
+      "headcount_2021_22": 11,
+      "headcount_2022_23": 11,
+      "headcount_2023_24": 8,
+      "institution": "University College of the North",
+      "program_name": "Electrical Trades Fundamentals"
+    },
+    {
+      "headcount_2018_19": 11,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "University College of the North",
+      "program_name": "Facilities Basic Maintenance"
+    },
+    {
+      "headcount_2018_19": 3,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "University College of the North",
+      "program_name": "Facilities Technician"
+    },
+    {
+      "headcount_2018_19": 25,
+      "headcount_2019_20": 16,
+      "headcount_2020_21": 8,
+      "headcount_2021_22": 9,
+      "headcount_2022_23": 11,
+      "headcount_2023_24": 0,
+      "institution": "University College of the North",
+      "program_name": "General Studies -Adult Education"
+    },
+    {
+      "headcount_2018_19": 1365,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "University College of the North",
+      "program_name": "General Studies - Non-Program"
+    },
+    {
+      "headcount_2018_19": 69,
+      "headcount_2019_20": 35,
+      "headcount_2020_21": 24,
+      "headcount_2021_22": 47,
+      "headcount_2022_23": 15,
+      "headcount_2023_24": 44,
+      "institution": "University College of the North",
+      "program_name": "Health Care Aide"
+    },
+    {
+      "headcount_2018_19": 9,
+      "headcount_2019_20": 8,
+      "headcount_2020_21": 11,
+      "headcount_2021_22": 7,
+      "headcount_2022_23": 6,
+      "headcount_2023_24": 10,
+      "institution": "University College of the North",
+      "program_name": "Heavy Duty Mechanics"
+    },
+    {
+      "headcount_2018_19": 1,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "University College of the North",
+      "program_name": "High School Automotive Technician"
+    },
+    {
+      "headcount_2018_19": 22,
+      "headcount_2019_20": 14,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "University College of the North",
+      "program_name": "High School Building Construction"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 5,
+      "headcount_2020_21": 3,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 1,
+      "institution": "University College of the North",
+      "program_name": "High School Diploma"
+    },
+    {
+      "headcount_2018_19": 1,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "University College of the North",
+      "program_name": "High School Heavy Duty Mechanics"
+    },
+    {
+      "headcount_2018_19": 3,
+      "headcount_2019_20": 2,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "University College of the North",
+      "program_name": "High School Industrial Welding"
+    },
+    {
+      "headcount_2018_19": 36,
+      "headcount_2019_20": 23,
+      "headcount_2020_21": 27,
+      "headcount_2021_22": 27,
+      "headcount_2022_23": 15,
+      "headcount_2023_24": 14,
+      "institution": "University College of the North",
+      "program_name": "Industrial Electrical (Apprenticeship)"
+    },
+    {
+      "headcount_2018_19": 126,
+      "headcount_2019_20": 103,
+      "headcount_2020_21": 137,
+      "headcount_2021_22": 114,
+      "headcount_2022_23": 124,
+      "headcount_2023_24": 137,
+      "institution": "University College of the North",
+      "program_name": "Industrial Mechanic (Apprenticeship)"
+    },
+    {
+      "headcount_2018_19": 6,
+      "headcount_2019_20": 3,
+      "headcount_2020_21": 10,
+      "headcount_2021_22": 8,
+      "headcount_2022_23": 8,
+      "headcount_2023_24": 1,
+      "institution": "University College of the North",
+      "program_name": "Industrial Welding"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 8,
+      "headcount_2022_23": 4,
+      "headcount_2023_24": 4,
+      "institution": "University College of the North",
+      "program_name": "Information Technology Readiness North"
+    },
+    {
+      "headcount_2018_19": 8,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "University College of the North",
+      "program_name": "Ininiw Nekani Human Resource Management"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 20,
+      "headcount_2022_23": 15,
+      "headcount_2023_24": 18,
+      "institution": "University College of the North",
+      "program_name": "Intro to Construction Trades"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 1,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "University College of the North",
+      "program_name": "Introduction to Industry Certificate"
+    },
+    {
+      "headcount_2018_19": 10,
+      "headcount_2019_20": 14,
+      "headcount_2020_21": 12,
+      "headcount_2021_22": 10,
+      "headcount_2022_23": 13,
+      "headcount_2023_24": 4,
+      "institution": "University College of the North",
+      "program_name": "Law Enforcement/ correctional officer"
+    },
+    {
+      "headcount_2018_19": 81,
+      "headcount_2019_20": 100,
+      "headcount_2020_21": 77,
+      "headcount_2021_22": 58,
+      "headcount_2022_23": 58,
+      "headcount_2023_24": 92,
+      "institution": "University College of the North",
+      "program_name": "Mature High School Diploma"
+    },
+    {
+      "headcount_2018_19": 43,
+      "headcount_2019_20": 35,
+      "headcount_2020_21": 23,
+      "headcount_2021_22": 16,
+      "headcount_2022_23": 18,
+      "headcount_2023_24": 18,
+      "institution": "University College of the North",
+      "program_name": "Natural Resource Mgmt. Technology"
+    },
+    {
+      "headcount_2018_19": 36,
+      "headcount_2019_20": 38,
+      "headcount_2020_21": 33,
+      "headcount_2021_22": 30,
+      "headcount_2022_23": 22,
+      "headcount_2023_24": 22,
+      "institution": "University College of the North",
+      "program_name": "Office Assistant"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 6,
+      "headcount_2023_24": 5,
+      "institution": "University College of the North",
+      "program_name": "Preparation for Diploma Practical Nursing"
+    },
+    {
+      "headcount_2018_19": 11,
+      "headcount_2019_20": 6,
+      "headcount_2020_21": 13,
+      "headcount_2021_22": 9,
+      "headcount_2022_23": 5,
+      "headcount_2023_24": 0,
+      "institution": "University College of the North",
+      "program_name": "Primary Care Paramedic"
+    },
+    {
+      "headcount_2018_19": 1,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 0,
+      "institution": "University College of the North",
+      "program_name": "Welder Training Level 1"
+    },
+    {
+      "headcount_2018_19": 82,
+      "headcount_2019_20": 95,
+      "headcount_2020_21": 89,
+      "headcount_2021_22": 63,
+      "headcount_2022_23": 121,
+      "headcount_2023_24": 210,
+      "institution": "École technique et professionnelle",
+      "program_name": "Administration des affaires (Business Administration)"
+    },
+    {
+      "headcount_2018_19": 4,
+      "headcount_2019_20": 2,
+      "headcount_2020_21": 3,
+      "headcount_2021_22": 6,
+      "headcount_2022_23": 6,
+      "headcount_2023_24": 2,
+      "institution": "École technique et professionnelle",
+      "program_name": "Aide en soins de santé (Health Care Aide)"
+    },
+    {
+      "headcount_2018_19": 0,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 0,
+      "headcount_2021_22": 0,
+      "headcount_2022_23": 0,
+      "headcount_2023_24": 26,
+      "institution": "École technique et professionnelle",
+      "program_name": "Certificat d'auxiliaire d'enseignement (Teaching Assistant)"
+    },
+    {
+      "headcount_2018_19": 7,
+      "headcount_2019_20": 13,
+      "headcount_2020_21": 10,
+      "headcount_2021_22": 5,
+      "headcount_2022_23": 6,
+      "headcount_2023_24": 13,
+      "institution": "École technique et professionnelle",
+      "program_name": "Communication multimédia (Multimedia communications)"
+    },
+    {
+      "headcount_2018_19": 23,
+      "headcount_2019_20": 22,
+      "headcount_2020_21": 28,
+      "headcount_2021_22": 27,
+      "headcount_2022_23": 34,
+      "headcount_2023_24": 37,
+      "institution": "École technique et professionnelle",
+      "program_name": "Diplôme en éducation de la jeune enfance (Early Childhood Education)"
+    },
+    {
+      "headcount_2018_19": 22,
+      "headcount_2019_20": 37,
+      "headcount_2020_21": 33,
+      "headcount_2021_22": 16,
+      "headcount_2022_23": 63,
+      "headcount_2023_24": 74,
+      "institution": "École technique et professionnelle",
+      "program_name": "Éducation permanente (Extended Education)"
+    },
+    {
+      "headcount_2018_19": 10,
+      "headcount_2019_20": 7,
+      "headcount_2020_21": 5,
+      "headcount_2021_22": 2,
+      "headcount_2022_23": 1,
+      "headcount_2023_24": 3,
+      "institution": "École technique et professionnelle",
+      "program_name": "Gestion du tourisme (Tourism)"
+    },
+    {
+      "headcount_2018_19": 6,
+      "headcount_2019_20": 0,
+      "headcount_2020_21": 15,
+      "headcount_2021_22": 20,
+      "headcount_2022_23": 31,
+      "headcount_2023_24": 52,
+      "institution": "École technique et professionnelle",
+      "program_name": "Informatique (Computer Analyst)"
+    },
+    {
+      "headcount_2018_19": 12,
+      "headcount_2019_20": 16,
+      "headcount_2020_21": 15,
+      "headcount_2021_22": 13,
+      "headcount_2022_23": 8,
+      "headcount_2023_24": 11,
+      "institution": "École technique et professionnelle",
+      "program_name": "Sciences infirmières auxiliaires (Diploma in Auxiliary Nursing Sciences)"
+    }
+  ],
+  "university_graduate_faculty_enrollment_rows": [
+    {
+      "enrollment_2018_19": 280,
+      "enrollment_2019_20": 303,
+      "enrollment_2020_21": 317,
+      "enrollment_2021_22": 326,
+      "enrollment_2022_23": 289,
+      "enrollment_2023_24": 313,
+      "faculty": "Faculty of Agricultural and Food Sciences",
+      "university": "University of Manitoba"
+    },
+    {
+      "enrollment_2018_19": 201,
+      "enrollment_2019_20": 207,
+      "enrollment_2020_21": 189,
+      "enrollment_2021_22": 194,
+      "enrollment_2022_23": 185,
+      "enrollment_2023_24": 215,
+      "faculty": "Faculty of Architecture",
+      "university": "University of Manitoba"
+    },
+    {
+      "enrollment_2018_19": 466,
+      "enrollment_2019_20": 453,
+      "enrollment_2020_21": 447,
+      "enrollment_2021_22": 456,
+      "enrollment_2022_23": 470,
+      "enrollment_2023_24": 11,
+      "faculty": "Faculty of Arts",
+      "university": "University of Manitoba"
+    },
+    {
+      "enrollment_2018_19": 8,
+      "enrollment_2019_20": 8,
+      "enrollment_2020_21": 11,
+      "enrollment_2021_22": 12,
+      "enrollment_2022_23": 9,
+      "enrollment_2023_24": 476,
+      "faculty": "Art, School of",
+      "university": "University of Manitoba"
+    },
+    {
+      "enrollment_2018_19": 223,
+      "enrollment_2019_20": 219,
+      "enrollment_2020_21": 196,
+      "enrollment_2021_22": 222,
+      "enrollment_2022_23": 279,
+      "enrollment_2023_24": 324,
+      "faculty": "Business, Asper School of",
+      "university": "University of Manitoba"
+    },
+    {
+      "enrollment_2018_19": 39,
+      "enrollment_2019_20": 41,
+      "enrollment_2020_21": 37,
+      "enrollment_2021_22": 37,
+      "enrollment_2022_23": 34,
+      "enrollment_2023_24": 31,
+      "faculty": "College of Dentistry",
+      "university": "University of Manitoba"
+    },
+    {
+      "enrollment_2018_19": 419,
+      "enrollment_2019_20": 388,
+      "enrollment_2020_21": 372,
+      "enrollment_2021_22": 414,
+      "enrollment_2022_23": 396,
+      "enrollment_2023_24": 404,
+      "faculty": "Faculty of Education",
+      "university": "University of Manitoba"
+    },
+    {
+      "enrollment_2018_19": 495,
+      "enrollment_2019_20": 499,
+      "enrollment_2020_21": 482,
+      "enrollment_2021_22": 452,
+      "enrollment_2022_23": 444,
+      "enrollment_2023_24": 402,
+      "faculty": "Faculty of Engineering",
+      "university": "University of Manitoba"
+    },
+    {
+      "enrollment_2018_19": 156,
+      "enrollment_2019_20": 147,
+      "enrollment_2020_21": 159,
+      "enrollment_2021_22": 167,
+      "enrollment_2022_23": 166,
+      "enrollment_2023_24": 161,
+      "faculty": "Faculty of Environment",
+      "university": "University of Manitoba"
+    },
+    {
+      "enrollment_2018_19": 127,
+      "enrollment_2019_20": 142,
+      "enrollment_2020_21": 140,
+      "enrollment_2021_22": 137,
+      "enrollment_2022_23": 138,
+      "enrollment_2023_24": 150,
+      "faculty": "Faculty of Graduate Studies",
+      "university": "University of Manitoba"
+    },
+    {
+      "enrollment_2018_19": 19,
+      "enrollment_2019_20": 36,
+      "enrollment_2020_21": 41,
+      "enrollment_2021_22": 43,
+      "enrollment_2022_23": 38,
+      "enrollment_2023_24": 39,
+      "faculty": "Faculty of Law",
+      "university": "University of Manitoba"
+    },
+    {
+      "enrollment_2018_19": 222,
+      "enrollment_2019_20": 226,
+      "enrollment_2020_21": 221,
+      "enrollment_2021_22": 224,
+      "enrollment_2022_23": 226,
+      "enrollment_2023_24": 219,
+      "faculty": "College of Rehabilitation Sci",
+      "university": "University of Manitoba"
+    },
+    {
+      "enrollment_2018_19": 357,
+      "enrollment_2019_20": 370,
+      "enrollment_2020_21": 368,
+      "enrollment_2021_22": 401,
+      "enrollment_2022_23": 384,
+      "enrollment_2023_24": 391,
+      "faculty": "Medicine, Max Rady College of",
+      "university": "University of Manitoba"
+    },
+    {
+      "enrollment_2018_19": 28,
+      "enrollment_2019_20": 31,
+      "enrollment_2020_21": 21,
+      "enrollment_2021_22": 25,
+      "enrollment_2022_23": 29,
+      "enrollment_2023_24": 42,
+      "faculty": "Faculty of Music",
+      "university": "University of Manitoba"
+    },
+    {
+      "enrollment_2018_19": 93,
+      "enrollment_2019_20": 111,
+      "enrollment_2020_21": 114,
+      "enrollment_2021_22": 118,
+      "enrollment_2022_23": 117,
+      "enrollment_2023_24": 125,
+      "faculty": "College of Nursing",
+      "university": "University of Manitoba"
+    },
+    {
+      "enrollment_2018_19": 19,
+      "enrollment_2019_20": 25,
+      "enrollment_2020_21": 27,
+      "enrollment_2021_22": 31,
+      "enrollment_2022_23": 38,
+      "enrollment_2023_24": 34,
+      "faculty": "College of Pharmacy",
+      "university": "University of Manitoba"
+    },
+    {
+      "enrollment_2018_19": 43,
+      "enrollment_2019_20": 54,
+      "enrollment_2020_21": 60,
+      "enrollment_2021_22": 51,
+      "enrollment_2022_23": 41,
+      "enrollment_2023_24": 35,
+      "faculty": "Faculty of Kines & Rec Mgmt",
+      "university": "University of Manitoba"
+    },
+    {
+      "enrollment_2018_19": 396,
+      "enrollment_2019_20": 422,
+      "enrollment_2020_21": 399,
+      "enrollment_2021_22": 449,
+      "enrollment_2022_23": 453,
+      "enrollment_2023_24": 417,
+      "faculty": "Faculty of Science",
+      "university": "University of Manitoba"
+    },
+    {
+      "enrollment_2018_19": 162,
+      "enrollment_2019_20": 169,
+      "enrollment_2020_21": 194,
+      "enrollment_2021_22": 172,
+      "enrollment_2022_23": 178,
+      "enrollment_2023_24": 175,
+      "faculty": "Faculty of Social Work",
+      "university": "University of Manitoba"
+    },
+    {
+      "enrollment_2018_19": 732,
+      "enrollment_2019_20": 729,
+      "enrollment_2020_21": 704,
+      "enrollment_2021_22": 694,
+      "enrollment_2022_23": 686,
+      "enrollment_2023_24": 705,
+      "faculty": "PGME",
+      "university": "University of Manitoba"
+    },
+    {
+      "enrollment_2018_19": 61,
+      "enrollment_2019_20": 69,
+      "enrollment_2020_21": 62,
+      "enrollment_2021_22": 53,
+      "enrollment_2022_23": 52,
+      "enrollment_2023_24": 49,
+      "faculty": "Master of Arts",
+      "university": "University of Winnipeg"
+    },
+    {
+      "enrollment_2018_19": 10,
+      "enrollment_2019_20": 9,
+      "enrollment_2020_21": 45,
+      "enrollment_2021_22": 49,
+      "enrollment_2022_23": 29,
+      "enrollment_2023_24": 35,
+      "faculty": "Business and Economics",
+      "university": "University of Winnipeg"
+    },
+    {
+      "enrollment_2018_19": 18,
+      "enrollment_2019_20": 0,
+      "enrollment_2020_21": 0,
+      "enrollment_2021_22": 0,
+      "enrollment_2022_23": 0,
+      "enrollment_2023_24": 0,
+      "faculty": "Master in Development Practice",
+      "university": "University of Winnipeg"
+    },
+    {
+      "enrollment_2018_19": 98,
+      "enrollment_2019_20": 94,
+      "enrollment_2020_21": 94,
+      "enrollment_2021_22": 84,
+      "enrollment_2022_23": 77,
+      "enrollment_2023_24": 65,
+      "faculty": "Master of Marriage & Family Therapy",
+      "university": "University of Winnipeg"
+    },
+    {
+      "enrollment_2018_19": 57,
+      "enrollment_2019_20": 65,
+      "enrollment_2020_21": 56,
+      "enrollment_2021_22": 70,
+      "enrollment_2022_23": 88,
+      "enrollment_2023_24": 86,
+      "faculty": "Master of Science",
+      "university": "University of Winnipeg"
+    },
+    {
+      "enrollment_2018_19": 1,
+      "enrollment_2019_20": 0,
+      "enrollment_2020_21": 2,
+      "enrollment_2021_22": 13,
+      "enrollment_2022_23": 15,
+      "enrollment_2023_24": 6,
+      "faculty": "Other",
+      "university": "University of Winnipeg"
+    },
+    {
+      "enrollment_2018_19": 28,
+      "enrollment_2019_20": 19,
+      "enrollment_2020_21": 22,
+      "enrollment_2021_22": 18,
+      "enrollment_2022_23": 26,
+      "enrollment_2023_24": 37,
+      "faculty": "Arts",
+      "university": "Brandon University"
+    },
+    {
+      "enrollment_2018_19": 246,
+      "enrollment_2019_20": 255,
+      "enrollment_2020_21": 264,
+      "enrollment_2021_22": 277,
+      "enrollment_2022_23": 275,
+      "enrollment_2023_24": 282,
+      "faculty": "Education",
+      "university": "Brandon University"
+    },
+    {
+      "enrollment_2018_19": 63,
+      "enrollment_2019_20": 66,
+      "enrollment_2020_21": 60,
+      "enrollment_2021_22": 51,
+      "enrollment_2022_23": 38,
+      "enrollment_2023_24": 47,
+      "faculty": "Health Studies",
+      "university": "Brandon University"
+    },
+    {
+      "enrollment_2018_19": 21,
+      "enrollment_2019_20": 16,
+      "enrollment_2020_21": 19,
+      "enrollment_2021_22": 14,
+      "enrollment_2022_23": 9,
+      "enrollment_2023_24": 14,
+      "faculty": "Music",
+      "university": "Brandon University"
+    },
+    {
+      "enrollment_2018_19": 23,
+      "enrollment_2019_20": 23,
+      "enrollment_2020_21": 23,
+      "enrollment_2021_22": 27,
+      "enrollment_2022_23": 23,
+      "enrollment_2023_24": 25,
+      "faculty": "Science",
+      "university": "Brandon University"
+    },
+    {
+      "enrollment_2018_19": 10,
+      "enrollment_2019_20": 7,
+      "enrollment_2020_21": 7,
+      "enrollment_2021_22": 11,
+      "enrollment_2022_23": 13,
+      "enrollment_2023_24": 13,
+      "faculty": "Arts",
+      "university": "Université de Saint-Boniface"
+    },
+    {
+      "enrollment_2018_19": 109,
+      "enrollment_2019_20": 94,
+      "enrollment_2020_21": 87,
+      "enrollment_2021_22": 95,
+      "enrollment_2022_23": 95,
+      "enrollment_2023_24": 107,
+      "faculty": "Éducation",
+      "university": "Université de Saint-Boniface"
+    }
+  ],
+  "university_undergraduate_faculty_degrees_rows": [
+    {
+      "degrees_2018": 66,
+      "degrees_2019": 58,
+      "degrees_2020": 64,
+      "degrees_2021": 55,
+      "degrees_2022": 41,
+      "degrees_2023": 32,
+      "faculty": "School of Agriculture",
+      "university": "University of Manitoba"
+    },
+    {
+      "degrees_2018": 173,
+      "degrees_2019": 196,
+      "degrees_2020": 166,
+      "degrees_2021": 158,
+      "degrees_2022": 134,
+      "degrees_2023": 164,
+      "faculty": "Agricultural & Food Sciences",
+      "university": "University of Manitoba"
+    },
+    {
+      "degrees_2018": 96,
+      "degrees_2019": 94,
+      "degrees_2020": 97,
+      "degrees_2021": 79,
+      "degrees_2022": 80,
+      "degrees_2023": 92,
+      "faculty": "Architecture",
+      "university": "University of Manitoba"
+    },
+    {
+      "degrees_2018": 1036,
+      "degrees_2019": 1013,
+      "degrees_2020": 986,
+      "degrees_2021": 1135,
+      "degrees_2022": 1165,
+      "degrees_2023": 1171,
+      "faculty": "Arts",
+      "university": "University of Manitoba"
+    },
+    {
+      "degrees_2018": 439,
+      "degrees_2019": 386,
+      "degrees_2020": 424,
+      "degrees_2021": 452,
+      "degrees_2022": 406,
+      "degrees_2023": 393,
+      "faculty": "Business, Asper School of",
+      "university": "University of Manitoba"
+    },
+    {
+      "degrees_2018": 10,
+      "degrees_2019": 2,
+      "degrees_2020": 0,
+      "degrees_2021": 0,
+      "degrees_2022": 4,
+      "degrees_2023": 0,
+      "faculty": "Extended Education",
+      "university": "University of Manitoba"
+    },
+    {
+      "degrees_2018": 27,
+      "degrees_2019": 29,
+      "degrees_2020": 29,
+      "degrees_2021": 27,
+      "degrees_2022": 26,
+      "degrees_2023": 28,
+      "faculty": "Dental Hygiene",
+      "university": "University of Manitoba"
+    },
+    {
+      "degrees_2018": 36,
+      "degrees_2019": 41,
+      "degrees_2020": 43,
+      "degrees_2021": 42,
+      "degrees_2022": 44,
+      "degrees_2023": 39,
+      "faculty": "Dentistry",
+      "university": "University of Manitoba"
+    },
+    {
+      "degrees_2018": 444,
+      "degrees_2019": 374,
+      "degrees_2020": 327,
+      "degrees_2021": 438,
+      "degrees_2022": 366,
+      "degrees_2023": 378,
+      "faculty": "Education",
+      "university": "University of Manitoba"
+    },
+    {
+      "degrees_2018": 306,
+      "degrees_2019": 290,
+      "degrees_2020": 314,
+      "degrees_2021": 326,
+      "degrees_2022": 301,
+      "degrees_2023": 241,
+      "faculty": "Engineering",
+      "university": "University of Manitoba"
+    },
+    {
+      "degrees_2018": 132,
+      "degrees_2019": 142,
+      "degrees_2020": 121,
+      "degrees_2021": 120,
+      "degrees_2022": 138,
+      "degrees_2023": 127,
+      "faculty": "Environment",
+      "university": "University of Manitoba"
+    },
+    {
+      "degrees_2018": 7,
+      "degrees_2019": 12,
+      "degrees_2020": 27,
+      "degrees_2021": 39,
+      "degrees_2022": 46,
+      "degrees_2023": 65,
+      "faculty": "Health Science & Health Studies",
+      "university": "University of Manitoba"
+    },
+    {
+      "degrees_2018": 97,
+      "degrees_2019": 102,
+      "degrees_2020": 98,
+      "degrees_2021": 104,
+      "degrees_2022": 98,
+      "degrees_2023": 98,
+      "faculty": "Law",
+      "university": "University of Manitoba"
+    },
+    {
+      "degrees_2018": 200,
+      "degrees_2019": 164,
+      "degrees_2020": 193,
+      "degrees_2021": 172,
+      "degrees_2022": 173,
+      "degrees_2023": 149,
+      "faculty": "Medicine",
+      "university": "University of Manitoba"
+    },
+    {
+      "degrees_2018": 16,
+      "degrees_2019": 12,
+      "degrees_2020": 17,
+      "degrees_2021": 13,
+      "degrees_2022": 18,
+      "degrees_2023": 13,
+      "faculty": "Medical Rehabilitation",
+      "university": "University of Manitoba"
+    },
+    {
+      "degrees_2018": 57,
+      "degrees_2019": 57,
+      "degrees_2020": 46,
+      "degrees_2021": 30,
+      "degrees_2022": 37,
+      "degrees_2023": 42,
+      "faculty": "Music",
+      "university": "University of Manitoba"
+    },
+    {
+      "degrees_2018": 154,
+      "degrees_2019": 251,
+      "degrees_2020": 243,
+      "degrees_2021": 236,
+      "degrees_2022": 243,
+      "degrees_2023": 240,
+      "faculty": "Nursing",
+      "university": "University of Manitoba"
+    },
+    {
+      "degrees_2018": 52,
+      "degrees_2019": 47,
+      "degrees_2020": 47,
+      "degrees_2021": 45,
+      "degrees_2022": 1,
+      "degrees_2023": 49,
+      "faculty": "Pharmacy",
+      "university": "University of Manitoba"
+    },
+    {
+      "degrees_2018": 129,
+      "degrees_2019": 117,
+      "degrees_2020": 131,
+      "degrees_2021": 125,
+      "degrees_2022": 137,
+      "degrees_2023": 137,
+      "faculty": "Kinesiology & Recreation Management",
+      "university": "University of Manitoba"
+    },
+    {
+      "degrees_2018": 61,
+      "degrees_2019": 55,
+      "degrees_2020": 42,
+      "degrees_2021": 61,
+      "degrees_2022": 60,
+      "degrees_2023": 53,
+      "faculty": "School of Art",
+      "university": "University of Manitoba"
+    },
+    {
+      "degrees_2018": 619,
+      "degrees_2019": 606,
+      "degrees_2020": 664,
+      "degrees_2021": 690,
+      "degrees_2022": 746,
+      "degrees_2023": 773,
+      "faculty": "Science",
+      "university": "University of Manitoba"
+    },
+    {
+      "degrees_2018": 215,
+      "degrees_2019": 205,
+      "degrees_2020": 194,
+      "degrees_2021": 201,
+      "degrees_2022": 229,
+      "degrees_2023": 215,
+      "faculty": "Social Work",
+      "university": "University of Manitoba"
+    },
+    {
+      "degrees_2018": 583,
+      "degrees_2019": 635,
+      "degrees_2020": 540,
+      "degrees_2021": 574,
+      "degrees_2022": 562,
+      "degrees_2023": 633,
+      "faculty": "Arts",
+      "university": "University of Winnipeg"
+    },
+    {
+      "degrees_2018": 272,
+      "degrees_2019": 238,
+      "degrees_2020": 259,
+      "degrees_2021": 279,
+      "degrees_2022": 254,
+      "degrees_2023": 259,
+      "faculty": "Business",
+      "university": "University of Winnipeg"
+    },
+    {
+      "degrees_2018": 378,
+      "degrees_2019": 335,
+      "degrees_2020": 366,
+      "degrees_2021": 329,
+      "degrees_2022": 398,
+      "degrees_2023": 404,
+      "faculty": "Education",
+      "university": "University of Winnipeg"
+    },
+    {
+      "degrees_2018": 304,
+      "degrees_2019": 269,
+      "degrees_2020": 264,
+      "degrees_2021": 346,
+      "degrees_2022": 393,
+      "degrees_2023": 418,
+      "faculty": "Science",
+      "university": "University of Winnipeg"
+    },
+    {
+      "degrees_2018": 114,
+      "degrees_2019": 100,
+      "degrees_2020": 96,
+      "degrees_2021": 107,
+      "degrees_2022": 110,
+      "degrees_2023": 124,
+      "faculty": "Kinesiology",
+      "university": "University of Winnipeg"
+    },
+    {
+      "degrees_2018": 155,
+      "degrees_2019": 151,
+      "degrees_2020": 148,
+      "degrees_2021": 152,
+      "degrees_2022": 165,
+      "degrees_2023": 165,
+      "faculty": "Arts",
+      "university": "Brandon University"
+    },
+    {
+      "degrees_2018": 110,
+      "degrees_2019": 133,
+      "degrees_2020": 140,
+      "degrees_2021": 146,
+      "degrees_2022": 148,
+      "degrees_2023": 157,
+      "faculty": "Education",
+      "university": "Brandon University"
+    },
+    {
+      "degrees_2018": 134,
+      "degrees_2019": 115,
+      "degrees_2020": 105,
+      "degrees_2021": 99,
+      "degrees_2022": 126,
+      "degrees_2023": 101,
+      "faculty": "Health Studies",
+      "university": "Brandon University"
+    },
+    {
+      "degrees_2018": 30,
+      "degrees_2019": 19,
+      "degrees_2020": 23,
+      "degrees_2021": 25,
+      "degrees_2022": 25,
+      "degrees_2023": 13,
+      "faculty": "Music",
+      "university": "Brandon University"
+    },
+    {
+      "degrees_2018": 77,
+      "degrees_2019": 77,
+      "degrees_2020": 86,
+      "degrees_2021": 89,
+      "degrees_2022": 93,
+      "degrees_2023": 94,
+      "faculty": "Science",
+      "university": "Brandon University"
+    },
+    {
+      "degrees_2018": 26,
+      "degrees_2019": 31,
+      "degrees_2020": 19,
+      "degrees_2021": 26,
+      "degrees_2022": 22,
+      "degrees_2023": 24,
+      "faculty": "Arts Business and Science",
+      "university": "University College of The North"
+    },
+    {
+      "degrees_2018": 18,
+      "degrees_2019": 33,
+      "degrees_2020": 21,
+      "degrees_2021": 75,
+      "degrees_2022": 29,
+      "degrees_2023": 16,
+      "faculty": "Education",
+      "university": "University College of The North"
+    },
+    {
+      "degrees_2018": 21,
+      "degrees_2019": 23,
+      "degrees_2020": 33,
+      "degrees_2021": 0,
+      "degrees_2022": 0,
+      "degrees_2023": 0,
+      "faculty": "Health",
+      "university": "University College of The North"
+    },
+    {
+      "degrees_2018": 56,
+      "degrees_2019": 83,
+      "degrees_2020": 63,
+      "degrees_2021": 74,
+      "degrees_2022": 77,
+      "degrees_2023": 69,
+      "faculty": "Faculté des arts",
+      "university": "Université de Saint-Boniface"
+    },
+    {
+      "degrees_2018": 10,
+      "degrees_2019": 10,
+      "degrees_2020": 16,
+      "degrees_2021": 19,
+      "degrees_2022": 20,
+      "degrees_2023": 20,
+      "faculty": "Faculté des sciences",
+      "university": "Université de Saint-Boniface"
+    },
+    {
+      "degrees_2018": 84,
+      "degrees_2019": 65,
+      "degrees_2020": 67,
+      "degrees_2021": 65,
+      "degrees_2022": 55,
+      "degrees_2023": 75,
+      "faculty": "Faculté d'éducation",
+      "university": "Université de Saint-Boniface"
+    },
+    {
+      "degrees_2018": 14,
+      "degrees_2019": 9,
+      "degrees_2020": 16,
+      "degrees_2021": 15,
+      "degrees_2022": 13,
+      "degrees_2023": 10,
+      "faculty": "École de traduction",
+      "university": "Université de Saint-Boniface"
+    },
+    {
+      "degrees_2018": 16,
+      "degrees_2019": 17,
+      "degrees_2020": 21,
+      "degrees_2021": 21,
+      "degrees_2022": 16,
+      "degrees_2023": 18,
+      "faculty": "École d'administration des affaires",
+      "university": "Université de Saint-Boniface"
+    },
+    {
+      "degrees_2018": 17,
+      "degrees_2019": 17,
+      "degrees_2020": 28,
+      "degrees_2021": 22,
+      "degrees_2022": 23,
+      "degrees_2023": 34,
+      "faculty": "École des sciences infirmières et des études de la santé",
+      "university": "Université de Saint-Boniface"
+    },
+    {
+      "degrees_2018": 9,
+      "degrees_2019": 9,
+      "degrees_2020": 10,
+      "degrees_2021": 6,
+      "degrees_2022": 12,
+      "degrees_2023": 11,
+      "faculty": "École de travail social",
+      "university": "Université de Saint-Boniface"
+    }
+  ],
+  "university_undergraduate_faculty_enrollment_rows": [
+    {
+      "enrollment_2018_19": 711,
+      "enrollment_2019_20": 657,
+      "enrollment_2020_21": 663,
+      "enrollment_2021_22": 732,
+      "enrollment_2022_23": 732,
+      "enrollment_2023_24": 688,
+      "faculty": "Agricultural & Food Sciences- Degree",
+      "university": "University of Manitoba"
+    },
+    {
+      "enrollment_2018_19": 154,
+      "enrollment_2019_20": 154,
+      "enrollment_2020_21": 135,
+      "enrollment_2021_22": 99,
+      "enrollment_2022_23": 103,
+      "enrollment_2023_24": 123,
+      "faculty": "School of Agriculture",
+      "university": "University of Manitoba"
+    },
+    {
+      "enrollment_2018_19": 307,
+      "enrollment_2019_20": 303,
+      "enrollment_2020_21": 285,
+      "enrollment_2021_22": 286,
+      "enrollment_2022_23": 276,
+      "enrollment_2023_24": 278,
+      "faculty": "Architecture",
+      "university": "University of Manitoba"
+    },
+    {
+      "enrollment_2018_19": 304,
+      "enrollment_2019_20": 326,
+      "enrollment_2020_21": 326,
+      "enrollment_2021_22": 299,
+      "enrollment_2022_23": 296,
+      "enrollment_2023_24": 302,
+      "faculty": "Art, School of",
+      "university": "University of Manitoba"
+    },
+    {
+      "enrollment_2018_19": 4253,
+      "enrollment_2019_20": 4404,
+      "enrollment_2020_21": 4765,
+      "enrollment_2021_22": 5024,
+      "enrollment_2022_23": 4651,
+      "enrollment_2023_24": 4453,
+      "faculty": "Arts",
+      "university": "University of Manitoba"
+    },
+    {
+      "enrollment_2018_19": 1717,
+      "enrollment_2019_20": 1754,
+      "enrollment_2020_21": 1863,
+      "enrollment_2021_22": 1866,
+      "enrollment_2022_23": 1962,
+      "enrollment_2023_24": 2053,
+      "faculty": "Business, Asper School of",
+      "university": "University of Manitoba"
+    },
+    {
+      "enrollment_2018_19": 62,
+      "enrollment_2019_20": 64,
+      "enrollment_2020_21": 59,
+      "enrollment_2021_22": 59,
+      "enrollment_2022_23": 60,
+      "enrollment_2023_24": 57,
+      "faculty": "School of Dental Hygiene",
+      "university": "University of Manitoba"
+    },
+    {
+      "enrollment_2018_19": 148,
+      "enrollment_2019_20": 147,
+      "enrollment_2020_21": 127,
+      "enrollment_2021_22": 128,
+      "enrollment_2022_23": 124,
+      "enrollment_2023_24": 122,
+      "faculty": "College of Dentistry",
+      "university": "University of Manitoba"
+    },
+    {
+      "enrollment_2018_19": 590,
+      "enrollment_2019_20": 647,
+      "enrollment_2020_21": 690,
+      "enrollment_2021_22": 658,
+      "enrollment_2022_23": 592,
+      "enrollment_2023_24": 554,
+      "faculty": "Education",
+      "university": "University of Manitoba"
+    },
+    {
+      "enrollment_2018_19": 1807,
+      "enrollment_2019_20": 1828,
+      "enrollment_2020_21": 1885,
+      "enrollment_2021_22": 1877,
+      "enrollment_2022_23": 1819,
+      "enrollment_2023_24": 1851,
+      "faculty": "Engineering",
+      "university": "University of Manitoba"
+    },
+    {
+      "enrollment_2018_19": 445,
+      "enrollment_2019_20": 415,
+      "enrollment_2020_21": 469,
+      "enrollment_2021_22": 453,
+      "enrollment_2022_23": 423,
+      "enrollment_2023_24": 405,
+      "faculty": "Faculty of Env, Earth, & Res",
+      "university": "University of Manitoba"
+    },
+    {
+      "enrollment_2018_19": 879,
+      "enrollment_2019_20": 848,
+      "enrollment_2020_21": 783,
+      "enrollment_2021_22": 632,
+      "enrollment_2022_23": 668,
+      "enrollment_2023_24": 650,
+      "faculty": "Extended Education",
+      "university": "University of Manitoba"
+    },
+    {
+      "enrollment_2018_19": 132,
+      "enrollment_2019_20": 164,
+      "enrollment_2020_21": 188,
+      "enrollment_2021_22": 200,
+      "enrollment_2022_23": 216,
+      "enrollment_2023_24": 194,
+      "faculty": "Faculty of Health Sciences, Rady Faculty of",
+      "university": "University of Manitoba"
+    },
+    {
+      "enrollment_2018_19": 462,
+      "enrollment_2019_20": 469,
+      "enrollment_2020_21": 495,
+      "enrollment_2021_22": 523,
+      "enrollment_2022_23": 527,
+      "enrollment_2023_24": 521,
+      "faculty": "Kinesiology and Recreation Management",
+      "university": "University of Manitoba"
+    },
+    {
+      "enrollment_2018_19": 325,
+      "enrollment_2019_20": 320,
+      "enrollment_2020_21": 323,
+      "enrollment_2021_22": 321,
+      "enrollment_2022_23": 325,
+      "enrollment_2023_24": 321,
+      "faculty": "Law",
+      "university": "University of Manitoba"
+    },
+    {
+      "enrollment_2018_19": 778,
+      "enrollment_2019_20": 730,
+      "enrollment_2020_21": 494,
+      "enrollment_2021_22": 472,
+      "enrollment_2022_23": 455,
+      "enrollment_2023_24": 465,
+      "faculty": "College of Medicine",
+      "university": "University of Manitoba"
+    },
+    {
+      "enrollment_2018_19": 45,
+      "enrollment_2019_20": 47,
+      "enrollment_2020_21": 48,
+      "enrollment_2021_22": 50,
+      "enrollment_2022_23": 49,
+      "enrollment_2023_24": 51,
+      "faculty": "College of Rehabilitation Sci",
+      "university": "University of Manitoba"
+    },
+    {
+      "enrollment_2018_19": 201,
+      "enrollment_2019_20": 200,
+      "enrollment_2020_21": 215,
+      "enrollment_2021_22": 212,
+      "enrollment_2022_23": 188,
+      "enrollment_2023_24": 187,
+      "faculty": "Music - Marcel A. Desautels Faculty of",
+      "university": "University of Manitoba"
+    },
+    {
+      "enrollment_2018_19": 750,
+      "enrollment_2019_20": 741,
+      "enrollment_2020_21": 748,
+      "enrollment_2021_22": 829,
+      "enrollment_2022_23": 840,
+      "enrollment_2023_24": 948,
+      "faculty": "College of Nursing",
+      "university": "University of Manitoba"
+    },
+    {
+      "enrollment_2018_19": 205,
+      "enrollment_2019_20": 149,
+      "enrollment_2020_21": 143,
+      "enrollment_2021_22": 134,
+      "enrollment_2022_23": 189,
+      "enrollment_2023_24": 192,
+      "faculty": "College of Pharmacy",
+      "university": "University of Manitoba"
+    },
+    {
+      "enrollment_2018_19": 5290,
+      "enrollment_2019_20": 5653,
+      "enrollment_2020_21": 6180,
+      "enrollment_2021_22": 6467,
+      "enrollment_2022_23": 6281,
+      "enrollment_2023_24": 6527,
+      "faculty": "Science",
+      "university": "University of Manitoba"
+    },
+    {
+      "enrollment_2018_19": 718,
+      "enrollment_2019_20": 705,
+      "enrollment_2020_21": 677,
+      "enrollment_2021_22": 708,
+      "enrollment_2022_23": 659,
+      "enrollment_2023_24": 626,
+      "faculty": "Social Work",
+      "university": "University of Manitoba"
+    },
+    {
+      "enrollment_2018_19": 4852,
+      "enrollment_2019_20": 4985,
+      "enrollment_2020_21": 4866,
+      "enrollment_2021_22": 4287,
+      "enrollment_2022_23": 3737,
+      "enrollment_2023_24": 4400,
+      "faculty": "University",
+      "university": "University of Manitoba"
+    },
+    {
+      "enrollment_2018_19": 3134,
+      "enrollment_2019_20": 3159,
+      "enrollment_2020_21": 3034,
+      "enrollment_2021_22": 2815,
+      "enrollment_2022_23": 2673,
+      "enrollment_2023_24": 2716,
+      "faculty": "Arts",
+      "university": "University of Winnipeg"
+    },
+    {
+      "enrollment_2018_19": 1233,
+      "enrollment_2019_20": 1370,
+      "enrollment_2020_21": 1359,
+      "enrollment_2021_22": 1337,
+      "enrollment_2022_23": 1209,
+      "enrollment_2023_24": 1194,
+      "faculty": "Business and Economics",
+      "university": "University of Winnipeg"
+    },
+    {
+      "enrollment_2018_19": 1590,
+      "enrollment_2019_20": 1656,
+      "enrollment_2020_21": 1736,
+      "enrollment_2021_22": 1836,
+      "enrollment_2022_23": 1724,
+      "enrollment_2023_24": 1707,
+      "faculty": "Education",
+      "university": "University of Winnipeg"
+    },
+    {
+      "enrollment_2018_19": 577,
+      "enrollment_2019_20": 567,
+      "enrollment_2020_21": 565,
+      "enrollment_2021_22": 539,
+      "enrollment_2022_23": 491,
+      "enrollment_2023_24": 450,
+      "faculty": "Kinesiology",
+      "university": "University of Winnipeg"
+    },
+    {
+      "enrollment_2018_19": 1777,
+      "enrollment_2019_20": 2019,
+      "enrollment_2020_21": 2136,
+      "enrollment_2021_22": 2147,
+      "enrollment_2022_23": 1991,
+      "enrollment_2023_24": 2029,
+      "faculty": "Science",
+      "university": "University of Winnipeg"
+    },
+    {
+      "enrollment_2018_19": 826,
+      "enrollment_2019_20": 644,
+      "enrollment_2020_21": 566,
+      "enrollment_2021_22": 628,
+      "enrollment_2022_23": 585,
+      "enrollment_2023_24": 680,
+      "faculty": "Other",
+      "university": "University of Winnipeg"
+    },
+    {
+      "enrollment_2018_19": 1053,
+      "enrollment_2019_20": 987,
+      "enrollment_2020_21": 1011,
+      "enrollment_2021_22": 975,
+      "enrollment_2022_23": 907,
+      "enrollment_2023_24": 928,
+      "faculty": "Arts",
+      "university": "Brandon University"
+    },
+    {
+      "enrollment_2018_19": 700,
+      "enrollment_2019_20": 692,
+      "enrollment_2020_21": 634,
+      "enrollment_2021_22": 637,
+      "enrollment_2022_23": 615,
+      "enrollment_2023_24": 644,
+      "faculty": "Science",
+      "university": "Brandon University"
+    },
+    {
+      "enrollment_2018_19": 390,
+      "enrollment_2019_20": 419,
+      "enrollment_2020_21": 396,
+      "enrollment_2021_22": 381,
+      "enrollment_2022_23": 332,
+      "enrollment_2023_24": 321,
+      "faculty": "Education",
+      "university": "Brandon University"
+    },
+    {
+      "enrollment_2018_19": 135,
+      "enrollment_2019_20": 138,
+      "enrollment_2020_21": 148,
+      "enrollment_2021_22": 139,
+      "enrollment_2022_23": 109,
+      "enrollment_2023_24": 114,
+      "faculty": "Music",
+      "university": "Brandon University"
+    },
+    {
+      "enrollment_2018_19": 798,
+      "enrollment_2019_20": 796,
+      "enrollment_2020_21": 746,
+      "enrollment_2021_22": 692,
+      "enrollment_2022_23": 639,
+      "enrollment_2023_24": 679,
+      "faculty": "Health Studies",
+      "university": "Brandon University"
+    },
+    {
+      "enrollment_2018_19": 0,
+      "enrollment_2019_20": 0,
+      "enrollment_2020_21": 0,
+      "enrollment_2021_22": 0,
+      "enrollment_2022_23": 1,
+      "enrollment_2023_24": 1,
+      "faculty": "Non-Faculty",
+      "university": "Brandon University"
+    },
+    {
+      "enrollment_2018_19": 237,
+      "enrollment_2019_20": 224,
+      "enrollment_2020_21": 250,
+      "enrollment_2021_22": 250,
+      "enrollment_2022_23": 215,
+      "enrollment_2023_24": 196,
+      "faculty": "Arts",
+      "university": "Université de Saint-Boniface"
+    },
+    {
+      "enrollment_2018_19": 56,
+      "enrollment_2019_20": 53,
+      "enrollment_2020_21": 45,
+      "enrollment_2021_22": 41,
+      "enrollment_2022_23": 46,
+      "enrollment_2023_24": 49,
+      "faculty": "École d'administration des affaires",
+      "university": "Université de Saint-Boniface"
+    },
+    {
+      "enrollment_2018_19": 119,
+      "enrollment_2019_20": 120,
+      "enrollment_2020_21": 132,
+      "enrollment_2021_22": 142,
+      "enrollment_2022_23": 127,
+      "enrollment_2023_24": 127,
+      "faculty": "Science",
+      "university": "Université de Saint-Boniface"
+    },
+    {
+      "enrollment_2018_19": 169,
+      "enrollment_2019_20": 169,
+      "enrollment_2020_21": 173,
+      "enrollment_2021_22": 168,
+      "enrollment_2022_23": 198,
+      "enrollment_2023_24": 186,
+      "faculty": "Education",
+      "university": "Université de Saint-Boniface"
+    },
+    {
+      "enrollment_2018_19": 265,
+      "enrollment_2019_20": 270,
+      "enrollment_2020_21": 237,
+      "enrollment_2021_22": 212,
+      "enrollment_2022_23": 198,
+      "enrollment_2023_24": 208,
+      "faculty": "University",
+      "university": "Université de Saint-Boniface"
+    },
+    {
+      "enrollment_2018_19": 28,
+      "enrollment_2019_20": 29,
+      "enrollment_2020_21": 32,
+      "enrollment_2021_22": 33,
+      "enrollment_2022_23": 28,
+      "enrollment_2023_24": 26,
+      "faculty": "École de travail social",
+      "university": "Université de Saint-Boniface"
+    },
+    {
+      "enrollment_2018_19": 67,
+      "enrollment_2019_20": 61,
+      "enrollment_2020_21": 62,
+      "enrollment_2021_22": 56,
+      "enrollment_2022_23": 34,
+      "enrollment_2023_24": 23,
+      "faculty": "École de traduction",
+      "university": "Université de Saint-Boniface"
+    },
+    {
+      "enrollment_2018_19": 16,
+      "enrollment_2019_20": 10,
+      "enrollment_2020_21": 14,
+      "enrollment_2021_22": 17,
+      "enrollment_2022_23": 24,
+      "enrollment_2023_24": 11,
+      "faculty": "Éducation permanente",
+      "university": "Université de Saint-Boniface"
+    },
+    {
+      "enrollment_2018_19": 124,
+      "enrollment_2019_20": 133,
+      "enrollment_2020_21": 130,
+      "enrollment_2021_22": 132,
+      "enrollment_2022_23": 136,
+      "enrollment_2023_24": 127,
+      "faculty": "Sciences infirmières",
+      "university": "Université de Saint-Boniface"
+    },
+    {
+      "enrollment_2018_19": 293,
+      "enrollment_2019_20": 320,
+      "enrollment_2020_21": 306,
+      "enrollment_2021_22": 313,
+      "enrollment_2022_23": 239,
+      "enrollment_2023_24": 261,
+      "faculty": "Arts Business & Science",
+      "university": "University College of the North"
+    },
+    {
+      "enrollment_2018_19": 146,
+      "enrollment_2019_20": 184,
+      "enrollment_2020_21": 179,
+      "enrollment_2021_22": 190,
+      "enrollment_2022_23": 112,
+      "enrollment_2023_24": 161,
+      "faculty": "Education",
+      "university": "University College of the North"
+    },
+    {
+      "enrollment_2018_19": 115,
+      "enrollment_2019_20": 74,
+      "enrollment_2020_21": 97,
+      "enrollment_2021_22": 0,
+      "enrollment_2022_23": 0,
+      "enrollment_2023_24": 0,
+      "faculty": "Health",
+      "university": "University College of the North"
+    }
+  ]
+}
